@@ -44,6 +44,7 @@ const toggleMode = () => {
     right: 0;
     transition: 0.3s ease-in-out;
     transition-property: background, box-shadow;
+    z-index: 10;
 }
 
 .drop-down__desc {

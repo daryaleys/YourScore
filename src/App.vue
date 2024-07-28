@@ -1,10 +1,10 @@
 <script setup lang="ts">
-  import Header from './components/header/HeaderLayout.vue';
-
+  import HeaderLayout from './components/header/HeaderLayout.vue';
 </script>
 
 <template>
-  <Header />
+  <HeaderLayout />
+  <router-view></router-view>
 </template>
 
 <style lang="scss" scoped>

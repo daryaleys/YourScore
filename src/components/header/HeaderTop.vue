@@ -5,19 +5,25 @@ import ToggleTheme from "../toggle-theme/ToggleTheme.vue";
 
 <template>
     <div class="header__top">
-        <a href="/" class="header__logo">
-            <img width="216" height="35" src="@/assets/icons/logo.svg" alt="Логотип" class="logo" />
-        </a>
+        <div class="container header__container">
+            <a href="/" class="header__logo">
+                <img width="216" height="35" src="@/assets/icons/logo.svg" alt="Логотип" class="logo" />
+            </a>
 
-        <div class="header__actions">
-            <Search />
-            <ToggleTheme />
+            <div class="header__actions">
+                <Search />
+                <ToggleTheme />
+            </div>
         </div>
     </div>
 </template>
 
 <style lang="scss" scoped>
 .header__top {
+    background: #171717;
+}
+
+.header__container {
     padding: 6px;
     display: flex;
     align-items: center;
@@ -34,7 +40,7 @@ import ToggleTheme from "../toggle-theme/ToggleTheme.vue";
     .header__top {
         padding: 6px 10px;
     }
-    
+
     .logo {
         width: 180px;
         height: auto;
