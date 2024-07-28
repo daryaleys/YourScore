@@ -10,4 +10,11 @@
 body {
     background: var(--color-main-back);
     font-family: var(--main-font);
+    transition: background .3s ease-in-out;
+}
+
+.container {
+    max-width: var(--block-max-width);
+    margin: 0 auto;
+    position: relative;
 }

@@ -35,24 +35,3 @@
         --color-menu-hover: #333333;
     }
 }
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --color-main-cta: #bdff2e;
-        --color-dop-cta: #91d742;
-        --color-main-back: #171717;
-        --color-dop-back: #212121;
-        --color-hover: #1c1c1c;
-        --color-main-text: #f0f0f0;
-        --color-dop-text: #696d72;
-        --color-border: linear-gradient(90deg, rgba(128, 128, 128, 0) 0%, #808080 50%, rgba(128, 128, 128, 0) 100%);
-        --color-grey: #d1d1d1;
-        --color-light-grey: #262626;
-        --color-black: #0d0d0d;
-        --color-deep-grey: #e3e3e3;
-        --color-drop-shadow: #000000;
-        --color-error: #ff3838;
-        --color-allert: #ffba0a;
-        --color-menu-hover: #333333;
-    }
-}

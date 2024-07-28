@@ -1,21 +1,11 @@
 <script setup lang="ts">
-
-// const bodyElement = document.body;
-// console.log(bodyElement)
-
-const toggleMode = () => {
-  document.documentElement.classList.toggle('dark');
-}
+  import Header from './components/header/HeaderLayout.vue';
 
 </script>
 
 <template>
-  <button @click="toggleMode">Toggle Mode</button>
-  <h1>Тест</h1>
+  <Header />
 </template>
 
 <style lang="scss" scoped>
-  h1 {
-    color: var(--color-main-text);
-  }
 </style>
