@@ -1,0 +1,13 @@
+:root {
+    /* sizes */
+    --block-max-width: 1080px;
+
+    /* fonts */
+    --main-font: "Inter", sans-serif;
+    --second-font: "Montserrat", sans-serif;
+}
+
+body {
+    background: var(--color-main-back);
+    font-family: var(--main-font);
+}
