@@ -28,5 +28,6 @@
 <style lang="scss" scoped>
 .header__bottom {
     background: var(--color-dop-back);
+    transition: background .3s ease-in-out;
 }
 </style>

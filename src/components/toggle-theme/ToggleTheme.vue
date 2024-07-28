@@ -6,6 +6,10 @@ import { toggleTheme } from "@/script/helpers";
 const dropDownActive: Ref<boolean> = ref(false),
     isDarkMode: Ref<boolean> = ref(false);
 
+const closeDropDown = () => {
+    if (dropDownActive.value) dropDownActive.value = false;
+};
+
 const matchMedia = window.matchMedia("(prefers-color-scheme: dark)");
 
 // check on page load
@@ -20,18 +24,21 @@ matchMedia.addEventListener("change", (event) => {
         isDarkMode.value = event.matches;
         toggleTheme();
     }
-})
-
+});
 </script>
 
 <template>
     <div class="toggle-theme">
-        <button class="toggle-theme__button" @click="dropDownActive = !dropDownActive" :class="{ active: dropDownActive }">
+        <button class="toggle-theme__button" @click.self="dropDownActive = !dropDownActive" :class="{ active: dropDownActive }" id="toggleTheme">
             <span class="toggle-theme__line"></span>
         </button>
 
         <Transition>
-            <ToggleThemeDropDown v-if="dropDownActive" v-model="isDarkMode" />
+            <ToggleThemeDropDown
+                v-if="dropDownActive"
+                v-model="isDarkMode"
+                @closeDropDown="closeDropDown"
+            />
         </Transition>
     </div>
 </template>
@@ -75,6 +82,7 @@ matchMedia.addEventListener("change", (event) => {
     background: #fff;
     transition: 0.3s ease-in-out;
     transition-property: background, transform;
+    pointer-events: none;
 }
 
 .toggle-theme__line {

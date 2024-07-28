@@ -1,5 +1,9 @@
 <script setup lang="ts">
-import { toggleTheme } from '@/script/helpers';
+import { onClickOutside } from "@vueuse/core";
+import { toggleTheme } from "@/script/helpers";
+import { ref } from "vue";
+
+const emit = defineEmits(["closeDropDown"]);
 
 const isDarkMode = defineModel({ required: true });
 
@@ -7,10 +11,21 @@ const toggleMode = () => {
     isDarkMode.value = !isDarkMode.value;
     toggleTheme();
 };
+
+const dropDownElement = ref(null);
+onClickOutside(dropDownElement, (event) => {
+    const target = event.target as HTMLElement;
+    if (target && target.getAttribute('id') === 'toggleTheme') return
+    emit("closeDropDown");
+});
+
+window.addEventListener("keydown", (event) => {
+    if (event.key === 'Escape') emit("closeDropDown");
+})
 </script>
 
 <template>
-    <div class="drop-down">
+    <div class="drop-down" ref="dropDownElement">
         <div class="drop-down__desc">
             <template v-if="isDarkMode">
                 <img width="24" height="24" src="@/assets/icons/moon.svg" alt="Луна" class="drop-down__icon" />
@@ -65,7 +80,7 @@ const toggleMode = () => {
     height: 18px;
     border-radius: 30px;
     background: var(--color-deep-grey);
-    transition: .3s ease-in-out;
+    transition: 0.3s ease-in-out;
     transition-property: background;
 
     &::before {
