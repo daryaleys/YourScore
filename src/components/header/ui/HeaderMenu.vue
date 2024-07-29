@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, type Ref } from "vue";
-import HeaderLink from "./HeaderLink.vue";
+import { RouterLink } from "vue-router";
+import HeaderItem from "./HeaderItem.vue";
 
 type MenuItem = {
     id: number;
@@ -36,13 +37,17 @@ const menuItems: Ref<MenuItem[]> = ref([
     },
 ]);
 
-const active: Ref<number> = ref(0);
+const activeItem: Ref<number> = ref(0);
 </script>
 
 <template>
     <nav class="nav header__nav">
         <ul class="nav__list">
-            <HeaderLink v-for="item in menuItems" :key="item.id" v-bind="item" v-model="active" />
+            <li class="nav__item" v-for="item in menuItems" :key="item.id">
+                <RouterLink :to="item.route" class="nav__link" @click="activeItem = item.id">
+                    <HeaderItem :icon="item.icon" :name="item.name" :isActive="activeItem === item.id" />
+                </RouterLink>
+            </li>
         </ul>
     </nav>
 </template>
@@ -52,4 +57,14 @@ const active: Ref<number> = ref(0);
     display: flex;
     align-items: center;
 }
+
+.nav__item {
+    list-style: none;
+    flex-shrink: 0;
+}
+
+.nav__link {
+    text-decoration: none;
+}
+
 </style>

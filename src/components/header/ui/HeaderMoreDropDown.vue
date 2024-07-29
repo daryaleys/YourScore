@@ -7,8 +7,12 @@ const emit = defineEmits(["closeDropDown"]);
 
 const dropDownElement = ref(null);
 onClickOutside(dropDownElement, (event) => {
-    const target = event.target as HTMLElement;
-    if (target && target.getAttribute("id") === "toggleMoreBtn") return;
+    const target = event.target as HTMLElement | null,
+        targetParent = target?.parentElement;
+    const targetId = target?.getAttribute("id"),
+        targetParentId = targetParent?.getAttribute("id");
+
+    if ((target && targetId === "toggleMore") || (targetParent && targetParentId === "toggleMore")) return;
     emit("closeDropDown");
 });
 

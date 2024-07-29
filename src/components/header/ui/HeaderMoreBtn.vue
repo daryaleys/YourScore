@@ -12,11 +12,9 @@ const closeDropDown = () => {
 </script>
 
 <template>
-    <div class="header__item" :class="{ active: dropDownActive }">
-        <button class="header__link header__more-btn" id="toggleMoreBtn" @click.stop="dropDownActive = !dropDownActive">
-            <HeaderItem :icon="getImageUrl('/src/assets/icons/more.svg')" name="Больше"></HeaderItem>
-        </button>
-    </div>
+    <button class="header-more-btn" id="toggleMore" @click="dropDownActive = !dropDownActive">
+        <HeaderItem :icon="getImageUrl('/src/assets/icons/more.svg')" name="Больше" :isActive="dropDownActive"></HeaderItem>
+    </button>
 
     <Transition>
         <HeaderMoreDropDown v-if="dropDownActive" @closeDropDown="closeDropDown" />
