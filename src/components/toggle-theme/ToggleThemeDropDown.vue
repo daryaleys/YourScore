@@ -9,6 +9,7 @@ const isDarkMode = defineModel({ required: true });
 
 const toggleMode = () => {
     isDarkMode.value = !isDarkMode.value;
+    localStorage.setItem("theme", isDarkMode.value ? "light" : "dark");
     toggleTheme();
 };
 

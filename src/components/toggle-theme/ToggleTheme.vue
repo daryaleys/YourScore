@@ -11,9 +11,10 @@ const closeDropDown = () => {
 };
 
 const matchMedia = window.matchMedia("(prefers-color-scheme: dark)");
+const savedTheme = localStorage.getItem("theme");
 
 // check on page load
-if (matchMedia.matches) {
+if ((!savedTheme && matchMedia.matches) || (savedTheme === "dark")) {
     isDarkMode.value = true;
     toggleTheme();
 }
