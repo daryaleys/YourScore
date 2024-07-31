@@ -1,6 +1,10 @@
 <script setup lang="ts">
+import { ref, type Ref } from "vue";
 import HeaderMenu from "./ui/HeaderMenu.vue";
 import HeaderMoreBtn from "./ui/HeaderMoreBtn.vue";
+
+
+
 </script>
 
 <template>
