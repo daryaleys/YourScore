@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, type Ref } from "vue";
+import { onMounted, ref, type Ref } from "vue";
 import { getImageUrl } from "@/script/helpers";
 import HeaderItem from "./HeaderItem.vue";
 import HeaderMoreDropDown from "./HeaderMoreDropDown.vue";
@@ -9,12 +9,23 @@ const dropDownActive: Ref<boolean> = ref(false);
 const closeDropDown = () => {
     if (dropDownActive.value) dropDownActive.value = false;
 };
+
+const btnElement: Ref<Element | null> = ref(null);
+let btnWidth = defineModel();
+
+const updateBtnWidth = () => {
+        if (btnElement.value) btnWidth.value = btnElement.value.clientWidth;
+    },
+    resizeObserver = new ResizeObserver(updateBtnWidth);
+
+onMounted(() => {
+    if (btnElement.value) resizeObserver.observe(btnElement.value);
+});
 </script>
 
 <template>
-    <button class="header-more-btn" id="toggleMore" @click="dropDownActive = !dropDownActive">
-        <HeaderItem :icon="getImageUrl('/src/assets/icons/more.svg')" title="Больше" :isActive="dropDownActive">
-        </HeaderItem>
+    <button class="header-more-btn" id="toggleMore" @click="dropDownActive = !dropDownActive" ref="btnElement">
+        <HeaderItem :icon="getImageUrl('/src/assets/icons/more.svg')" title="Больше" :isActive="dropDownActive"> </HeaderItem>
     </button>
 
     <Transition>

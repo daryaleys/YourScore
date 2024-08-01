@@ -1,28 +1,17 @@
 <script setup lang="ts">
-import { useWindowSize, useResizeObserver } from '@vueuse/core'
+import { useWindowSize } from "@vueuse/core";
 import HeaderMenu from "./ui/HeaderMenu.vue";
 import HeaderMoreBtn from "./ui/HeaderMoreBtn.vue";
 import type { HeaderNavRouteNames } from "@/main";
 import { getImageUrl } from "@/script/helpers";
-import { onMounted, reactive, ref, toRefs, watch, type Ref, type VNodeRef } from 'vue';
-
-const headerMenuElement = ref(null), headerBtnElement = ref(null);
-const windowWidth = useWindowSize().width;
-
-watch(windowWidth, (value) => {
-    console.log(value, headerMenuElement.value?.getBoundingClientRect)
-})
-
-onMounted(() => {
-    console.log(headerMenuElement.value?.getBoundingClientRect)
-})
+import { nextTick, onMounted, ref, watch } from "vue";
 
 type MenuItem = {
     title: string;
     icon: string;
 };
 
-export type MenuItems = Record<HeaderNavRouteNames, MenuItem>
+export type MenuItems = Record<HeaderNavRouteNames, MenuItem>;
 
 const menuItems: MenuItems = {
     football: {
@@ -43,16 +32,25 @@ const menuItems: MenuItems = {
     },
 };
 
-const dropDownMenuItems: Partial<MenuItems> = {
-};
+const dropDownMenuItems: Partial<MenuItems> = {};
 
+const headerMenuElement = ref(null),
+    headerBtnElement = ref(null);
+const windowWidth = useWindowSize().width;
+
+const menuWidth = ref(0),
+    btnWidth = ref(0);
+
+watch(windowWidth, (value) => {
+    console.log(value, menuWidth.value, btnWidth.value);
+});
 </script>
 
 <template>
     <div class="header__bottom">
         <div class="container header__container">
-            <HeaderMenu :menuItems ref="headerMenuElement" />
-            <HeaderMoreBtn ref="headerBtnElement" />
+            <HeaderMenu ref="headerMenuElement" :menuItems v-model="menuWidth" />
+            <HeaderMoreBtn ref="headerBtnElement" v-model="btnWidth" />
         </div>
     </div>
 </template>
