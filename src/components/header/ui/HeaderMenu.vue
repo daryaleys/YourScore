@@ -1,50 +1,20 @@
 <script setup lang="ts">
-import { ref, type Ref } from "vue";
 import { RouterLink } from "vue-router";
 import HeaderItem from "./HeaderItem.vue";
+import type { MenuItems } from "../HeaderBottom.vue";
 
-export type MenuItem = {
-    id: number;
-    name: string;
-    icon: string;
-    route: string;
-};
-
-
-const menuItems: Ref<MenuItem[]> = ref([
-    {
-        id: 0,
-        name: "Футбол",
-        icon: "/src/assets/icons/football.svg",
-        route: "football",
-    },
-    {
-        id: 1,
-        name: "Хоккей",
-        icon: "/src/assets/icons/hockey.svg",
-        route: "hockey",
-    },
-    {
-        id: 2,
-        name: "Бокс",
-        icon: "/src/assets/icons/boxing.svg",
-        route: "boxing",
-    },
-    {
-        id: 3,
-        name: "MMA",
-        icon: "/src/assets/icons/mma.svg",
-        route: "mma",
-    },
-]);
+defineProps<{
+    menuItems: MenuItems
+}>()
 </script>
 
 <template>
     <nav class="nav header__nav">
         <ul class="nav__list">
-            <li class="nav__item" v-for="item in menuItems" :key="item.id">
-                <RouterLink :to="item.route" class="nav__link" v-slot="{ isActive }">
-                    <HeaderItem :icon="item.icon" :name="item.name" :isActive="isActive || ($route.fullPath === '/' && item.route === 'football')" />
+            <li class="nav__item" v-for="(item, route) in menuItems">
+                <RouterLink :to="route" class="nav__link" v-slot="{ isActive }">
+                    <HeaderItem :icon="item.icon" :title="item.title"
+                        :isActive="isActive || ($route.fullPath === '/' && route === 'football')" />
                 </RouterLink>
             </li>
         </ul>
@@ -65,5 +35,4 @@ const menuItems: Ref<MenuItem[]> = ref([
 .nav__link {
     text-decoration: none;
 }
-
 </style>

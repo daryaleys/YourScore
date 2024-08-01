@@ -21,16 +21,13 @@ if ((!savedTheme && matchMedia.matches) || (savedTheme === "dark")) {
 
 <template>
     <div class="toggle-theme">
-        <button class="toggle-theme__button" @click.self="dropDownActive = !dropDownActive" :class="{ active: dropDownActive }" id="toggleTheme">
+        <button class="toggle-theme__button" @click="dropDownActive = !dropDownActive"
+            :class="{ active: dropDownActive }" id="toggleTheme">
             <span class="toggle-theme__line"></span>
         </button>
 
         <Transition>
-            <ToggleThemeDropDown
-                v-if="dropDownActive"
-                v-model="isDarkMode"
-                @closeDropDown="closeDropDown"
-            />
+            <ToggleThemeDropDown v-if="dropDownActive" v-model="isDarkMode" @closeDropDown="closeDropDown" />
         </Transition>
     </div>
 </template>

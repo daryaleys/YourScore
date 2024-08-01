@@ -5,14 +5,14 @@ import { getImageUrl } from "@/script/helpers";
 defineProps<{
     isActive: boolean;
     icon: string;
-    name: string;
+    title: string;
 }>();
 </script>
 
 <template>
     <div class="header-item" :class="{ active: isActive }">
         <inline-svg :src="getImageUrl(icon)" class="header-item__icon" />
-        <span class="header-item__text">{{ name }}</span>
+        <span class="header-item__text">{{ title }}</span>
     </div>
 </template>
 
@@ -33,7 +33,7 @@ defineProps<{
     &.active {
         background: var(--color-dop-cta);
 
-        & .header-item__icon > * {
+        & .header-item__icon>* {
             stroke: #171717;
         }
 

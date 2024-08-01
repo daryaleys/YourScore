@@ -13,7 +13,8 @@ const closeDropDown = () => {
 
 <template>
     <button class="header-more-btn" id="toggleMore" @click="dropDownActive = !dropDownActive">
-        <HeaderItem :icon="getImageUrl('/src/assets/icons/more.svg')" name="Больше" :isActive="dropDownActive"></HeaderItem>
+        <HeaderItem :icon="getImageUrl('/src/assets/icons/more.svg')" title="Больше" :isActive="dropDownActive">
+        </HeaderItem>
     </button>
 
     <Transition>
