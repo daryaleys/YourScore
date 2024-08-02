@@ -33,7 +33,7 @@ defineProps<{
     &.active {
         background: var(--color-dop-cta);
 
-        & .header-item__icon>* {
+        & .header-item__icon > * {
             stroke: #171717;
         }
 
@@ -60,5 +60,41 @@ defineProps<{
     line-height: 120%;
     color: var(--color-main-text);
     transition: color 0.3s ease-in-out;
+}
+
+@media screen and (width <= 768px) {
+    .header-item {
+        flex-direction: column;
+        clip-path: none;
+        padding: 0;
+
+        &:hover {
+            background: none;
+
+            & .header-item__text {
+                background: var(--color-menu-hover);
+            }
+        }
+
+        &.active {
+            background: none;
+
+            & .header-item__text {
+                background: var(--color-dop-cta);
+            }
+        }
+    }
+
+    .header-item__icon {
+        width: 30px;
+        height: 30px;
+    }
+
+    .header-item__text {
+        font-size: 14px;
+        padding: 0 7px;
+        clip-path: polygon(7px 0%, 100% 0%, calc(100% - 7px) 100%, 0% 100%);
+        transition: background .3s ease-in-out;
+    }
 }
 </style>

@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import Search from "../search/Search.vue";
-import ToggleTheme from "../toggle-theme/ToggleTheme.vue";
+import Search from "../../search/Search.vue";
+import ToggleTheme from "../../toggle-theme/ToggleTheme.vue";
 </script>
 
 <template>
@@ -37,7 +37,7 @@ import ToggleTheme from "../toggle-theme/ToggleTheme.vue";
 }
 
 @media screen and (width <= 1080px) {
-    .header__top {
+    .header__container {
         padding: 6px 10px;
     }
 

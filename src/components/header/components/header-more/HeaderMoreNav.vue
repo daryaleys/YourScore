@@ -1,0 +1,70 @@
+<script setup lang="ts">
+import InlineSvg from "vue-inline-svg";
+import type { MenuItem } from "../../components/HeaderBottom.vue";
+import { getImageUrl } from "@/script/helpers";
+
+defineProps<{
+    menuItems: MenuItem[];
+}>();
+</script>
+
+<template>
+    <nav class="more-nav">
+        <ul class="more-nav__list">
+            <li class="more-nav__item" v-for="item in menuItems">
+                <RouterLink :to="item.route" class="more-nav__link" v-slot="{ isActive }">
+                    <div class="more-nav__wrap" :class="{ active: isActive }">
+                        <inline-svg :src="getImageUrl(item.icon)" class="more-nav__icon" />
+                        <span class="more-nav__text">{{ item.title }}</span>
+                    </div>
+                </RouterLink>
+            </li>
+        </ul>
+    </nav>
+</template>
+
+<style lang="scss" scoped>
+.more-nav__list {
+    display: flex;
+    flex-direction: column;
+}
+
+.more-nav__link {
+    text-decoration: none;
+}
+
+.more-nav__wrap {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-radius: 6px;
+    transition: background 0.3s ease-in-out;
+
+    &:hover {
+        background: var(--color-menu-hover);
+    }
+
+    &.active {
+        background: var(--color-dop-cta);
+    }
+}
+
+.more-nav__text {
+    font-family: var(--second-font);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 120%;
+    color: var(--color-main-text);
+}
+
+@media screen and (width <= 768px) {
+    .more-nav__icon {
+        width: 30px;
+        height: 30px;
+    }
+
+    .more-nav__text {
+        font-size: 14px;
+    }
+}
+</style>
