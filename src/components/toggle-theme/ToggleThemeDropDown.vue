@@ -116,10 +116,4 @@ window.addEventListener("keydown", (event) => {
     left: 0;
     cursor: pointer;
 }
-
-@media screen and (width <= 1080px) {
-    .drop-down {
-        right: 10px;
-    }
-}
 </style>

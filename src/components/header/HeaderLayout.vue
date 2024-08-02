@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import HeaderTop from "./HeaderTop.vue";
-import HeaderBottom from "./HeaderBottom.vue";
+import HeaderTop from "./components/HeaderTop.vue";
+import HeaderBottom from "./components/HeaderBottom.vue";
 </script>
 
 <template>

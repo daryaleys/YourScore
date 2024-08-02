@@ -1,8 +1,13 @@
 <script setup lang="ts">
 import { onMounted, ref, type Ref } from "vue";
 import { getImageUrl } from "@/script/helpers";
-import HeaderItem from "./HeaderItem.vue";
+import HeaderItem from "../../ui/HeaderItem.vue";
 import HeaderMoreDropDown from "./HeaderMoreDropDown.vue";
+import type { MenuItem } from "../../components/HeaderBottom.vue";
+
+defineProps<{
+    menuItems: MenuItem[];
+}>();
 
 const dropDownActive: Ref<boolean> = ref(false);
 
@@ -29,7 +34,7 @@ onMounted(() => {
     </button>
 
     <Transition>
-        <HeaderMoreDropDown v-if="dropDownActive" @closeDropDown="closeDropDown" />
+        <HeaderMoreDropDown v-if="dropDownActive" :menuItems @closeDropDown="closeDropDown" />
     </Transition>
 </template>
 

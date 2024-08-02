@@ -1,7 +1,12 @@
 <script setup lang="ts">
 import { onClickOutside } from "@vueuse/core";
-import { toggleTheme } from "@/script/helpers";
 import { ref } from "vue";
+import type { MenuItem } from "../../components/HeaderBottom.vue";
+import HeaderMoreNav from "./HeaderMoreNav.vue";
+
+defineProps<{
+    menuItems: MenuItem[];
+}>();
 
 const emit = defineEmits(["closeDropDown"]);
 
@@ -23,12 +28,15 @@ window.addEventListener("keydown", (event) => {
 
 <template>
     <div class="drop-down" ref="dropDownElement">
-        <span class="drop-down__text">Скоро появятся новые виды спорта</span>
+        <HeaderMoreNav v-if="menuItems.length" :menuItems="menuItems" />
+        <span v-else class="drop-down__text">Скоро появятся новые виды спорта</span>
     </div>
 </template>
 
 <style lang="scss" scoped>
 .drop-down {
+    min-width: 220px;
+    max-width: 100%;
     background: var(--color-dop-back);
     padding: 10px;
     border-radius: 10px;
