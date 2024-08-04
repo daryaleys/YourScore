@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import Search from "../../search/Search.vue";
-import ToggleTheme from "../../toggle-theme/ToggleTheme.vue";
+import HeaderBurger from "./header-burger/HeaderBurger.vue";
 </script>
 
 <template>
@@ -12,7 +12,7 @@ import ToggleTheme from "../../toggle-theme/ToggleTheme.vue";
 
             <div class="header__actions">
                 <Search />
-                <ToggleTheme />
+                <HeaderBurger />
             </div>
         </div>
     </div>

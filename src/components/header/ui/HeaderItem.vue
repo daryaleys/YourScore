@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import InlineSvg from "vue-inline-svg";
-import { getImageUrl } from "@/script/helpers";
+import { getImageUrl } from "@/helpers/helpers";
 
 defineProps<{
     isActive: boolean;
@@ -79,6 +79,10 @@ defineProps<{
         &.active {
             background: none;
 
+            & .header-item__icon > * {
+                stroke: var(--color-main-text);
+            }
+
             & .header-item__text {
                 background: var(--color-dop-cta);
             }
@@ -94,7 +98,7 @@ defineProps<{
         font-size: 14px;
         padding: 0 7px;
         clip-path: polygon(7px 0%, 100% 0%, calc(100% - 7px) 100%, 0% 100%);
-        transition: background .3s ease-in-out;
+        transition: background 0.3s ease-in-out;
     }
 }
 </style>

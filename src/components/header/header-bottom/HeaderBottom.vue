@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { useWindowSize } from "@vueuse/core";
-import HeaderMainNav from "./nav/HeaderMainNav.vue";
+import HeaderMainNav from "./header-main-nav/HeaderMainNav.vue";
 import HeaderMore from "./header-more/HeaderMore.vue";
 import type { HeaderNavRouteNames } from "@/main";
-import { getImageUrl } from "@/script/helpers";
+import { getImageUrl } from "@/helpers/helpers";
 import { computed, ref, watch, type Ref } from "vue";
 
 export type MenuItem = {
@@ -75,6 +75,7 @@ commonMenuItems.forEach((item) => {
 
 watch(menuWidth, updateMenu);
 watch(windowWidth, updateMenu);
+
 </script>
 
 <template>

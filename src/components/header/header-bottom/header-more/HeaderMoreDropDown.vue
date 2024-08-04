@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { onClickOutside } from "@vueuse/core";
 import { ref } from "vue";
-import type { MenuItem } from "../../components/HeaderBottom.vue";
+import type { MenuItem } from "../HeaderBottom.vue";
 import HeaderMoreNav from "./HeaderMoreNav.vue";
 
 defineProps<{

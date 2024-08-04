@@ -1,39 +1,30 @@
 <script setup lang="ts">
 import { ref, type Ref } from "vue";
-import ToggleThemeDropDown from "./ToggleThemeDropDown.vue";
-import { toggleTheme } from "@/script/helpers";
+import HeaderBurgerDropDown from "./HeaderBurgerDropDown.vue";
 
-const dropDownActive: Ref<boolean> = ref(false),
-    isDarkMode: Ref<boolean> = ref(false);
+const dropDownActive: Ref<boolean> = ref(false)
 
 const closeDropDown = () => {
     if (dropDownActive.value) dropDownActive.value = false;
 };
 
-const matchMedia = window.matchMedia("(prefers-color-scheme: dark)");
-const savedTheme = localStorage.getItem("theme");
-
-if ((!savedTheme && matchMedia.matches) || (savedTheme === "dark")) {
-    isDarkMode.value = true;
-    toggleTheme();
-}
 </script>
 
 <template>
-    <div class="toggle-theme">
-        <button class="toggle-theme__button" @click="dropDownActive = !dropDownActive"
-            :class="{ active: dropDownActive }" id="toggleTheme">
-            <span class="toggle-theme__line"></span>
+    <div class="burger">
+        <button class="burger__button" @click="dropDownActive = !dropDownActive"
+            :class="{ active: dropDownActive }" id="burger">
+            <span class="burger__line"></span>
         </button>
 
         <Transition>
-            <ToggleThemeDropDown v-if="dropDownActive" v-model="isDarkMode" @closeDropDown="closeDropDown" />
+            <HeaderBurgerDropDown v-if="dropDownActive" @closeDropDown="closeDropDown" />
         </Transition>
     </div>
 </template>
 
 <style lang="scss" scoped>
-.toggle-theme__button {
+.burger__button {
     width: 40px;
     height: 40px;
     display: flex;
@@ -46,7 +37,7 @@ if ((!savedTheme && matchMedia.matches) || (savedTheme === "dark")) {
     &.active {
         background: var(--color-dop-cta);
 
-        .toggle-theme__line {
+        .burger__line {
             background: transparent;
 
             &::before {
@@ -60,9 +51,9 @@ if ((!savedTheme && matchMedia.matches) || (savedTheme === "dark")) {
     }
 }
 
-.toggle-theme__line,
-.toggle-theme__line::before,
-.toggle-theme__line::after {
+.burger__line,
+.burger__line::before,
+.burger__line::after {
     content: "";
     display: block;
     width: 22px;
@@ -74,7 +65,7 @@ if ((!savedTheme && matchMedia.matches) || (savedTheme === "dark")) {
     pointer-events: none;
 }
 
-.toggle-theme__line {
+.burger__line {
     &::before {
         transform: translateY(-8px);
     }

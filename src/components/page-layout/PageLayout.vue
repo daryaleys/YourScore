@@ -1,17 +1,12 @@
 <script setup lang="ts">
-import SideBar from "../sidebar/SideBar.vue";
+import SideBarList from "../sidebar/SideBarList.vue";
 import MainContent from "../main-content/MainContent.vue";
 
-const props = defineProps<{
-    myLeagues: { id: number; name: string }[];
-}>();
-
-console.log()
 </script>
 
 <template>
     <div class="page-layout">
-        <SideBar :myLeagues />
+        <SideBarList />
         <MainContent />
         <div></div>
     </div>

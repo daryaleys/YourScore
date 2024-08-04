@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { onMounted, ref, type Ref } from "vue";
-import { getImageUrl } from "@/script/helpers";
+import { getImageUrl } from "@/helpers/helpers";
 import HeaderItem from "../../ui/HeaderItem.vue";
 import HeaderMoreDropDown from "./HeaderMoreDropDown.vue";
-import type { MenuItem } from "../../components/HeaderBottom.vue";
+import type { MenuItem } from "../HeaderBottom.vue";
 
 defineProps<{
     menuItems: MenuItem[];
@@ -11,12 +11,12 @@ defineProps<{
 
 const dropDownActive: Ref<boolean> = ref(false);
 
+const btnElement: Ref<Element | null> = ref(null);
+let btnWidth = defineModel();
+
 const closeDropDown = () => {
     if (dropDownActive.value) dropDownActive.value = false;
 };
-
-const btnElement: Ref<Element | null> = ref(null);
-let btnWidth = defineModel();
 
 const updateBtnWidth = () => {
         if (btnElement.value) btnWidth.value = btnElement.value.clientWidth;

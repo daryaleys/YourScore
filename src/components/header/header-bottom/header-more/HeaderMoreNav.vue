@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import InlineSvg from "vue-inline-svg";
-import type { MenuItem } from "../../components/HeaderBottom.vue";
-import { getImageUrl } from "@/script/helpers";
+import type { MenuItem } from "../HeaderBottom.vue";
+import { getImageUrl } from "@/helpers/helpers";
 
 defineProps<{
     menuItems: MenuItem[];
