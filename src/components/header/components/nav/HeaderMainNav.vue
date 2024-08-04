@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { RouterLink } from "vue-router";
 import HeaderItem from "../../ui/HeaderItem.vue";
-// import type { MenuItems } from "../HeaderBottom.vue";
 import { onMounted, ref, type ModelRef, type Ref } from "vue";
 import { useResizeObserver, type MaybeComputedElementRef, type MaybeElement } from "@vueuse/core";
 import type { MenuItem } from "../../components/HeaderBottom.vue";
