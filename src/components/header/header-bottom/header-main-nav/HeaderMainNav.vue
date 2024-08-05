@@ -11,7 +11,7 @@ defineProps<{
 
 const itemRefs: Ref<MaybeComputedElementRef<MaybeElement>[]> = ref([]);
 
-const itemWidths: ModelRef<number[]> = defineModel({required: true});
+const itemWidths: ModelRef<number[]> = defineModel({ required: true });
 
 onMounted(() => {
     itemRefs.value.forEach((el, index) => {
@@ -28,7 +28,8 @@ onMounted(() => {
         <ul class="nav__list">
             <li class="nav__item" v-for="item in menuItems" ref="itemRefs">
                 <RouterLink :to="item.route" class="nav__link" v-slot="{ isActive }">
-                    <HeaderItem :icon="item.icon" :title="item.title" :isActive="isActive || ($route.fullPath === '/' && item.route === 'football')" />
+                    <HeaderItem :icon="item.icon" :title="item.title"
+                        :isActive="isActive || ($route.fullPath === '/' && item.route === 'football')" />
                 </RouterLink>
             </li>
         </ul>
@@ -42,7 +43,6 @@ onMounted(() => {
 }
 
 .nav__item {
-    list-style: none;
     flex-shrink: 0;
 }
 
@@ -50,7 +50,7 @@ onMounted(() => {
     text-decoration: none;
 }
 
-@media screen and (width <= 768px) {
+@media screen and (width <=768px) {
     .nav__list {
         gap: 5px;
     }

@@ -25,7 +25,6 @@ defineProps<{
 
 <style lang="scss" scoped>
 .more-nav__list {
-    list-style: none;
     display: flex;
     flex-direction: column;
 }
@@ -48,7 +47,7 @@ defineProps<{
     &.active {
         background: var(--color-dop-cta);
 
-        & .more-nav__icon > * {
+        & .more-nav__icon>* {
             stroke: #171717;
         }
 
@@ -74,7 +73,7 @@ defineProps<{
     transition: color .3s ease-in-out;
 }
 
-@media screen and (width <= 768px) {
+@media screen and (width <=768px) {
     .more-nav__icon {
         width: 30px;
         height: 30px;

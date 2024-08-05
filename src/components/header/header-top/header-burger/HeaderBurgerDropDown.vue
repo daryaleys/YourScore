@@ -39,13 +39,16 @@ window.addEventListener("keydown", (event) => {
     transition: 0.3s ease-in-out;
     transition-property: background, box-shadow;
     z-index: 10;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
 }
 
 .drop-down__list {
     display: none;
 }
 
-@media screen and (width <= 768px) {
+@media screen and (width <=768px) {
     .drop-down__list {
         display: block;
     }
