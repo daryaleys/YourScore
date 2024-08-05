@@ -1,19 +1,21 @@
 <script setup lang="ts">
 import { RouterView } from "vue-router";
-import HeaderLayout from "./components/header/HeaderLayout.vue";
 import { getCurrentTheme, toggleTheme } from "./helpers/helpers";
 import { themeStore } from "./store/themeStore";
+import HeaderLayout from "./components/header/HeaderLayout.vue";
+import FooterLayout from "./components/footer/FooterLayout.vue";
 
 const store = themeStore();
 if (getCurrentTheme()) {
-    store.isDarkMode = true;
-    toggleTheme();
+  store.isDarkMode = true;
+  toggleTheme();
 }
 </script>
 
 <template>
-    <HeaderLayout />
-    <RouterView></RouterView>
+  <HeaderLayout />
+  <RouterView></RouterView>
+  <FooterLayout />
 </template>
 
 <style lang="scss" scoped></style>

@@ -14,7 +14,7 @@ defineProps<{
             <li class="more-nav__item" v-for="item in menuItems">
                 <RouterLink :to="item.route" class="more-nav__link" v-slot="{ isActive }">
                     <div class="more-nav__wrap" :class="{ active: isActive }">
-                        <inline-svg :src="getImageUrl(item.icon)" class="more-nav__icon" />
+                        <inline-svg :src="item.icon" class="more-nav__icon" />
                         <span class="more-nav__text">{{ item.title }}</span>
                     </div>
                 </RouterLink>

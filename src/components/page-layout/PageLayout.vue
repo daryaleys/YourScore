@@ -16,7 +16,7 @@ import MainContent from "../main-content/MainContent.vue";
 .page-layout {
     max-width: var(--block-max-width);
     margin: 0 auto;
-    padding: 10px 10px 0 10px;
+    padding: 10px 10px 32px 10px;
     display: grid;
     grid-template-columns: 170px 1fr 170px;
     grid-template-rows: 1fr;
