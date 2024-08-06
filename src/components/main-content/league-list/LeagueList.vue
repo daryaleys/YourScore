@@ -42,20 +42,6 @@ defineProps<{
 
 .league-item {
     width: 100%;
-    position: relative;
-
-    :not(:last-child) {
-        &.opened::after {
-            display: block;
-            content: "";
-            width: 100%;
-            height: 1px;
-            background: linear-gradient(90deg, rgba(127, 127, 127, 0) 0%, #afb1b6 51.04%, rgba(127, 127, 127, 0) 100%);
-            position: absolute;
-            left: 0;
-            bottom: 0;
-        }
-    }
 }
 
 .separator {

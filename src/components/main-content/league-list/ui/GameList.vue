@@ -98,6 +98,7 @@ defineProps<{
     justify-content: center;
     width: 16px;
     height: 16px;
+    border-radius: 4px;
     background: var(--color-dop-back);
     font-family: var(--main-font);
     font-weight: 400;
