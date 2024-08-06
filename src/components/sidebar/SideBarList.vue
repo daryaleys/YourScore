@@ -32,6 +32,11 @@ const store = leagueStore();
 </template>
 
 <style lang="scss" scoped>
+.sidebar {
+    width: 170px;
+    justify-self: end;
+}
+
 .sidebar-block {
     display: flex;
     flex-direction: column;

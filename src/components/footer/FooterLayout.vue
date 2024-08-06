@@ -62,6 +62,10 @@ import InlineSvg from 'vue-inline-svg';
 </template>
 
 <style lang="scss" scoped>
+.footer {
+    margin-top: 16px;
+}
+
 .footer__container {
     background: var(--color-dop-back);
     border-radius: 10px 10px 0 0;

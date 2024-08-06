@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import PageLayout from "@/components/page-layout/PageLayout.vue";
+import MainList from "@/components/main-content/MainList.vue";
 
 </script>
 
 <template>
-    <PageLayout />
+    <MainList />
 </template>
 
 <style lang="scss" scoped></style>
