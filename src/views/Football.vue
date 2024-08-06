@@ -1,18 +1,18 @@
 <script setup lang="ts">
-import GameList from "@/components/games/GameList.vue";
-import type { LeagueGames } from "@/components/games/gameType";
 import { ref, type Ref } from "vue";
+import type { MainLeague } from "@/components/main-content/mainLeagueType";
+import MainContent from "@/components/main-content/MainContent.vue";
 
-const gamesList: Ref<LeagueGames[]> = ref([])
+const leagueGamesList: Ref<MainLeague[]> = ref([]);
 
-fetch('/src/data/football.json')
+fetch("/src/data/football.json")
     .then((response) => response.json())
-    .then((data) => (gamesList.value = data))
-    .catch((error) => console.log(error))
+    .then((data) => data.data.forEach((item: MainLeague) => leagueGamesList.value.push(item)))
+    .catch((error) => console.log(error));
 </script>
 
 <template>
-    <GameList :list="gamesList" />
+    <MainContent :leagueList="leagueGamesList" />
 </template>
 
 <style lang="scss" scoped></style>

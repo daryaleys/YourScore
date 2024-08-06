@@ -1,4 +1,4 @@
-export type LeagueGames = {
+export type MainLeague = {
 	country: string;
 	leagueName: string;
 	countrySlug: string;
@@ -6,10 +6,10 @@ export type LeagueGames = {
 	countryName: string;
 	id: number;
 	is_open: boolean;
-	games: Game[];
+	games: MainLeagueGames[];
 };
 
-export type Game = {
+export type MainLeagueGames = {
 	categoryName: string;
 	categoryId: 337;
 	categorySlug: string;

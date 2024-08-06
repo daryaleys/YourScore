@@ -9,7 +9,7 @@ const store = leagueStore();
 
 <template>
     <div class="sidebar">
-        <div class="sidebar-block" v-if="store.myLeagues.length">
+        <div class="sidebar-block" v-if="store.myLeagues && store.myLeagues.length">
             <h3 class="sidebar-block__title">Мои лиги</h3>
 
             <ul class="league-list">
@@ -95,5 +95,17 @@ const store = leagueStore();
 .league-item__star {
     opacity: 0;
     transition: opacity .3s ease-in-out;
+}
+
+@media screen and (width <= 1080px) {
+    .sidebar {
+        padding: 0 10px;
+    }
+}
+
+@media screen and (width <= 768px) {
+    .sidebar {
+        padding: 0;
+    }
 }
 </style>

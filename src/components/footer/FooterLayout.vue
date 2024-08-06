@@ -1,7 +1,5 @@
 <script setup lang="ts">
-import { getImageUrl } from '@/helpers/helpers';
 import InlineSvg from 'vue-inline-svg';
-
 </script>
 
 <template>
@@ -29,25 +27,25 @@ import InlineSvg from 'vue-inline-svg';
                 <ul class="social">
                     <li class="social__item">
                         <a href="" class="social__link" title="Facebook">
-                            <inline-svg :src="getImageUrl('/src/assets/icons/social-links/facebook.svg')" width="24"
+                            <inline-svg src="/src/assets/social-links/facebook.svg" width="24"
                                 height="24" class="social__icon"></inline-svg>
                         </a>
                     </li>
                     <li class="social__item">
                         <a href="" class="social__link" title="Instagram">
-                            <inline-svg :src="getImageUrl('/src/assets/icons/social-links/instagram.svg')" width="24"
+                            <inline-svg src="/src/assets/social-links/instagram.svg" width="24"
                                 height="24" class="social__icon"></inline-svg>
                         </a>
                     </li>
                     <li class="social__item">
                         <a href="" class="social__link" title="VK">
-                            <inline-svg :src="getImageUrl('/src/assets/icons/social-links/vk.svg')" width="24"
+                            <inline-svg src="/src/assets/social-links/vk.svg" width="24"
                                 height="24" class="social__icon"></inline-svg>
                         </a>
                     </li>
                     <li class="social__item">
                         <a href="" class="social__link" title="Twitter">
-                            <inline-svg :src="getImageUrl('/src/assets/icons/social-links/twitter.svg')" width="24"
+                            <inline-svg src="/src/assets/social-links/twitter.svg" width="24"
                                 height="24" class="social__icon"></inline-svg>
                         </a>
                     </li>

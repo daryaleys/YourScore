@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { onMounted, ref, type Ref } from "vue";
-import { getImageUrl } from "@/helpers/helpers";
 import HeaderItem from "../../ui/HeaderItem.vue";
 import HeaderMoreDropDown from "./HeaderMoreDropDown.vue";
 import type { MenuItem } from "../HeaderBottom.vue";
@@ -30,7 +29,7 @@ onMounted(() => {
 
 <template>
     <button class="header-more-btn" id="toggleMore" @click="dropDownActive = !dropDownActive" ref="btnElement">
-        <HeaderItem :icon="getImageUrl('/src/assets/icons/more.svg')" title="Больше" :isActive="dropDownActive"> </HeaderItem>
+        <HeaderItem icon="/src/assets/icons/more.svg" title="Больше" :isActive="dropDownActive"> </HeaderItem>
     </button>
 
     <Transition>

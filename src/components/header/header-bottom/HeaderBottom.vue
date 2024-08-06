@@ -3,7 +3,6 @@ import { useWindowSize } from "@vueuse/core";
 import HeaderMainNav from "./header-main-nav/HeaderMainNav.vue";
 import HeaderMore from "./header-more/HeaderMore.vue";
 import type { HeaderNavRouteNames } from "@/main";
-import { getImageUrl } from "@/helpers/helpers";
 import { computed, ref, watch, type Ref } from "vue";
 
 export type MenuItem = {
@@ -27,22 +26,22 @@ const commonMenuItems: MenuItem[] = [
     {
         route: "football",
         title: "Футбол",
-        icon: getImageUrl("/src/assets/icons/football.svg"),
+        icon: "/src/assets/sports/football.svg",
     },
     {
         route: "hockey",
         title: "Хоккей",
-        icon: getImageUrl("/src/assets/icons/hockey.svg"),
+        icon: "/src/assets/sports/hockey.svg",
     },
     {
         route: "boxing",
         title: "Бокс",
-        icon: getImageUrl("/src/assets/icons/boxing.svg"),
+        icon: "/src/assets/sports/boxing.svg",
     },
     {
         route: "mma",
         title: "MMA",
-        icon: getImageUrl("/src/assets/icons/mma.svg"),
+        icon: "/src/assets/sports/mma.svg",
     },
 ];
 
