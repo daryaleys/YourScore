@@ -20,18 +20,15 @@ const tabs: Ref<Tab[]> = ref([
         type: "coefs",
         event: "showCoefs",
     },
-    {
-        name: "Завершенные",
-        type: "finished",
-        event: "showFinished",
-    },
 ]);
+
+const showCoefs: Ref<boolean> = ref(false);
 </script>
 
 <template>
     <div class="league-games">
-        <TabList :tabs />
-        <LeagueList :leagues="leagueList" />
+        <TabList :tabs @showAll="showCoefs = false" @showCoefs="showCoefs = true" />
+        <LeagueList :leagues="leagueList" :showCoefs />
     </div>
 </template>
 
@@ -42,7 +39,7 @@ const tabs: Ref<Tab[]> = ref([
     gap: 12px;
 }
 
-@media screen and (width <= 768px) {
+@media screen and (width <=768px) {
     .league-games {
         padding: 0 6px;
     }

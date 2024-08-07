@@ -1,6 +1,185 @@
 {
     "data": [
         {
+            "country": "fo",
+            "leagueName": "Премьер-Лига",
+            "countrySlug": "/sport/football/farerskie-ostrova-377/",
+            "leagueSlug": "/sport/football/farerskie-ostrova-377/premer-liga-5281/",
+            "countryName": "Фарерские острова",
+            "id": 5281,
+            "is_open": true,
+            "games": [
+                {
+                    "categoryName": "Фарерские острова",
+                    "categoryId": 377,
+                    "categorySlug": "farerskie-ostrova-377",
+                    "tournamentSlug": "premer-liga-5281",
+                    "tournamentName": "Премьер-Лига",
+                    "tournamentId": 5281,
+                    "id": 3954276,
+                    "slug": "ebstreymur-b36-torshavn-3954276",
+                    "teams": [
+                        "ЭБ/Стреймур",
+                        "Б36 Торсхавн"
+                    ],
+                    "teamsOriginal": [
+                        "ЭБ/Стреймур",
+                        "Б36 Торсхавн"
+                    ],
+                    "liveDatetime": "2024-08-05T20:30:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20203279,
+                    "start_time": 1722879000,
+                    "event_url": "/sport/info/ebstreymur-b36-torshavn-3954276/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "ЭБ/Стреймур"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Б36 Торсхавн"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 6.2,
+                            "new": 6.4
+                        },
+                        "2": {
+                            "old": 1.43,
+                            "new": 1.41
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 4.8,
+                            "new": 4.9
+                        }
+                    },
+                    "betradar": 47319405
+                },
+                {
+                    "categoryName": "Фарерские острова",
+                    "categoryId": 377,
+                    "categorySlug": "farerskie-ostrova-377",
+                    "tournamentSlug": "premer-liga-5281",
+                    "tournamentName": "Премьер-Лига",
+                    "tournamentId": 5281,
+                    "id": 3951508,
+                    "slug": "hb-torshavn-skala-3951508",
+                    "teams": [
+                        "ХБ Торсхавн",
+                        "Скала"
+                    ],
+                    "teamsOriginal": [
+                        "ХБ Торсхавн",
+                        "Скала"
+                    ],
+                    "liveDatetime": "2024-08-05T20:30:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20198756,
+                    "start_time": 1722879000,
+                    "event_url": "/sport/info/hb-torshavn-skala-3951508/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "ХБ Торсхавн"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Скала"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.27,
+                            "new": 1.26
+                        },
+                        "2": {
+                            "old": 8.8,
+                            "new": 9
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 5.8,
+                            "new": 6
+                        }
+                    },
+                    "betradar": 47319403
+                },
+                {
+                    "categoryName": "Фарерские острова",
+                    "categoryId": 377,
+                    "categorySlug": "farerskie-ostrova-377",
+                    "tournamentSlug": "premer-liga-5281",
+                    "tournamentName": "Премьер-Лига",
+                    "tournamentId": 5281,
+                    "id": 3954614,
+                    "slug": "fuglaferdur-vikingur-gota-3954614",
+                    "teams": [
+                        "Фуглафьёрдур",
+                        "Викингур Гота"
+                    ],
+                    "teamsOriginal": [
+                        "Фуглафьёрдур",
+                        "Викингур Гота"
+                    ],
+                    "liveDatetime": "2024-08-05T20:30:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20203467,
+                    "start_time": 1722879000,
+                    "event_url": "/sport/info/fuglaferdur-vikingur-gota-3954614/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Фуглафьёрдур"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Викингур Гота"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 23,
+                            "new": 21
+                        },
+                        "2": {
+                            "old": 1.06,
+                            "new": 1.08
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 12,
+                            "new": 11
+                        }
+                    },
+                    "betradar": 47319407
+                }
+            ]
+        },
+        {
             "country": "ni",
             "leagueName": "Примера дивизион",
             "countrySlug": "/sport/football/nikaragua-337/",
@@ -4441,7 +4620,7 @@
         },
         {
             "country": "eu",
-            "leagueName": "Товарищеские матчи (формат матча может быть изменeн)",
+            "leagueName": "Товарищеские матчи ",
             "countrySlug": "/sport/football/mezhdunarodnye-kluby-326/",
             "leagueSlug": "/sport/football/mezhdunarodnye-kluby-326/tovarishcheskie-matchi-format-matcha-mozhet-byt-izmenen-27492/",
             "countryName": "Международные. Клубы",
@@ -4453,7 +4632,7 @@
                     "categoryId": 326,
                     "categorySlug": "mezhdunarodnye-kluby-326",
                     "tournamentSlug": "tovarishcheskie-matchi-format-matcha-mozhet-byt-izmenen-27492",
-                    "tournamentName": "Товарищеские матчи (формат матча может быть изменeн)",
+                    "tournamentName": "Товарищеские матчи ",
                     "tournamentId": 27492,
                     "id": 3958376,
                     "slug": "sekciya-nes-ciona-makkabi-shaaraim-3958376",
@@ -4508,7 +4687,7 @@
                     "categoryId": 326,
                     "categorySlug": "mezhdunarodnye-kluby-326",
                     "tournamentSlug": "tovarishcheskie-matchi-format-matcha-mozhet-byt-izmenen-27492",
-                    "tournamentName": "Товарищеские матчи (формат матча может быть изменeн)",
+                    "tournamentName": "Товарищеские матчи ",
                     "tournamentId": 27492,
                     "id": 3958797,
                     "slug": "motorlet-mol-motorlet-praga-ii-mol-3958797",
@@ -4563,7 +4742,7 @@
                     "categoryId": 326,
                     "categorySlug": "mezhdunarodnye-kluby-326",
                     "tournamentSlug": "tovarishcheskie-matchi-format-matcha-mozhet-byt-izmenen-27492",
-                    "tournamentName": "Товарищеские матчи (формат матча может быть изменeн)",
+                    "tournamentName": "Товарищеские матчи ",
                     "tournamentId": 27492,
                     "id": 3958876,
                     "slug": "volos-nps-lamiya-3958876",
@@ -4619,7 +4798,7 @@
                     "categoryId": 326,
                     "categorySlug": "mezhdunarodnye-kluby-326",
                     "tournamentSlug": "tovarishcheskie-matchi-format-matcha-mozhet-byt-izmenen-27492",
-                    "tournamentName": "Товарищеские матчи (формат матча может быть изменeн)",
+                    "tournamentName": "Товарищеские матчи ",
                     "tournamentId": 27492,
                     "id": 3959122,
                     "slug": "levadiakos-atromitos-afiny-3959122",
@@ -4675,7 +4854,7 @@
                     "categoryId": 326,
                     "categorySlug": "mezhdunarodnye-kluby-326",
                     "tournamentSlug": "tovarishcheskie-matchi-format-matcha-mozhet-byt-izmenen-27492",
-                    "tournamentName": "Товарищеские матчи (формат матча может быть изменeн)",
+                    "tournamentName": "Товарищеские матчи ",
                     "tournamentId": 27492,
                     "id": 3957205,
                     "slug": "al-sadd-ismaili-3957205",
@@ -4731,7 +4910,7 @@
                     "categoryId": 326,
                     "categorySlug": "mezhdunarodnye-kluby-326",
                     "tournamentSlug": "tovarishcheskie-matchi-format-matcha-mozhet-byt-izmenen-27492",
-                    "tournamentName": "Товарищеские матчи (формат матча может быть изменeн)",
+                    "tournamentName": "Товарищеские матчи ",
                     "tournamentId": 27492,
                     "id": 3958229,
                     "slug": "grosseto-fiorentina-3958229",
@@ -4787,7 +4966,7 @@
                     "categoryId": 326,
                     "categorySlug": "mezhdunarodnye-kluby-326",
                     "tournamentSlug": "tovarishcheskie-matchi-format-matcha-mozhet-byt-izmenen-27492",
-                    "tournamentName": "Товарищеские матчи (формат матча может быть изменeн)",
+                    "tournamentName": "Товарищеские матчи ",
                     "tournamentId": 27492,
                     "id": 3958877,
                     "slug": "niki-volos-panserraikos-3958877",
@@ -4843,7 +5022,7 @@
                     "categoryId": 326,
                     "categorySlug": "mezhdunarodnye-kluby-326",
                     "tournamentSlug": "tovarishcheskie-matchi-format-matcha-mozhet-byt-izmenen-27492",
-                    "tournamentName": "Товарищеские матчи (формат матча может быть изменeн)",
+                    "tournamentName": "Товарищеские матчи ",
                     "tournamentId": 27492,
                     "id": 3956890,
                     "slug": "hv-velders-linfild-3956890",
@@ -4899,7 +5078,7 @@
                     "categoryId": 326,
                     "categorySlug": "mezhdunarodnye-kluby-326",
                     "tournamentSlug": "tovarishcheskie-matchi-format-matcha-mozhet-byt-izmenen-27492",
-                    "tournamentName": "Товарищеские матчи (формат матча может быть изменeн)",
+                    "tournamentName": "Товарищеские матчи ",
                     "tournamentId": 27492,
                     "id": 3954779,
                     "slug": "cheshant-leyton-orient-3954779",
@@ -4955,7 +5134,7 @@
                     "categoryId": 326,
                     "categorySlug": "mezhdunarodnye-kluby-326",
                     "tournamentSlug": "tovarishcheskie-matchi-format-matcha-mozhet-byt-izmenen-27492",
-                    "tournamentName": "Товарищеские матчи (формат матча может быть изменeн)",
+                    "tournamentName": "Товарищеские матчи ",
                     "tournamentId": 27492,
                     "id": 3956041,
                     "slug": "fulhem-sevilya-3956041",
@@ -9520,185 +9699,6 @@
                         }
                     },
                     "betradar": 50935719
-                }
-            ]
-        },
-        {
-            "country": "fo",
-            "leagueName": "Премьер-Лига",
-            "countrySlug": "/sport/football/farerskie-ostrova-377/",
-            "leagueSlug": "/sport/football/farerskie-ostrova-377/premer-liga-5281/",
-            "countryName": "Фарерские острова",
-            "id": 5281,
-            "is_open": true,
-            "games": [
-                {
-                    "categoryName": "Фарерские острова",
-                    "categoryId": 377,
-                    "categorySlug": "farerskie-ostrova-377",
-                    "tournamentSlug": "premer-liga-5281",
-                    "tournamentName": "Премьер-Лига",
-                    "tournamentId": 5281,
-                    "id": 3954276,
-                    "slug": "ebstreymur-b36-torshavn-3954276",
-                    "teams": [
-                        "ЭБ/Стреймур",
-                        "Б36 Торсхавн"
-                    ],
-                    "teamsOriginal": [
-                        "ЭБ/Стреймур",
-                        "Б36 Торсхавн"
-                    ],
-                    "liveDatetime": "2024-08-05T20:30:00+03:00",
-                    "liveId": null,
-                    "prematchId": 20203279,
-                    "start_time": 1722879000,
-                    "event_url": "/sport/info/ebstreymur-b36-torshavn-3954276/",
-                    "status": null,
-                    "team_home": [
-                        {
-                            "id": null,
-                            "name": "ЭБ/Стреймур"
-                        }
-                    ],
-                    "team_away": [
-                        {
-                            "id": null,
-                            "name": "Б36 Торсхавн"
-                        }
-                    ],
-                    "score": {
-                        "team_home": null,
-                        "team_away": null
-                    },
-                    "coefficient": {
-                        "1": {
-                            "old": 6.2,
-                            "new": 6.4
-                        },
-                        "2": {
-                            "old": 1.43,
-                            "new": 1.41
-                        },
-                        "bookie": "liga",
-                        "x": {
-                            "old": 4.8,
-                            "new": 4.9
-                        }
-                    },
-                    "betradar": 47319405
-                },
-                {
-                    "categoryName": "Фарерские острова",
-                    "categoryId": 377,
-                    "categorySlug": "farerskie-ostrova-377",
-                    "tournamentSlug": "premer-liga-5281",
-                    "tournamentName": "Премьер-Лига",
-                    "tournamentId": 5281,
-                    "id": 3951508,
-                    "slug": "hb-torshavn-skala-3951508",
-                    "teams": [
-                        "ХБ Торсхавн",
-                        "Скала"
-                    ],
-                    "teamsOriginal": [
-                        "ХБ Торсхавн",
-                        "Скала"
-                    ],
-                    "liveDatetime": "2024-08-05T20:30:00+03:00",
-                    "liveId": null,
-                    "prematchId": 20198756,
-                    "start_time": 1722879000,
-                    "event_url": "/sport/info/hb-torshavn-skala-3951508/",
-                    "status": null,
-                    "team_home": [
-                        {
-                            "id": null,
-                            "name": "ХБ Торсхавн"
-                        }
-                    ],
-                    "team_away": [
-                        {
-                            "id": null,
-                            "name": "Скала"
-                        }
-                    ],
-                    "score": {
-                        "team_home": null,
-                        "team_away": null
-                    },
-                    "coefficient": {
-                        "1": {
-                            "old": 1.27,
-                            "new": 1.26
-                        },
-                        "2": {
-                            "old": 8.8,
-                            "new": 9
-                        },
-                        "bookie": "liga",
-                        "x": {
-                            "old": 5.8,
-                            "new": 6
-                        }
-                    },
-                    "betradar": 47319403
-                },
-                {
-                    "categoryName": "Фарерские острова",
-                    "categoryId": 377,
-                    "categorySlug": "farerskie-ostrova-377",
-                    "tournamentSlug": "premer-liga-5281",
-                    "tournamentName": "Премьер-Лига",
-                    "tournamentId": 5281,
-                    "id": 3954614,
-                    "slug": "fuglaferdur-vikingur-gota-3954614",
-                    "teams": [
-                        "Фуглафьёрдур",
-                        "Викингур Гота"
-                    ],
-                    "teamsOriginal": [
-                        "Фуглафьёрдур",
-                        "Викингур Гота"
-                    ],
-                    "liveDatetime": "2024-08-05T20:30:00+03:00",
-                    "liveId": null,
-                    "prematchId": 20203467,
-                    "start_time": 1722879000,
-                    "event_url": "/sport/info/fuglaferdur-vikingur-gota-3954614/",
-                    "status": null,
-                    "team_home": [
-                        {
-                            "id": null,
-                            "name": "Фуглафьёрдур"
-                        }
-                    ],
-                    "team_away": [
-                        {
-                            "id": null,
-                            "name": "Викингур Гота"
-                        }
-                    ],
-                    "score": {
-                        "team_home": null,
-                        "team_away": null
-                    },
-                    "coefficient": {
-                        "1": {
-                            "old": 23,
-                            "new": 21
-                        },
-                        "2": {
-                            "old": 1.06,
-                            "new": 1.08
-                        },
-                        "bookie": "liga",
-                        "x": {
-                            "old": 12,
-                            "new": 11
-                        }
-                    },
-                    "betradar": 47319407
                 }
             ]
         },

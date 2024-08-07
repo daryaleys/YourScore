@@ -1,10 +1,36 @@
 <script setup lang="ts">
+import GameItem from "./ui/GameItem.vue";
+import GameCoefs from "./ui/GameCoefs.vue";
 import type { MainLeagueGames } from "../mainLeagueType";
+import { ref, type Ref } from "vue";
 
-defineProps<{
+type OriginalCoef = {
+    old: number | null;
+    new: number | null;
+}
+
+const props = defineProps<{
     games: MainLeagueGames[];
     coefs: boolean;
 }>();
+
+function getCoef(coef: OriginalCoef) {
+    const newCoef = coef.new, oldCoef = coef.old;
+
+    return {
+        value: newCoef ?? oldCoef ?? null,
+        type: newCoef && oldCoef ? (newCoef >= oldCoef ? "up" : "down") : null,
+    }
+}
+
+let coefValues: Ref<any[]> = ref([]);
+if (props.games && props.games.length) {
+    coefValues.value = props.games.map((item) => ({
+        coef1: getCoef(item.coefficient[1]),
+        coefX: getCoef(item.coefficient.x),
+        coef2: getCoef(item.coefficient[2])
+    }))
+}
 </script>
 
 <template>
@@ -17,28 +43,14 @@ defineProps<{
             <th class="game__coef">2</th>
         </tr>
 
-        <tr class="game" v-for="game in games">
-            <td class="game__time">{{ game.liveDatetime.split("T")[1].split("+")[0].slice(0, 5) }}</td>
-            <td class="game__teams">
-                <div class="team__wrap">
-                    <span class="team__name">{{ game.team_home[0].name }}</span>
-                    <span class="team__score">{{ game.score.team_home ?? "-" }}</span>
-                </div>
-                <div class="team__wrap">
-                    <span class="team__name">{{ game.team_away[0].name }}</span>
-                    <span class="team__score">{{ game.score.team_away ?? "-" }}</span>
-                </div>
-            </td>
+        <tr class="game" v-for="(game, i) in games" :key="game.id">
+            <GameItem :time="game.liveDatetime.split('T')[1].split('+')[0].slice(0, 5)"
+                :teamHomeName="game.team_home[0].name" :teamHomeScore="game.score.team_home ?? '-'"
+                :teamAwayName="game.team_away[0].name" :teamAwayScore="game.score.team_away ?? '-'" />
+
+            <GameCoefs v-if="coefs && coefValues.length" v-bind="coefValues[i]" />
         </tr>
     </table>
-
-    <!-- <div class="games-list">
-        <div class="coefs" v-if="coefs">
-            <span>1</span>
-            <span>X</span>
-            <span>2</span>
-        </div>
-    </div> -->
 </template>
 
 <style lang="scss" scoped>
@@ -76,55 +88,6 @@ defineProps<{
     }
 }
 
-.game__time {
-    border: none;
-    padding: 6px;
-    width: 100px;
-    font-family: var(--main-font);
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 100%;
-    text-align: center;
-    color: var(--color-main-text);
-}
-
-.game__teams {
-    padding: 6px;
-}
-
-.team__wrap {
-    display: flex;
-    align-items: center;
-}
-
-.team__name {
-    font-family: var(--main-font);
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 100%;
-    color: var(--color-main-text);
-    transition: color 0.3s ease-in-out;
-}
-
-.team__score {
-    margin-left: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 16px;
-    height: 16px;
-    border-radius: 4px;
-    background: var(--color-dop-back);
-    font-family: var(--main-font);
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 100%;
-    text-align: center;
-    color: var(--color-main-text);
-    transition: 0.3s ease-in-out;
-    transition-property: color, background;
-}
-
 .game__coef {
     width: 65px;
     padding-top: 4px;
@@ -137,8 +100,12 @@ defineProps<{
 }
 
 @media screen and (width <=768px) {
-    .game__time {
-        width: 60px;
+    .game__coefs {
+        display: none;
+    }
+
+    .game__coef {
+        // width: 30px;
     }
 }
 </style>

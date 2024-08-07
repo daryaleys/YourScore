@@ -6,6 +6,7 @@ import GameList from "../game-list/GameList.vue";
 
 defineProps<{
     leagues: MainLeague[];
+    showCoefs: boolean;
 }>();
 </script>
 
@@ -16,7 +17,7 @@ defineProps<{
                 :gamesLength="league.games.length" @toggleDropDown="league.is_open = !league.is_open" />
 
             <Collapse v-if="league.games && league.games.length" :when="league.is_open">
-                <GameList :games="league.games" :coefs="true" />
+                <GameList :games="league.games" :coefs="showCoefs" />
             </Collapse>
         </div>
     </div>
