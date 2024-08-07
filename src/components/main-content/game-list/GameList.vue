@@ -1,16 +1,25 @@
 <script setup lang="ts">
-import type { MainLeagueGames } from "../../mainLeagueType";
+import type { MainLeagueGames } from "../mainLeagueType";
 
 defineProps<{
     games: MainLeagueGames[];
+    coefs: boolean;
 }>();
 </script>
 
 <template>
-    <div class="games-list">
-        <div class="game" v-for="game in games">
-            <span class="game__time">{{ game.liveDatetime.split("T")[1].split("+")[0].slice(0, 5) }}</span>
-            <div class="teams">
+    <table class="games-table" cellpadding="0">
+        <tr class="game__coefs" v-if="coefs">
+            <th class="game__time"></th>
+            <th class="game__teams"></th>
+            <th class="game__coef">1</th>
+            <th class="game__coef">X</th>
+            <th class="game__coef">2</th>
+        </tr>
+
+        <tr class="game" v-for="game in games">
+            <td class="game__time">{{ game.liveDatetime.split("T")[1].split("+")[0].slice(0, 5) }}</td>
+            <td class="game__teams">
                 <div class="team__wrap">
                     <span class="team__name">{{ game.team_home[0].name }}</span>
                     <span class="team__score">{{ game.score.team_home ?? "-" }}</span>
@@ -19,25 +28,32 @@ defineProps<{
                     <span class="team__name">{{ game.team_away[0].name }}</span>
                     <span class="team__score">{{ game.score.team_away ?? "-" }}</span>
                 </div>
-            </div>
+            </td>
+        </tr>
+    </table>
+
+    <!-- <div class="games-list">
+        <div class="coefs" v-if="coefs">
+            <span>1</span>
+            <span>X</span>
+            <span>2</span>
         </div>
-    </div>
+    </div> -->
 </template>
 
 <style lang="scss" scoped>
-.games-list {
+.games-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
     border-radius: 6px;
     background: var(--color-main-back);
-    display: flex;
-    flex-direction: column;
     transition: background 0.3s ease-in-out;
 }
 
 .game {
     position: relative;
-    padding: 6px;
-    display: flex;
-    align-items: center;
+    border-radius: inherit;
 
     &:hover {
         background: var(--color-dop-back);
@@ -61,7 +77,9 @@ defineProps<{
 }
 
 .game__time {
-    padding: 0 32px;
+    border: none;
+    padding: 6px;
+    width: 100px;
     font-family: var(--main-font);
     font-weight: 400;
     font-size: 14px;
@@ -70,11 +88,8 @@ defineProps<{
     color: var(--color-main-text);
 }
 
-.teams {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
+.game__teams {
+    padding: 6px;
 }
 
 .team__wrap {
@@ -110,12 +125,20 @@ defineProps<{
     transition-property: color, background;
 }
 
-@media screen and (width <= 768px) {
-    .game {
-        gap: 6px;
-    }
+.game__coef {
+    width: 65px;
+    padding-top: 4px;
+    font-family: var(--main-font);
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    text-align: center;
+    color: var(--color-main-text);
+}
+
+@media screen and (width <=768px) {
     .game__time {
-        padding: 0 4px;
+        width: 60px;
     }
 }
 </style>

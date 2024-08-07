@@ -2,7 +2,7 @@
 import { Collapse } from "vue-collapsed";
 import type { MainLeague } from "../mainLeagueType";
 import LeagueItem from "./ui/LeagueItem.vue";
-import GameList from "./ui/GameList.vue";
+import GameList from "../game-list/GameList.vue";
 
 defineProps<{
     leagues: MainLeague[];
@@ -12,16 +12,11 @@ defineProps<{
 <template>
     <div class="league-list" v-if="leagues && leagues.length">
         <div class="league-item" v-for="league in leagues" :key="league.id" :class="{ opened: league.is_open }">
-            <LeagueItem
-                :countryName="league.countryName"
-                :leagueName="league.leagueName"
-                :opened="league.is_open"
-                :gamesLength="league.games.length"
-                @toggleDropDown="league.is_open = !league.is_open"
-            />
+            <LeagueItem :countryName="league.countryName" :leagueName="league.leagueName" :opened="league.is_open"
+                :gamesLength="league.games.length" @toggleDropDown="league.is_open = !league.is_open" />
 
             <Collapse v-if="league.games && league.games.length" :when="league.is_open">
-                <GameList :games="league.games" />
+                <GameList :games="league.games" :coefs="true" />
             </Collapse>
         </div>
     </div>
