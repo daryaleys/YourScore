@@ -26,22 +26,22 @@ const showCoefs: Ref<boolean> = ref(false);
 </script>
 
 <template>
-    <div class="league-games">
+    <div class="main-content">
         <TabList :tabs @showAll="showCoefs = false" @showCoefs="showCoefs = true" />
         <LeagueList :leagues="leagueList" :showCoefs />
     </div>
 </template>
 
 <style lang="scss" scoped>
-.league-games {
+.main-content {
     display: flex;
     flex-direction: column;
     gap: 12px;
 }
 
-@media screen and (width <=768px) {
-    .league-games {
-        padding: 0 6px;
+@media screen and (width <=1080px) {
+    .main-content {
+        padding-right: 10px;
     }
 }
 </style>

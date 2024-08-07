@@ -34,6 +34,7 @@ const store = leagueStore();
 <style lang="scss" scoped>
 .sidebar {
     width: 170px;
+    padding-right: 10px;
     justify-self: end;
 }
 
@@ -97,13 +98,7 @@ const store = leagueStore();
     transition: opacity .3s ease-in-out;
 }
 
-@media screen and (width <= 1080px) {
-    .sidebar {
-        padding: 0 10px;
-    }
-}
-
-@media screen and (width <= 768px) {
+@media screen and (width <=768px) {
     .sidebar {
         padding: 0;
     }

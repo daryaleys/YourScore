@@ -68,7 +68,6 @@ defineProps<{
 }
 
 .coef__value {
-    // width: 40px;
     font-family: var(--main-font);
     font-weight: 400;
     font-size: 12px;
@@ -80,8 +79,6 @@ defineProps<{
 @media screen and (width <=1080px) {
     .coef {
         width: 40px;
-        // display: table-row;
-        // text-align: center;
     }
 
 }
