@@ -103,9 +103,5 @@ if (props.games && props.games.length) {
     .game__coefs {
         display: none;
     }
-
-    .game__coef {
-        // width: 30px;
-    }
 }
 </style>

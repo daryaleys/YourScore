@@ -1,0 +1,3769 @@
+{
+    "data": [
+        {
+            "country": "ve",
+            "leagueName": "Суперлига",
+            "countrySlug": "/sport/basketball/venesuela-27/",
+            "leagueSlug": "/sport/basketball/venesuela-27/superliga-26443/",
+            "countryName": "Венесуэла",
+            "id": 26443,
+            "is_open": true,
+            "games": [
+                {
+                    "categoryName": "Венесуэла",
+                    "categoryId": 27,
+                    "categorySlug": "venesuela-27",
+                    "tournamentSlug": "superliga-26443",
+                    "tournamentName": "Суперлига",
+                    "tournamentId": 26443,
+                    "id": 3967305,
+                    "slug": "spartans-distrito-kapital-guaykeres-de-margarita-3967305",
+                    "teams": [
+                        "Спартанс Дистрито Капитал",
+                        "Гуайкерьес де Маргарита"
+                    ],
+                    "teamsOriginal": [
+                        "Спартанс Дистрито Капитал",
+                        "Гуайкерьес де Маргарита"
+                    ],
+                    "liveDatetime": "2024-08-08T02:00:00+03:00",
+                    "liveId": 20218770,
+                    "prematchId": null,
+                    "start_time": 1723071600,
+                    "event_url": "/sport/info/spartans-distrito-kapital-guaykeres-de-margarita-3967305/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Спартанс Дистрито Капитал"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Гуайкерьес де Маргарита"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 63,
+                        "team_away": 67
+                    },
+                    "betradar": 52138007,
+                    "coefficient": {
+                        "1": {
+                            "old": 3.45,
+                            "new": 4.51
+                        },
+                        "2": {
+                            "old": 1.5,
+                            "new": 1.33
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 5.72,
+                            "new": 6.29
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "uy",
+            "leagueName": "3-й дивизион",
+            "countrySlug": "/sport/basketball/urugvay-91/",
+            "leagueSlug": "/sport/basketball/urugvay-91/3-i-divizion-40462/",
+            "countryName": "Уругвай",
+            "id": 40462,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Уругвай",
+                    "categoryId": 91,
+                    "categorySlug": "urugvay-91",
+                    "tournamentSlug": "3-i-divizion-40462",
+                    "tournamentName": "3-й дивизион",
+                    "tournamentId": 40462,
+                    "id": 3967304,
+                    "slug": "albatros-danubio-3967304",
+                    "teams": [
+                        "Альбатрос",
+                        "Данубио"
+                    ],
+                    "teamsOriginal": [
+                        "Альбатрос",
+                        "Данубио"
+                    ],
+                    "liveDatetime": "2024-08-08T02:00:00+03:00",
+                    "liveId": 20218755,
+                    "prematchId": null,
+                    "start_time": 1723071600,
+                    "event_url": "/sport/info/albatros-danubio-3967304/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Альбатрос"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Данубио"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 94,
+                        "team_away": 68
+                    },
+                    "betradar": 52182661,
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 12,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 9.1,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Уругвай",
+                    "categoryId": 91,
+                    "categorySlug": "urugvay-91",
+                    "tournamentSlug": "3-i-divizion-40462",
+                    "tournamentName": "3-й дивизион",
+                    "tournamentId": 40462,
+                    "id": 3967412,
+                    "slug": "marne-san-telmo-rs-3967412",
+                    "teams": [
+                        "Марне",
+                        "Сан Тельмо РС"
+                    ],
+                    "teamsOriginal": [
+                        "Марне",
+                        "Сан Тельмо РС"
+                    ],
+                    "liveDatetime": "2024-08-08T03:00:00+03:00",
+                    "liveId": 20218763,
+                    "prematchId": null,
+                    "start_time": 1723075200,
+                    "event_url": "/sport/info/marne-san-telmo-rs-3967412/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Марне"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Сан Тельмо РС"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 82,
+                        "team_away": 75
+                    },
+                    "betradar": 52182761,
+                    "coefficient": {
+                        "1": {
+                            "old": 1.01,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 7.7,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Уругвай",
+                    "categoryId": 91,
+                    "categorySlug": "urugvay-91",
+                    "tournamentSlug": "3-i-divizion-40462",
+                    "tournamentName": "3-й дивизион",
+                    "tournamentId": 40462,
+                    "id": 3967414,
+                    "slug": "kapurro-iks-atenao-de-piriapolis-3967414",
+                    "teams": [
+                        "Капурро",
+                        "ИКС Атенао де Пириаполис"
+                    ],
+                    "teamsOriginal": [
+                        "Капурро",
+                        "ИКС Атенао де Пириаполис"
+                    ],
+                    "liveDatetime": "2024-08-08T03:00:00+03:00",
+                    "liveId": 20221816,
+                    "prematchId": null,
+                    "start_time": 1723075200,
+                    "event_url": "/sport/info/kapurro-iks-atenao-de-piriapolis-3967414/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Капурро"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "ИКС Атенао де Пириаполис"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 107,
+                        "team_away": 80
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 17.3,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 20.1,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "br",
+            "leagueName": "Лига Паулиста",
+            "countrySlug": "/sport/basketball/braziliya-24/",
+            "leagueSlug": "/sport/basketball/braziliya-24/liga-paulista-3894/",
+            "countryName": "Бразилия",
+            "id": 3894,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Бразилия",
+                    "categoryId": 24,
+                    "categorySlug": "braziliya-24",
+                    "tournamentSlug": "liga-paulista-3894",
+                    "tournamentName": "Лига Паулиста",
+                    "tournamentId": 3894,
+                    "id": 3965390,
+                    "slug": "pineyros-korintians-3965390",
+                    "teams": [
+                        "Пинейрос",
+                        "Коринтианс"
+                    ],
+                    "teamsOriginal": [
+                        "Пинейрос",
+                        "Коринтианс"
+                    ],
+                    "liveDatetime": "2024-08-08T02:00:00+03:00",
+                    "liveId": 20221043,
+                    "prematchId": 20220010,
+                    "prematchData": {
+                        "id": 20220010,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 1.48,
+                            "2": 2.62,
+                            "x": 16.3
+                        },
+                        "coefficientsOld": {
+                            "1": 1.56,
+                            "2": 2.42,
+                            "x": 15.8
+                        },
+                        "match_time": null,
+                        "expired": false,
+                        "status": "ended",
+                        "team1": "Пинейрос",
+                        "team2": "Коринтианс",
+                        "active": null
+                    },
+                    "start_time": 1723071600,
+                    "event_url": "/sport/info/pineyros-korintians-3965390/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Пинейрос"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Коринтианс"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 96,
+                        "team_away": 88
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 2.7,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 1.63,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 6.8,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Бразилия",
+                    "categoryId": 24,
+                    "categorySlug": "braziliya-24",
+                    "tournamentSlug": "liga-paulista-3894",
+                    "tournamentName": "Лига Паулиста",
+                    "tournamentId": 3894,
+                    "id": 3965417,
+                    "slug": "sesifranka-san-zhoze-3965417",
+                    "teams": [
+                        "Сеси/Франка",
+                        "Сан Жозе"
+                    ],
+                    "teamsOriginal": [
+                        "Сеси/Франка",
+                        "Сан Жозе"
+                    ],
+                    "liveDatetime": "2024-08-08T02:00:00+03:00",
+                    "liveId": 20221042,
+                    "prematchId": 20220032,
+                    "prematchData": {
+                        "id": 20220032,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 1.36,
+                            "2": 2.97,
+                            "x": 16.5
+                        },
+                        "coefficientsOld": {
+                            "1": 1.36,
+                            "2": 3.07,
+                            "x": 16.5
+                        },
+                        "match_time": null,
+                        "expired": false,
+                        "status": "ended",
+                        "team1": "Сеси/Франка",
+                        "team2": "Сан Жозе",
+                        "active": null
+                    },
+                    "start_time": 1723071600,
+                    "event_url": "/sport/info/sesifranka-san-zhoze-3965417/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Сеси/Франка"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Сан Жозе"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 77,
+                        "team_away": 65
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.33,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 3.98,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 7.5,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "uy",
+            "leagueName": "Торнео Метрополитано",
+            "countrySlug": "/sport/basketball/urugvay-91/",
+            "leagueSlug": "/sport/basketball/urugvay-91/torneo-metropolitano-25434/",
+            "countryName": "Уругвай",
+            "id": 25434,
+            "is_open": true,
+            "games": [
+                {
+                    "categoryName": "Уругвай",
+                    "categoryId": 91,
+                    "categorySlug": "urugvay-91",
+                    "tournamentSlug": "torneo-metropolitano-25434",
+                    "tournamentName": "Торнео Метрополитано",
+                    "tournamentId": 25434,
+                    "id": 3965624,
+                    "slug": "verdirroho-bohemios-3965624",
+                    "teams": [
+                        "Вердиррохо",
+                        "Бохемиос"
+                    ],
+                    "teamsOriginal": [
+                        "Вердиррохо",
+                        "Бохемиос"
+                    ],
+                    "liveDatetime": "2024-08-08T02:15:00+03:00",
+                    "liveId": 20218766,
+                    "prematchId": 20220282,
+                    "prematchData": {
+                        "id": 20220282,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":604699606,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817293766,\"facId\":44392591726,\"position\":1,\"title\":\"1\",\"value\":1.8100000000000001,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20220282,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0412\\u0435\\u0440\\u0434\\u0438\\u0440\\u0440\\u043e\\u0445\\u043e\",\"2\":\"\\u0411\\u043e\\u0445\\u0435\\u043c\\u0438\\u043e\\u0441\"},\"partId\":184277140,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604699606,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":true},\"x\":{\"id\":2817293768,\"facId\":44390444275,\"position\":2,\"title\":\"X\",\"value\":12,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20220282,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0412\\u0435\\u0440\\u0434\\u0438\\u0440\\u0440\\u043e\\u0445\\u043e\",\"2\":\"\\u0411\\u043e\\u0445\\u0435\\u043c\\u0438\\u043e\\u0441\"},\"partId\":184277140,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604699606,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false},\"_2\":{\"id\":2817293767,\"facId\":44391840886,\"position\":3,\"title\":\"2\",\"value\":2.0099999999999998,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20220282,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0412\\u0435\\u0440\\u0434\\u0438\\u0440\\u0440\\u043e\\u0445\\u043e\",\"2\":\"\\u0411\\u043e\\u0445\\u0435\\u043c\\u0438\\u043e\\u0441\"},\"partId\":184277140,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604699606,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false}}}",
+                        "old": "{\"market\":{\"id\":604699606,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817293766,\"facId\":44392591726,\"position\":1,\"title\":\"1\",\"value\":1.8100000000000001,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20220282,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0412\\u0435\\u0440\\u0434\\u0438\\u0440\\u0440\\u043e\\u0445\\u043e\",\"2\":\"\\u0411\\u043e\\u0445\\u0435\\u043c\\u0438\\u043e\\u0441\"},\"partId\":184277140,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604699606,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":true},\"x\":{\"id\":2817293768,\"facId\":44390444275,\"position\":2,\"title\":\"X\",\"value\":12,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20220282,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0412\\u0435\\u0440\\u0434\\u0438\\u0440\\u0440\\u043e\\u0445\\u043e\",\"2\":\"\\u0411\\u043e\\u0445\\u0435\\u043c\\u0438\\u043e\\u0441\"},\"partId\":184277140,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604699606,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false},\"_2\":{\"id\":2817293767,\"facId\":44391840886,\"position\":3,\"title\":\"2\",\"value\":2.0099999999999998,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20220282,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0412\\u0435\\u0440\\u0434\\u0438\\u0440\\u0440\\u043e\\u0445\\u043e\",\"2\":\"\\u0411\\u043e\\u0445\\u0435\\u043c\\u0438\\u043e\\u0441\"},\"partId\":184277140,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604699606,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false}}}",
+                        "score": "null",
+                        "betradar": 52127839,
+                        "coefficients": {
+                            "1": 1.81,
+                            "2": 2.01,
+                            "x": 12
+                        },
+                        "coefficientsOld": {
+                            "1": 1.82,
+                            "2": 2.01,
+                            "x": 12
+                        },
+                        "match_time": 40,
+                        "expired": false,
+                        "status": "ended",
+                        "team1": "Вердиррохо",
+                        "team2": "Бохемиос",
+                        "active": null
+                    },
+                    "start_time": 1723072500,
+                    "event_url": "/sport/info/verdirroho-bohemios-3965624/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Вердиррохо"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Бохемиос"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 82,
+                        "team_away": 81
+                    },
+                    "betradar": 52127839,
+                    "coefficient": {
+                        "1": {
+                            "old": 1.06,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 7.45,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Уругвай",
+                    "categoryId": 91,
+                    "categorySlug": "urugvay-91",
+                    "tournamentSlug": "torneo-metropolitano-25434",
+                    "tournamentName": "Торнео Метрополитано",
+                    "tournamentId": 25434,
+                    "id": 3965224,
+                    "slug": "olivol-mundial-kapitol-3965224",
+                    "teams": [
+                        "Оливоль Мундиаль",
+                        "Капитоль"
+                    ],
+                    "teamsOriginal": [
+                        "Оливоль Мундиаль",
+                        "Капитоль"
+                    ],
+                    "liveDatetime": "2024-08-08T02:15:00+03:00",
+                    "liveId": 20218752,
+                    "prematchId": 20219875,
+                    "prematchData": {
+                        "id": 20219875,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":604651078,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817112010,\"facId\":44406247766,\"position\":1,\"title\":\"1\",\"value\":2.75,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20219875,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041e\\u043b\\u0438\\u0432\\u043e\\u043b\\u044c \\u041c\\u0443\\u043d\\u0434\\u0438\\u0430\\u043b\\u044c\",\"2\":\"\\u041a\\u0430\\u043f\\u0438\\u0442\\u043e\\u043b\\u044c\"},\"partId\":184272281,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651078,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false},\"x\":{\"id\":2817112011,\"facId\":44406247767,\"position\":2,\"title\":\"X\",\"value\":13,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20219875,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041e\\u043b\\u0438\\u0432\\u043e\\u043b\\u044c \\u041c\\u0443\\u043d\\u0434\\u0438\\u0430\\u043b\\u044c\",\"2\":\"\\u041a\\u0430\\u043f\\u0438\\u0442\\u043e\\u043b\\u044c\"},\"partId\":184272281,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651078,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false},\"_2\":{\"id\":2817112018,\"facId\":44406247774,\"position\":3,\"title\":\"2\",\"value\":1.45,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20219875,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041e\\u043b\\u0438\\u0432\\u043e\\u043b\\u044c \\u041c\\u0443\\u043d\\u0434\\u0438\\u0430\\u043b\\u044c\",\"2\":\"\\u041a\\u0430\\u043f\\u0438\\u0442\\u043e\\u043b\\u044c\"},\"partId\":184272281,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651078,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":true}}}",
+                        "old": "{\"market\":{\"id\":604651078,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817112010,\"facId\":44406247766,\"position\":1,\"title\":\"1\",\"value\":2.75,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20219875,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041e\\u043b\\u0438\\u0432\\u043e\\u043b\\u044c \\u041c\\u0443\\u043d\\u0434\\u0438\\u0430\\u043b\\u044c\",\"2\":\"\\u041a\\u0430\\u043f\\u0438\\u0442\\u043e\\u043b\\u044c\"},\"partId\":184272281,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651078,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false},\"x\":{\"id\":2817112011,\"facId\":44406247767,\"position\":2,\"title\":\"X\",\"value\":13,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20219875,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041e\\u043b\\u0438\\u0432\\u043e\\u043b\\u044c \\u041c\\u0443\\u043d\\u0434\\u0438\\u0430\\u043b\\u044c\",\"2\":\"\\u041a\\u0430\\u043f\\u0438\\u0442\\u043e\\u043b\\u044c\"},\"partId\":184272281,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651078,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false},\"_2\":{\"id\":2817112018,\"facId\":44406247774,\"position\":3,\"title\":\"2\",\"value\":1.45,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20219875,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041e\\u043b\\u0438\\u0432\\u043e\\u043b\\u044c \\u041c\\u0443\\u043d\\u0434\\u0438\\u0430\\u043b\\u044c\",\"2\":\"\\u041a\\u0430\\u043f\\u0438\\u0442\\u043e\\u043b\\u044c\"},\"partId\":184272281,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651078,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":true}}}",
+                        "score": "null",
+                        "betradar": 52127837,
+                        "coefficients": {
+                            "1": 2.75,
+                            "2": 1.45,
+                            "x": 13
+                        },
+                        "coefficientsOld": {
+                            "1": 2.6,
+                            "2": 1.48,
+                            "x": 14
+                        },
+                        "match_time": 40,
+                        "expired": false,
+                        "status": "ended",
+                        "team1": "Оливоль Мундиаль",
+                        "team2": "Капитоль",
+                        "active": null
+                    },
+                    "start_time": 1723072500,
+                    "event_url": "/sport/info/olivol-mundial-kapitol-3965224/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Оливоль Мундиаль"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Капитоль"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 60,
+                        "team_away": 66
+                    },
+                    "betradar": 52127837,
+                    "coefficient": {
+                        "1": {
+                            "old": 12,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Уругвай",
+                    "categoryId": 91,
+                    "categorySlug": "urugvay-91",
+                    "tournamentSlug": "torneo-metropolitano-25434",
+                    "tournamentName": "Торнео Метрополитано",
+                    "tournamentId": 25434,
+                    "id": 3965223,
+                    "slug": "atletiko-olimpiya-stokkolmo-3965223",
+                    "teams": [
+                        "Атлетико Олимпия",
+                        "Стоккольмо"
+                    ],
+                    "teamsOriginal": [
+                        "Атлетико Олимпия",
+                        "Стоккольмо"
+                    ],
+                    "liveDatetime": "2024-08-08T02:15:00+03:00",
+                    "liveId": 20218767,
+                    "prematchId": 20219876,
+                    "prematchData": {
+                        "id": 20219876,
+                        "passed": false,
+                        "coof": null,
+                        "old": "{\"market\":{\"id\":604651086,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817112025,\"facId\":44410749345,\"position\":1,\"title\":\"1\",\"value\":1.22,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20219876,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0410\\u0442\\u043b\\u0435\\u0442\\u0438\\u043a\\u043e \\u041e\\u043b\\u0438\\u043c\\u043f\\u0438\\u044f\",\"2\":\"\\u0421\\u0442\\u043e\\u043a\\u043a\\u043e\\u043b\\u044c\\u043c\\u043e\"},\"partId\":184272290,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651086,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":true},\"x\":{\"id\":2817112026,\"facId\":44410749346,\"position\":2,\"title\":\"X\",\"value\":17,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20219876,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0410\\u0442\\u043b\\u0435\\u0442\\u0438\\u043a\\u043e \\u041e\\u043b\\u0438\\u043c\\u043f\\u0438\\u044f\",\"2\":\"\\u0421\\u0442\\u043e\\u043a\\u043a\\u043e\\u043b\\u044c\\u043c\\u043e\"},\"partId\":184272290,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651086,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false},\"_2\":{\"id\":2817112033,\"facId\":44410749353,\"position\":3,\"title\":\"2\",\"value\":3.9500000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20219876,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0410\\u0442\\u043b\\u0435\\u0442\\u0438\\u043a\\u043e \\u041e\\u043b\\u0438\\u043c\\u043f\\u0438\\u044f\",\"2\":\"\\u0421\\u0442\\u043e\\u043a\\u043a\\u043e\\u043b\\u044c\\u043c\\u043e\"},\"partId\":184272290,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651086,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false}}}",
+                        "score": "null",
+                        "betradar": 52127841,
+                        "coefficients": [],
+                        "coefficientsOld": {
+                            "1": 1.22,
+                            "2": 3.95,
+                            "x": 17
+                        },
+                        "match_time": 40,
+                        "expired": false,
+                        "status": "ended",
+                        "team1": "Атлетико Олимпия",
+                        "team2": "Стоккольмо",
+                        "active": null
+                    },
+                    "start_time": 1723072500,
+                    "event_url": "/sport/info/atletiko-olimpiya-stokkolmo-3965223/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Атлетико Олимпия"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Стоккольмо"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 84,
+                        "team_away": 73
+                    },
+                    "betradar": 52127841,
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 12,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Уругвай",
+                    "categoryId": 91,
+                    "categorySlug": "urugvay-91",
+                    "tournamentSlug": "torneo-metropolitano-25434",
+                    "tournamentName": "Торнео Метрополитано",
+                    "tournamentId": 25434,
+                    "id": 3965225,
+                    "slug": "union-atletika-lagomar-3965225",
+                    "teams": [
+                        "Унион Атлетика",
+                        "Лагомар"
+                    ],
+                    "teamsOriginal": [
+                        "Унион Атлетика",
+                        "Лагомар"
+                    ],
+                    "liveDatetime": "2024-08-08T02:15:00+03:00",
+                    "liveId": 20218761,
+                    "prematchId": 20219877,
+                    "prematchData": {
+                        "id": 20219877,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":604651120,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817112116,\"facId\":44411336412,\"position\":1,\"title\":\"1\",\"value\":1.98,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20219877,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0423\\u043d\\u0438\\u043e\\u043d \\u0410\\u0442\\u043b\\u0435\\u0442\\u0438\\u043a\\u0430\",\"2\":\"\\u041b\\u0430\\u0433\\u043e\\u043c\\u0430\\u0440\"},\"partId\":184272299,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651120,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false},\"x\":{\"id\":2817112117,\"facId\":44411139716,\"position\":2,\"title\":\"X\",\"value\":12,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20219877,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0423\\u043d\\u0438\\u043e\\u043d \\u0410\\u0442\\u043b\\u0435\\u0442\\u0438\\u043a\\u0430\",\"2\":\"\\u041b\\u0430\\u0433\\u043e\\u043c\\u0430\\u0440\"},\"partId\":184272299,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651120,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false},\"_2\":{\"id\":2817112124,\"facId\":44411336413,\"position\":3,\"title\":\"2\",\"value\":1.8400000000000001,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20219877,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0423\\u043d\\u0438\\u043e\\u043d \\u0410\\u0442\\u043b\\u0435\\u0442\\u0438\\u043a\\u0430\",\"2\":\"\\u041b\\u0430\\u0433\\u043e\\u043c\\u0430\\u0440\"},\"partId\":184272299,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651120,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":true}}}",
+                        "old": "{\"market\":{\"id\":604651120,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817112116,\"facId\":44411295357,\"position\":1,\"title\":\"1\",\"value\":2,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20219877,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0423\\u043d\\u0438\\u043e\\u043d \\u0410\\u0442\\u043b\\u0435\\u0442\\u0438\\u043a\\u0430\",\"2\":\"\\u041b\\u0430\\u0433\\u043e\\u043c\\u0430\\u0440\"},\"partId\":184272299,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651120,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false},\"x\":{\"id\":2817112117,\"facId\":44411139716,\"position\":2,\"title\":\"X\",\"value\":12,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20219877,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0423\\u043d\\u0438\\u043e\\u043d \\u0410\\u0442\\u043b\\u0435\\u0442\\u0438\\u043a\\u0430\",\"2\":\"\\u041b\\u0430\\u0433\\u043e\\u043c\\u0430\\u0440\"},\"partId\":184272299,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651120,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":false},\"_2\":{\"id\":2817112124,\"facId\":44411295358,\"position\":3,\"title\":\"2\",\"value\":1.8200000000000001,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20219877,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0423\\u043d\\u0438\\u043e\\u043d \\u0410\\u0442\\u043b\\u0435\\u0442\\u0438\\u043a\\u0430\",\"2\":\"\\u041b\\u0430\\u0433\\u043e\\u043c\\u0430\\u0440\"},\"partId\":184272299,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604651120,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":75673,\"isMostPossible\":true}}}",
+                        "score": "null",
+                        "betradar": 52127843,
+                        "coefficients": {
+                            "1": 1.98,
+                            "2": 1.84,
+                            "x": 12
+                        },
+                        "coefficientsOld": {
+                            "1": 2,
+                            "2": 1.82,
+                            "x": 12
+                        },
+                        "match_time": 40,
+                        "expired": false,
+                        "status": "ended",
+                        "team1": "Унион Атлетика",
+                        "team2": "Лагомар",
+                        "active": null
+                    },
+                    "start_time": 1723072500,
+                    "event_url": "/sport/info/union-atletika-lagomar-3965225/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Унион Атлетика"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Лагомар"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 64,
+                        "team_away": 84
+                    },
+                    "betradar": 52127843,
+                    "coefficient": {
+                        "1": {
+                            "old": 12,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "bo",
+            "leagueName": "Либобаскет",
+            "countrySlug": "/sport/basketball/boliviia-1090/",
+            "leagueSlug": "/sport/basketball/boliviia-1090/libobasket-20797/",
+            "countryName": "Боливия",
+            "id": 20797,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Боливия",
+                    "categoryId": 1090,
+                    "categorySlug": "boliviia-1090",
+                    "tournamentSlug": "libobasket-20797",
+                    "tournamentName": "Либобаскет",
+                    "tournamentId": 20797,
+                    "id": 3964884,
+                    "slug": "pichincha-potosi-leones-de-potosi-3964884",
+                    "teams": [
+                        "Пичинча Потоси",
+                        "Леонес де Потоси"
+                    ],
+                    "teamsOriginal": [
+                        "Пичинча Потоси",
+                        "Леонес де Потоси"
+                    ],
+                    "liveDatetime": "2024-08-08T02:30:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20219080,
+                    "start_time": 1723073400,
+                    "event_url": "/sport/info/pichincha-potosi-leones-de-potosi-3964884/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Пичинча Потоси"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Леонес де Потоси"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": 6.7
+                        },
+                        "2": {
+                            "old": null,
+                            "new": 1.08
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": 22.1
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "do",
+            "leagueName": "LNB",
+            "countrySlug": "/sport/basketball/dominikanskaia-respublika-34/",
+            "leagueSlug": "/sport/basketball/dominikanskaia-respublika-34/lnb-11219/",
+            "countryName": "Доминиканская Республика",
+            "id": 11219,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Доминиканская Республика",
+                    "categoryId": 34,
+                    "categorySlug": "dominikanskaia-respublika-34",
+                    "tournamentSlug": "lnb-11219",
+                    "tournamentName": "LNB",
+                    "tournamentId": 11219,
+                    "id": 3962727,
+                    "slug": "indios-sfm-marineros-3962727",
+                    "teams": [
+                        "Индиос СФМ",
+                        "Маринерос"
+                    ],
+                    "teamsOriginal": [
+                        "Индиос СФМ",
+                        "Маринерос"
+                    ],
+                    "liveDatetime": "2024-08-08T02:30:00+03:00",
+                    "liveId": 20218749,
+                    "prematchId": 20215745,
+                    "prematchData": {
+                        "id": 20215745,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 1.56,
+                            "2": 2.4,
+                            "x": 16.6
+                        },
+                        "coefficientsOld": [],
+                        "match_time": null,
+                        "expired": false,
+                        "status": "4q",
+                        "team1": "Индиос СФМ",
+                        "team2": "Маринерос",
+                        "active": null
+                    },
+                    "start_time": 1723073400,
+                    "event_url": "/sport/info/indios-sfm-marineros-3962727/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Индиос СФМ"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Маринерос"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 107,
+                        "team_away": 85
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.01,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 11.7,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 12.7,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Доминиканская Республика",
+                    "categoryId": 34,
+                    "categorySlug": "dominikanskaia-respublika-34",
+                    "tournamentSlug": "lnb-11219",
+                    "tournamentName": "LNB",
+                    "tournamentId": 11219,
+                    "id": 3962735,
+                    "slug": "kaneros-del-este-titanes-3962735",
+                    "teams": [
+                        "Канерос дель Эсте",
+                        "Титанес"
+                    ],
+                    "teamsOriginal": [
+                        "Канерос дель Эсте",
+                        "Титанес"
+                    ],
+                    "liveDatetime": "2024-08-08T03:00:00+03:00",
+                    "liveId": 20218750,
+                    "prematchId": 20215750,
+                    "prematchData": {
+                        "id": 20215750,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 1.99,
+                            "2": 1.79,
+                            "x": 16.9
+                        },
+                        "coefficientsOld": [],
+                        "match_time": null,
+                        "expired": false,
+                        "status": "4q",
+                        "team1": "Канерос дель Эсте",
+                        "team2": "Титанес",
+                        "active": null
+                    },
+                    "start_time": 1723075200,
+                    "event_url": "/sport/info/kaneros-del-este-titanes-3962735/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Канерос дель Эсте"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Титанес"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 68,
+                        "team_away": 58
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 18.4,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 17.4,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Доминиканская Республика",
+                    "categoryId": 34,
+                    "categorySlug": "dominikanskaia-respublika-34",
+                    "tournamentSlug": "lnb-11219",
+                    "tournamentName": "LNB",
+                    "tournamentId": 11219,
+                    "id": 3964944,
+                    "slug": "metros-reales-de-la-vega-3964944",
+                    "teams": [
+                        "Метрос",
+                        "Реалес де Ла Вега"
+                    ],
+                    "teamsOriginal": [
+                        "Метрос",
+                        "Реалес де Ла Вега"
+                    ],
+                    "liveDatetime": "2024-08-08T03:30:00+03:00",
+                    "liveId": 20219836,
+                    "prematchId": 20219297,
+                    "prematchData": {
+                        "id": 20219297,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 1.69,
+                            "2": 2.13,
+                            "x": 16.8
+                        },
+                        "coefficientsOld": {
+                            "1": 1.69,
+                            "2": 2.13,
+                            "x": 17
+                        },
+                        "match_time": null,
+                        "expired": false,
+                        "status": "4q",
+                        "team1": "Метрос",
+                        "team2": "Реалес де Ла Вега",
+                        "active": null
+                    },
+                    "start_time": 1723077000,
+                    "event_url": "/sport/info/metros-reales-de-la-vega-3964944/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Метрос"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Реалес де Ла Вега"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 83,
+                        "team_away": 79
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 18.1,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 15.6,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "pr",
+            "leagueName": "BSN",
+            "countrySlug": "/sport/basketball/puerto-riko-75/",
+            "leagueSlug": "/sport/basketball/puerto-riko-75/bsn-10220/",
+            "countryName": "Пуэрто-Рико",
+            "id": 10220,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Пуэрто-Рико",
+                    "categoryId": 75,
+                    "categorySlug": "puerto-riko-75",
+                    "tournamentSlug": "bsn-10220",
+                    "tournamentName": "BSN",
+                    "tournamentId": 10220,
+                    "id": 3965043,
+                    "slug": "ponse-kriollos-de-kaguas-3965043",
+                    "teams": [
+                        "Понсе",
+                        "Криоллос де Кагуас"
+                    ],
+                    "teamsOriginal": [
+                        "Понсе",
+                        "Криоллос де Кагуас"
+                    ],
+                    "liveDatetime": "2024-08-08T03:05:00+03:00",
+                    "liveId": 20218753,
+                    "prematchId": 20219646,
+                    "prematchData": {
+                        "id": 20219646,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":604637656,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817032090,\"facId\":44410500410,\"position\":1,\"title\":\"1\",\"value\":1.48,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20219646,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041f\\u043e\\u043d\\u0441\\u0435\",\"2\":\"\\u041a\\u0440\\u0438\\u043e\\u043b\\u043b\\u043e\\u0441 \\u0434\\u0435 \\u041a\\u0430\\u0433\\u0443\\u0430\\u0441\"},\"partId\":184270031,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604637656,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":86594,\"isMostPossible\":true},\"x\":{\"id\":2817032092,\"facId\":44410500411,\"position\":2,\"title\":\"X\",\"value\":14,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20219646,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041f\\u043e\\u043d\\u0441\\u0435\",\"2\":\"\\u041a\\u0440\\u0438\\u043e\\u043b\\u043b\\u043e\\u0441 \\u0434\\u0435 \\u041a\\u0430\\u0433\\u0443\\u0430\\u0441\"},\"partId\":184270031,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604637656,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":86594,\"isMostPossible\":false},\"_2\":{\"id\":2817032098,\"facId\":44410500414,\"position\":3,\"title\":\"2\",\"value\":2.6499999999999999,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20219646,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041f\\u043e\\u043d\\u0441\\u0435\",\"2\":\"\\u041a\\u0440\\u0438\\u043e\\u043b\\u043b\\u043e\\u0441 \\u0434\\u0435 \\u041a\\u0430\\u0433\\u0443\\u0430\\u0441\"},\"partId\":184270031,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604637656,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":86594,\"isMostPossible\":false}}}",
+                        "old": "{\"market\":{\"id\":604637656,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817032090,\"facId\":44410500410,\"position\":1,\"title\":\"1\",\"value\":1.48,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20219646,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041f\\u043e\\u043d\\u0441\\u0435\",\"2\":\"\\u041a\\u0440\\u0438\\u043e\\u043b\\u043b\\u043e\\u0441 \\u0434\\u0435 \\u041a\\u0430\\u0433\\u0443\\u0430\\u0441\"},\"partId\":184270031,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604637656,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":86594,\"isMostPossible\":true},\"x\":{\"id\":2817032092,\"facId\":44410500411,\"position\":2,\"title\":\"X\",\"value\":14,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20219646,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041f\\u043e\\u043d\\u0441\\u0435\",\"2\":\"\\u041a\\u0440\\u0438\\u043e\\u043b\\u043b\\u043e\\u0441 \\u0434\\u0435 \\u041a\\u0430\\u0433\\u0443\\u0430\\u0441\"},\"partId\":184270031,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604637656,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":86594,\"isMostPossible\":false},\"_2\":{\"id\":2817032098,\"facId\":44410500414,\"position\":3,\"title\":\"2\",\"value\":2.6499999999999999,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20219646,\"eventType\":\"prematch\",\"eventGameId\":25,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041f\\u043e\\u043d\\u0441\\u0435\",\"2\":\"\\u041a\\u0440\\u0438\\u043e\\u043b\\u043b\\u043e\\u0441 \\u0434\\u0435 \\u041a\\u0430\\u0433\\u0443\\u0430\\u0441\"},\"partId\":184270031,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604637656,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":86594,\"isMostPossible\":false}}}",
+                        "score": "null",
+                        "betradar": 51988767,
+                        "coefficients": {
+                            "1": 1.48,
+                            "2": 2.65,
+                            "x": 14
+                        },
+                        "coefficientsOld": {
+                            "1": 1.52,
+                            "2": 2.55,
+                            "x": 13
+                        },
+                        "match_time": 30,
+                        "expired": false,
+                        "status": "paused",
+                        "team1": "Понсе",
+                        "team2": "Криоллос де Кагуас",
+                        "active": null
+                    },
+                    "start_time": 1723075500,
+                    "event_url": "/sport/info/ponse-kriollos-de-kaguas-3965043/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Понсе"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Криоллос де Кагуас"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 71,
+                        "team_away": 59
+                    },
+                    "betradar": 51988767,
+                    "coefficient": {
+                        "1": {
+                            "old": 1.03,
+                            "new": 1.03
+                        },
+                        "2": {
+                            "old": 10.8,
+                            "new": 10.82
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 15,
+                            "new": 15
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "mx",
+            "leagueName": "CIBAPAC",
+            "countrySlug": "/sport/basketball/meksika-65/",
+            "leagueSlug": "/sport/basketball/meksika-65/cibapac-17526/",
+            "countryName": "Мексика",
+            "id": 17526,
+            "is_open": true,
+            "games": [
+                {
+                    "categoryName": "Мексика",
+                    "categoryId": 65,
+                    "categorySlug": "meksika-65",
+                    "tournamentSlug": "cibapac-17526",
+                    "tournamentName": "CIBAPAC",
+                    "tournamentId": 17526,
+                    "id": 3964698,
+                    "slug": "eskuderos-halisko-piratas-masatlan-3964698",
+                    "teams": [
+                        "Эскудерос Халиско",
+                        "Пиратас Масатлан"
+                    ],
+                    "teamsOriginal": [
+                        "Эскудерос Халиско",
+                        "Пиратас Масатлан"
+                    ],
+                    "liveDatetime": "2024-08-08T04:00:00+03:00",
+                    "liveId": 20221044,
+                    "prematchId": 20218934,
+                    "prematchData": {
+                        "id": 20218934,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": [],
+                        "coefficientsOld": [],
+                        "match_time": 10,
+                        "expired": false,
+                        "status": "4q",
+                        "team1": "Эскудерос Халиско",
+                        "team2": "Пиратас Масатлан",
+                        "active": null
+                    },
+                    "start_time": 1723078800,
+                    "event_url": "/sport/info/eskuderos-halisko-piratas-masatlan-3964698/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Эскудерос Халиско"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Пиратас Масатлан"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 72,
+                        "team_away": 60
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "cn",
+            "leagueName": "CDBL",
+            "countrySlug": "/sport/basketball/kitai-51/",
+            "leagueSlug": "/sport/basketball/kitai-51/cdbl-37722/",
+            "countryName": "Китай",
+            "id": 37722,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "cdbl-37722",
+                    "tournamentName": "CDBL",
+                    "tournamentId": 37722,
+                    "id": 3967779,
+                    "slug": "ninbo-ueyvs-fuchzhou-gardians-3967779",
+                    "teams": [
+                        "Нинбо Уэйвс",
+                        "Фучжоу Гардианс"
+                    ],
+                    "teamsOriginal": [
+                        "Нинбо Уэйвс",
+                        "Фучжоу Гардианс"
+                    ],
+                    "liveDatetime": "2024-08-08T07:45:00+03:00",
+                    "liveId": 20223957,
+                    "prematchId": null,
+                    "start_time": 1723092300,
+                    "event_url": "/sport/info/ninbo-ueyvs-fuchzhou-gardians-3967779/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Нинбо Уэйвс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Фучжоу Гардианс"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 90,
+                        "team_away": 83
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.08,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 5.71,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "cdbl-37722",
+                    "tournamentName": "CDBL",
+                    "tournamentId": 37722,
+                    "id": 3968050,
+                    "slug": "ninbo-ueyvs-shenyan-sigals-3968050",
+                    "teams": [
+                        "Нинбо Уэйвс",
+                        "Шэньян Сигалс"
+                    ],
+                    "teamsOriginal": [
+                        "Нинбо Уэйвс",
+                        "Шэньян Сигалс"
+                    ],
+                    "liveDatetime": "2024-08-08T09:20:00+03:00",
+                    "liveId": 20223958,
+                    "prematchId": null,
+                    "start_time": 1723098000,
+                    "event_url": "/sport/info/ninbo-ueyvs-shenyan-sigals-3968050/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Нинбо Уэйвс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Шэньян Сигалс"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 97,
+                        "team_away": 106
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 4.84,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 1.12,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "cdbl-37722",
+                    "tournamentName": "CDBL",
+                    "tournamentId": 37722,
+                    "id": 3968307,
+                    "slug": "shenyan-sigals-fuchzhou-gardians-3968307",
+                    "teams": [
+                        "Шэньян Сигалс",
+                        "Фучжоу Гардианс"
+                    ],
+                    "teamsOriginal": [
+                        "Шэньян Сигалс",
+                        "Фучжоу Гардианс"
+                    ],
+                    "liveDatetime": "2024-08-08T10:50:00+03:00",
+                    "liveId": 20223960,
+                    "prematchId": null,
+                    "start_time": 1723103400,
+                    "event_url": "/sport/info/shenyan-sigals-fuchzhou-gardians-3968307/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Шэньян Сигалс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Фучжоу Гардианс"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 94,
+                        "team_away": 102
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 2.22,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 1.57,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "cdbl-37722",
+                    "tournamentName": "CDBL",
+                    "tournamentId": 37722,
+                    "id": 3968582,
+                    "slug": "czinan-ciklones-sian-ledzhends-3968582",
+                    "teams": [
+                        "Цзинань Циклонес",
+                        "Сиан Леджендс"
+                    ],
+                    "teamsOriginal": [
+                        "Цзинань Циклонес",
+                        "Сиан Леджендс"
+                    ],
+                    "liveDatetime": "2024-08-08T12:15:00+03:00",
+                    "liveId": 20223961,
+                    "prematchId": null,
+                    "start_time": 1723108500,
+                    "event_url": "/sport/info/czinan-ciklones-sian-ledzhends-3968582/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Цзинань Циклонес"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Сиан Леджендс"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 93,
+                        "team_away": 96
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 7.06,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 1.04,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "cdbl-37722",
+                    "tournamentName": "CDBL",
+                    "tournamentId": 37722,
+                    "id": 3968789,
+                    "slug": "sian-ledzhends-uhan-laytnings-3968789",
+                    "teams": [
+                        "Сиан Леджендс",
+                        "Ухань Лайтнингс"
+                    ],
+                    "teamsOriginal": [
+                        "Сиан Леджендс",
+                        "Ухань Лайтнингс"
+                    ],
+                    "liveDatetime": "2024-08-08T13:35:00+03:00",
+                    "liveId": 20223962,
+                    "prematchId": null,
+                    "start_time": 1723113300,
+                    "event_url": "/sport/info/sian-ledzhends-uhan-laytnings-3968789/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Сиан Леджендс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Ухань Лайтнингс"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 100,
+                        "team_away": 96
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.25,
+                            "new": 1.24
+                        },
+                        "2": {
+                            "old": 3.38,
+                            "new": 3.46
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": 0
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "cdbl-37722",
+                    "tournamentName": "CDBL",
+                    "tournamentId": 37722,
+                    "id": 3968957,
+                    "slug": "uhan-laytnings-czinan-univ-3968957",
+                    "teams": [
+                        "Ухань Лайтнингс",
+                        "Цзинань Унив."
+                    ],
+                    "teamsOriginal": [
+                        "Ухань Лайтнингс",
+                        "Цзинань Унив."
+                    ],
+                    "liveDatetime": "2024-08-08T15:30:00+03:00",
+                    "liveId": 20223963,
+                    "prematchId": null,
+                    "start_time": 1723120200,
+                    "event_url": "/sport/info/uhan-laytnings-czinan-univ-3968957/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Ухань Лайтнингс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Цзинань Унив."
+                        }
+                    ],
+                    "score": {
+                        "team_home": 85,
+                        "team_away": 86
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.19,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 3.88,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "ph",
+            "leagueName": "Кубок Пинойлиги",
+            "countrySlug": "/sport/basketball/filippiny-92/",
+            "leagueSlug": "/sport/basketball/filippiny-92/kubok-pinoiligi-36483/",
+            "countryName": "Филиппины",
+            "id": 36483,
+            "is_open": true,
+            "games": [
+                {
+                    "categoryName": "Филиппины",
+                    "categoryId": 92,
+                    "categorySlug": "filippiny-92",
+                    "tournamentSlug": "kubok-pinoiligi-36483",
+                    "tournamentName": "Кубок Пинойлиги",
+                    "tournamentId": 36483,
+                    "id": 3967947,
+                    "slug": "olfu-finiks-flaing-dragons-3967947",
+                    "teams": [
+                        "ОЛФУ Финикс",
+                        "Флаинг Драгонс"
+                    ],
+                    "teamsOriginal": [
+                        "ОЛФУ Финикс",
+                        "Флаинг Драгонс"
+                    ],
+                    "liveDatetime": "2024-08-08T08:45:00+03:00",
+                    "liveId": 20224228,
+                    "prematchId": null,
+                    "start_time": 1723095900,
+                    "event_url": "/sport/info/olfu-finiks-flaing-dragons-3967947/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "ОЛФУ Финикс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Флаинг Драгонс"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 67,
+                        "team_away": 61
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Филиппины",
+                    "categoryId": 92,
+                    "categorySlug": "filippiny-92",
+                    "tournamentSlug": "kubok-pinoiligi-36483",
+                    "tournamentName": "Кубок Пинойлиги",
+                    "tournamentId": 36483,
+                    "id": 3968204,
+                    "slug": "mu-kardinals-dzhenerals-3968204",
+                    "teams": [
+                        "МУ Кардиналс",
+                        "Дженералс"
+                    ],
+                    "teamsOriginal": [
+                        "МУ Кардиналс",
+                        "Дженералс"
+                    ],
+                    "liveDatetime": "2024-08-08T10:30:00+03:00",
+                    "liveId": 20224886,
+                    "prematchId": null,
+                    "start_time": 1723102200,
+                    "event_url": "/sport/info/mu-kardinals-dzhenerals-3968204/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "МУ Кардиналс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Дженералс"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 53,
+                        "team_away": 67
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "cn",
+            "leagueName": "Национальный чемпионат. До 21 года",
+            "countrySlug": "/sport/basketball/kitai-51/",
+            "leagueSlug": "/sport/basketball/kitai-51/natsionalnyi-chempionat-do-21-goda-31878/",
+            "countryName": "Китай",
+            "id": 31878,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "natsionalnyi-chempionat-do-21-goda-31878",
+                    "tournamentName": "Национальный чемпионат. До 21 года",
+                    "tournamentId": 31878,
+                    "id": 3967908,
+                    "slug": "nankin-tongsi-mol-shandun-hay-spid-mol-3967908",
+                    "teams": [
+                        "Нанкин Тонгси (мол)",
+                        "Шаньдун Хай Спид (мол)"
+                    ],
+                    "teamsOriginal": [
+                        "Нанкин Тонгси (мол)",
+                        "Шаньдун Хай Спид (мол)"
+                    ],
+                    "liveDatetime": "2024-08-08T09:00:00+03:00",
+                    "liveId": 20218764,
+                    "prematchId": null,
+                    "start_time": 1723096800,
+                    "event_url": "/sport/info/nankin-tongsi-mol-shandun-hay-spid-mol-3967908/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Нанкин Тонгси (мол)"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Шаньдун Хай Спид (мол)"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 71,
+                        "team_away": 111
+                    },
+                    "betradar": 52153875,
+                    "coefficient": {
+                        "1": {
+                            "old": 7.15,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 1.06,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 9,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "natsionalnyi-chempionat-do-21-goda-31878",
+                    "tournamentName": "Национальный чемпионат. До 21 года",
+                    "tournamentId": 31878,
+                    "id": 3968065,
+                    "slug": "henan-golden-elefants-mol-anhoy-veni-mol-3968065",
+                    "teams": [
+                        "Хэнань Голден Элефантс (мол)",
+                        "Аньхой Вэньи (мол)"
+                    ],
+                    "teamsOriginal": [
+                        "Хэнань Голден Элефантс (мол)",
+                        "Аньхой Вэньи (мол)"
+                    ],
+                    "liveDatetime": "2024-08-08T10:00:00+03:00",
+                    "liveId": 20218758,
+                    "prematchId": null,
+                    "start_time": 1723100400,
+                    "event_url": "/sport/info/henan-golden-elefants-mol-anhoy-veni-mol-3968065/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Хэнань Голден Элефантс (мол)"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Аньхой Вэньи (мол)"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 84,
+                        "team_away": 65
+                    },
+                    "betradar": 52153879,
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 9,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 9,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "natsionalnyi-chempionat-do-21-goda-31878",
+                    "tournamentName": "Национальный чемпионат. До 21 года",
+                    "tournamentId": 31878,
+                    "id": 3968231,
+                    "slug": "hebey-ksianglan-mol-shenchzhen-aviators-mol-3968231",
+                    "teams": [
+                        "Хэбэй Ксианглан (мол)",
+                        "Шэньчжэнь Авиаторс (мол)"
+                    ],
+                    "teamsOriginal": [
+                        "Хэбэй Ксианглан (мол)",
+                        "Шэньчжэнь Авиаторс (мол)"
+                    ],
+                    "liveDatetime": "2024-08-08T11:00:00+03:00",
+                    "liveId": 20218759,
+                    "prematchId": null,
+                    "start_time": 1723104000,
+                    "event_url": "/sport/info/hebey-ksianglan-mol-shenchzhen-aviators-mol-3968231/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Хэбэй Ксианглан (мол)"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Шэньчжэнь Авиаторс (мол)"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 62,
+                        "team_away": 77
+                    },
+                    "betradar": 52153881,
+                    "coefficient": {
+                        "1": {
+                            "old": 9,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 9,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "natsionalnyi-chempionat-do-21-goda-31878",
+                    "tournamentName": "Национальный чемпионат. До 21 года",
+                    "tournamentId": 31878,
+                    "id": 3968646,
+                    "slug": "fudzyan-mol-hefey-kuanfen-mol-3968646",
+                    "teams": [
+                        "Фудзянь (мол)",
+                        "Хэфэй Куанфэн (мол)"
+                    ],
+                    "teamsOriginal": [
+                        "Фудзянь (мол)",
+                        "Хэфэй Куанфэн (мол)"
+                    ],
+                    "liveDatetime": "2024-08-08T13:30:00+03:00",
+                    "liveId": 20218751,
+                    "prematchId": null,
+                    "start_time": 1723113000,
+                    "event_url": "/sport/info/fudzyan-mol-hefey-kuanfen-mol-3968646/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Фудзянь (мол)"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Хэфэй Куанфэн (мол)"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 84,
+                        "team_away": 48
+                    },
+                    "betradar": 52153907,
+                    "coefficient": {
+                        "1": {
+                            "old": 1.23,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 4.47,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 7.95,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "natsionalnyi-chempionat-do-21-goda-31878",
+                    "tournamentName": "Национальный чемпионат. До 21 года",
+                    "tournamentId": 31878,
+                    "id": 3968696,
+                    "slug": "chanshavan-mol-sychuan-blyu-ueylz-mol-3968696",
+                    "teams": [
+                        "Чаншаван (мол)",
+                        "Сычуань Блю Уэйлз (мол)"
+                    ],
+                    "teamsOriginal": [
+                        "Чаншаван (мол)",
+                        "Сычуань Блю Уэйлз (мол)"
+                    ],
+                    "liveDatetime": "2024-08-08T14:00:00+03:00",
+                    "liveId": 20218760,
+                    "prematchId": null,
+                    "start_time": 1723114800,
+                    "event_url": "/sport/info/chanshavan-mol-sychuan-blyu-ueylz-mol-3968696/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Чаншаван (мол)"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Сычуань Блю Уэйлз (мол)"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 70,
+                        "team_away": 110
+                    },
+                    "betradar": 52153909,
+                    "coefficient": {
+                        "1": {
+                            "old": 9,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 8.59,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "natsionalnyi-chempionat-do-21-goda-31878",
+                    "tournamentName": "Национальный чемпионат. До 21 года",
+                    "tournamentId": 31878,
+                    "id": 3968837,
+                    "slug": "czyansu-dregons-mol-heylunczyan-mol-3968837",
+                    "teams": [
+                        "Цзянсу Дрэгонс (мол)",
+                        "Хэйлунцзян (мол)"
+                    ],
+                    "teamsOriginal": [
+                        "Цзянсу Дрэгонс (мол)",
+                        "Хэйлунцзян (мол)"
+                    ],
+                    "liveDatetime": "2024-08-08T15:00:00+03:00",
+                    "liveId": 20218757,
+                    "prematchId": null,
+                    "start_time": 1723118400,
+                    "event_url": "/sport/info/czyansu-dregons-mol-heylunczyan-mol-3968837/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Цзянсу Дрэгонс (мол)"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Хэйлунцзян (мол)"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 49,
+                        "team_away": 67
+                    },
+                    "betradar": 52153911,
+                    "coefficient": {
+                        "1": {
+                            "old": 9,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 1.01,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 9,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Китай",
+                    "categoryId": 51,
+                    "categorySlug": "kitai-51",
+                    "tournamentSlug": "natsionalnyi-chempionat-do-21-goda-31878",
+                    "tournamentName": "Национальный чемпионат. До 21 года",
+                    "tournamentId": 31878,
+                    "id": 3968951,
+                    "slug": "sinczyan-taygers-mol-cindao-dablstar-mol-3968951",
+                    "teams": [
+                        "Синьцзян Тайгерс (мол)",
+                        "Циндао Даблстар (мол)"
+                    ],
+                    "teamsOriginal": [
+                        "Синьцзян Тайгерс (мол)",
+                        "Циндао Даблстар (мол)"
+                    ],
+                    "liveDatetime": "2024-08-08T15:50:00+03:00",
+                    "liveId": 20218768,
+                    "prematchId": null,
+                    "start_time": 1723121400,
+                    "event_url": "/sport/info/sinczyan-taygers-mol-cindao-dablstar-mol-3968951/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Синьцзян Тайгерс (мол)"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Циндао Даблстар (мол)"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 74,
+                        "team_away": 94
+                    },
+                    "betradar": 52153915,
+                    "coefficient": {
+                        "1": {
+                            "old": 9,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 1.01,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 9,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "ru",
+            "leagueName": "Rocket League. Женщины (4x10 мин)",
+            "countrySlug": "/sport/basketball/rossiya-77/",
+            "leagueSlug": "/sport/basketball/rossiya-77/rocket-league-zhenshchiny-4x10-min-40412/",
+            "countryName": "Россия",
+            "id": 40412,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Россия",
+                    "categoryId": 77,
+                    "categorySlug": "rossiya-77",
+                    "tournamentSlug": "rocket-league-zhenshchiny-4x10-min-40412",
+                    "tournamentName": "Rocket League. Женщины (4x10 мин)",
+                    "tournamentId": 40412,
+                    "id": 3968056,
+                    "slug": "swallows-ducks-3968056",
+                    "teams": [
+                        "SWALLOWS",
+                        "DUCKS"
+                    ],
+                    "teamsOriginal": [
+                        "SWALLOWS",
+                        "DUCKS"
+                    ],
+                    "liveDatetime": "2024-08-08T09:50:00+03:00",
+                    "liveId": 20219623,
+                    "prematchId": null,
+                    "start_time": 1723099800,
+                    "event_url": "/sport/info/swallows-ducks-3968056/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "SWALLOWS"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "DUCKS"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 77,
+                        "team_away": 87
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.79,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 2.33,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 7.7,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Россия",
+                    "categoryId": 77,
+                    "categorySlug": "rossiya-77",
+                    "tournamentSlug": "rocket-league-zhenshchiny-4x10-min-40412",
+                    "tournamentName": "Rocket League. Женщины (4x10 мин)",
+                    "tournamentId": 40412,
+                    "id": 3968276,
+                    "slug": "ducks-gulls-3968276",
+                    "teams": [
+                        "DUCKS",
+                        "GULLS"
+                    ],
+                    "teamsOriginal": [
+                        "DUCKS",
+                        "GULLS"
+                    ],
+                    "liveDatetime": "2024-08-08T11:10:00+03:00",
+                    "liveId": 20219624,
+                    "prematchId": null,
+                    "start_time": 1723104600,
+                    "event_url": "/sport/info/ducks-gulls-3968276/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "DUCKS"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "GULLS"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 84,
+                        "team_away": 91
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 4,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 1.31,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 9,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Россия",
+                    "categoryId": 77,
+                    "categorySlug": "rossiya-77",
+                    "tournamentSlug": "rocket-league-zhenshchiny-4x10-min-40412",
+                    "tournamentName": "Rocket League. Женщины (4x10 мин)",
+                    "tournamentId": 40412,
+                    "id": 3968524,
+                    "slug": "flamingos-swallows-3968524",
+                    "teams": [
+                        "FLAMINGOS",
+                        "SWALLOWS"
+                    ],
+                    "teamsOriginal": [
+                        "FLAMINGOS",
+                        "SWALLOWS"
+                    ],
+                    "liveDatetime": "2024-08-08T12:30:00+03:00",
+                    "liveId": 20219625,
+                    "prematchId": null,
+                    "start_time": 1723109400,
+                    "event_url": "/sport/info/flamingos-swallows-3968524/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "FLAMINGOS"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "SWALLOWS"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 84,
+                        "team_away": 91
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 5.3,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 1.12,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Россия",
+                    "categoryId": 77,
+                    "categorySlug": "rossiya-77",
+                    "tournamentSlug": "rocket-league-zhenshchiny-4x10-min-40412",
+                    "tournamentName": "Rocket League. Женщины (4x10 мин)",
+                    "tournamentId": 40412,
+                    "id": 3968693,
+                    "slug": "ducks-flamingos-3968693",
+                    "teams": [
+                        "DUCKS",
+                        "FLAMINGOS"
+                    ],
+                    "teamsOriginal": [
+                        "DUCKS",
+                        "FLAMINGOS"
+                    ],
+                    "liveDatetime": "2024-08-08T13:50:00+03:00",
+                    "liveId": 20219626,
+                    "prematchId": null,
+                    "start_time": 1723114200,
+                    "event_url": "/sport/info/ducks-flamingos-3968693/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "DUCKS"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "FLAMINGOS"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 67,
+                        "team_away": 79
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.15,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 6.4,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 9.9,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "my",
+            "leagueName": "Кубок",
+            "countrySlug": "/sport/basketball/malayziya-61/",
+            "leagueSlug": "/sport/basketball/malayziya-61/kubok-14322/",
+            "countryName": "Малайзия",
+            "id": 14322,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Малайзия",
+                    "categoryId": 61,
+                    "categorySlug": "malayziya-61",
+                    "tournamentSlug": "kubok-14322",
+                    "tournamentName": "Кубок",
+                    "tournamentId": 14322,
+                    "id": 3968248,
+                    "slug": "dzhohor-taygers-negeri-sembilan-3968248",
+                    "teams": [
+                        "Джохор Тайгерс",
+                        "Негери Сембилан"
+                    ],
+                    "teamsOriginal": [
+                        "Джохор Тайгерс",
+                        "Негери Сембилан"
+                    ],
+                    "liveDatetime": "2024-08-08T11:00:00+03:00",
+                    "liveId": 20224964,
+                    "prematchId": null,
+                    "start_time": 1723104000,
+                    "event_url": "/sport/info/dzhohor-taygers-negeri-sembilan-3968248/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Джохор Тайгерс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Негери Сембилан"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 46,
+                        "team_away": 78
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Малайзия",
+                    "categoryId": 61,
+                    "categorySlug": "malayziya-61",
+                    "tournamentSlug": "kubok-14322",
+                    "tournamentName": "Кубок",
+                    "tournamentId": 14322,
+                    "id": 3968847,
+                    "slug": "selangor-sabah-3968847",
+                    "teams": [
+                        "Селангор",
+                        "Сабах"
+                    ],
+                    "teamsOriginal": [
+                        "Селангор",
+                        "Сабах"
+                    ],
+                    "liveDatetime": "2024-08-08T15:00:00+03:00",
+                    "liveId": 20224966,
+                    "prematchId": null,
+                    "start_time": 1723118400,
+                    "event_url": "/sport/info/selangor-sabah-3968847/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Селангор"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Сабах"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 79,
+                        "team_away": 107
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "ph",
+            "leagueName": "MPBL",
+            "countrySlug": "/sport/basketball/filippiny-92/",
+            "leagueSlug": "/sport/basketball/filippiny-92/mpbl-28599/",
+            "countryName": "Филиппины",
+            "id": 28599,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Филиппины",
+                    "categoryId": 92,
+                    "categorySlug": "filippiny-92",
+                    "tournamentSlug": "mpbl-28599",
+                    "tournamentName": "MPBL",
+                    "tournamentId": 28599,
+                    "id": 3965213,
+                    "slug": "saut-kotabato-uorriors-valensuel-klassik-3965213",
+                    "teams": [
+                        "Саут Котабато Уорриорс",
+                        "Валенсуэл Классик"
+                    ],
+                    "teamsOriginal": [
+                        "Саут Котабато Уорриорс",
+                        "Валенсуэл Классик"
+                    ],
+                    "liveDatetime": "2024-08-08T11:00:00+03:00",
+                    "liveId": 20221045,
+                    "prematchId": 20219874,
+                    "prematchData": {
+                        "id": 20219874,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": [],
+                        "coefficientsOld": [],
+                        "match_time": 10,
+                        "expired": false,
+                        "status": "ended",
+                        "team1": "Саут Котабато Уорриорс",
+                        "team2": "Валенсуэл Классик",
+                        "active": null
+                    },
+                    "start_time": 1723104000,
+                    "event_url": "/sport/info/saut-kotabato-uorriors-valensuel-klassik-3965213/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Саут Котабато Уорриорс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Валенсуэл Классик"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 76,
+                        "team_away": 74
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Филиппины",
+                    "categoryId": 92,
+                    "categorySlug": "filippiny-92",
+                    "tournamentSlug": "mpbl-28599",
+                    "tournamentName": "MPBL",
+                    "tournamentId": 28599,
+                    "id": 3965214,
+                    "slug": "san-huan-nayts-pasay-voyadzhers-3965214",
+                    "teams": [
+                        "Сан Хуан Найтс",
+                        "Пасай Вояджерс"
+                    ],
+                    "teamsOriginal": [
+                        "Сан Хуан Найтс",
+                        "Пасай Вояджерс"
+                    ],
+                    "liveDatetime": "2024-08-08T13:00:00+03:00",
+                    "liveId": 20221046,
+                    "prematchId": 20219872,
+                    "prematchData": {
+                        "id": 20219872,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": [],
+                        "coefficientsOld": [],
+                        "match_time": 10,
+                        "expired": false,
+                        "status": "4q",
+                        "team1": "Сан Хуан Найтс",
+                        "team2": "Пасай Вояджерс",
+                        "active": null
+                    },
+                    "start_time": 1723111200,
+                    "event_url": "/sport/info/san-huan-nayts-pasay-voyadzhers-3965214/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Сан Хуан Найтс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Пасай Вояджерс"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 93,
+                        "team_away": 70
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Филиппины",
+                    "categoryId": 92,
+                    "categorySlug": "filippiny-92",
+                    "tournamentSlug": "mpbl-28599",
+                    "tournamentName": "MPBL",
+                    "tournamentId": 28599,
+                    "id": 3965215,
+                    "slug": "bakolod-masters-sardines-binan-tatak-gel-geym-x-3965215",
+                    "teams": [
+                        "Баколод Мастерс Сардинес",
+                        "Бинан Татак Гел Гейм X"
+                    ],
+                    "teamsOriginal": [
+                        "Баколод Мастерс Сардинес",
+                        "Бинан Татак Гел Гейм X"
+                    ],
+                    "liveDatetime": "2024-08-08T15:00:00+03:00",
+                    "liveId": 20221047,
+                    "prematchId": 20219873,
+                    "prematchData": {
+                        "id": 20219873,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": [],
+                        "coefficientsOld": [],
+                        "match_time": null,
+                        "expired": false,
+                        "status": "4q",
+                        "team1": "Баколод Мастерс Сардинес",
+                        "team2": "Бинан Татак Гел Гейм X",
+                        "active": null
+                    },
+                    "start_time": 1723118400,
+                    "event_url": "/sport/info/bakolod-masters-sardines-binan-tatak-gel-geym-x-3965215/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Баколод Мастерс Сардинес"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Бинан Татак Гел Гейм X"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 72,
+                        "team_away": 87
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "ru",
+            "leagueName": "Rocket League (4x12 мин)",
+            "countrySlug": "/sport/basketball/rossiya-77/",
+            "leagueSlug": "/sport/basketball/rossiya-77/rocket-league-4x12-min-33567/",
+            "countryName": "Россия",
+            "id": 33567,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Россия",
+                    "categoryId": 77,
+                    "categorySlug": "rossiya-77",
+                    "tournamentSlug": "rocket-league-4x12-min-33567",
+                    "tournamentName": "Rocket League (4x12 мин)",
+                    "tournamentId": 33567,
+                    "id": 3968280,
+                    "slug": "nayts-rl-ganners-rl-3968280",
+                    "teams": [
+                        "Найтс РЛ",
+                        "Ганнерс РЛ"
+                    ],
+                    "teamsOriginal": [
+                        "Найтс РЛ",
+                        "Ганнерс РЛ"
+                    ],
+                    "liveDatetime": "2024-08-08T11:00:00+03:00",
+                    "liveId": 20219589,
+                    "prematchId": null,
+                    "start_time": 1723104000,
+                    "event_url": "/sport/info/nayts-rl-ganners-rl-3968280/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Найтс РЛ"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Ганнерс РЛ"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 121,
+                        "team_away": 134
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 24,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Россия",
+                    "categoryId": 77,
+                    "categorySlug": "rossiya-77",
+                    "tournamentSlug": "rocket-league-4x12-min-33567",
+                    "tournamentName": "Rocket League (4x12 мин)",
+                    "tournamentId": 33567,
+                    "id": 3967100,
+                    "slug": "ganners-rl-marines-rl-3967100",
+                    "teams": [
+                        "Ганнерс РЛ",
+                        "Маринес РЛ"
+                    ],
+                    "teamsOriginal": [
+                        "Ганнерс РЛ",
+                        "Маринес РЛ"
+                    ],
+                    "liveDatetime": "2024-08-08T12:20:00+03:00",
+                    "liveId": 20219590,
+                    "prematchId": null,
+                    "start_time": 1723108800,
+                    "event_url": "/sport/info/ganners-rl-marines-rl-3967100/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Ганнерс РЛ"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Маринес РЛ"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 128,
+                        "team_away": 101
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 23,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Россия",
+                    "categoryId": 77,
+                    "categorySlug": "rossiya-77",
+                    "tournamentSlug": "rocket-league-4x12-min-33567",
+                    "tournamentName": "Rocket League (4x12 мин)",
+                    "tournamentId": 33567,
+                    "id": 3967300,
+                    "slug": "reyders-rl-nayts-rl-3967300",
+                    "teams": [
+                        "Рейдерс РЛ",
+                        "Найтс РЛ"
+                    ],
+                    "teamsOriginal": [
+                        "Рейдерс РЛ",
+                        "Найтс РЛ"
+                    ],
+                    "liveDatetime": "2024-08-08T13:40:00+03:00",
+                    "liveId": 20219591,
+                    "prematchId": null,
+                    "start_time": 1723113600,
+                    "event_url": "/sport/info/reyders-rl-nayts-rl-3967300/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Рейдерс РЛ"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Найтс РЛ"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 107,
+                        "team_away": 124
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 22,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Россия",
+                    "categoryId": 77,
+                    "categorySlug": "rossiya-77",
+                    "tournamentSlug": "rocket-league-4x12-min-33567",
+                    "tournamentName": "Rocket League (4x12 мин)",
+                    "tournamentId": 33567,
+                    "id": 3967721,
+                    "slug": "reyders-rl-ganners-rl-3967721",
+                    "teams": [
+                        "Рейдерс РЛ",
+                        "Ганнерс РЛ"
+                    ],
+                    "teamsOriginal": [
+                        "Рейдерс РЛ",
+                        "Ганнерс РЛ"
+                    ],
+                    "liveDatetime": "2024-08-08T15:00:00+03:00",
+                    "liveId": 20219592,
+                    "prematchId": null,
+                    "start_time": 1723118400,
+                    "event_url": "/sport/info/reyders-rl-ganners-rl-3967721/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Рейдерс РЛ"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Ганнерс РЛ"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 107,
+                        "team_away": 99
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 22,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Россия",
+                    "categoryId": 77,
+                    "categorySlug": "rossiya-77",
+                    "tournamentSlug": "rocket-league-4x12-min-33567",
+                    "tournamentName": "Rocket League (4x12 мин)",
+                    "tournamentId": 33567,
+                    "id": 3967821,
+                    "slug": "nayts-rl-marines-rl-3967821",
+                    "teams": [
+                        "Найтс РЛ",
+                        "Маринес РЛ"
+                    ],
+                    "teamsOriginal": [
+                        "Найтс РЛ",
+                        "Маринес РЛ"
+                    ],
+                    "liveDatetime": "2024-08-08T16:20:00+03:00",
+                    "liveId": 20219593,
+                    "prematchId": null,
+                    "start_time": 1723123200,
+                    "event_url": "/sport/info/nayts-rl-marines-rl-3967821/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Найтс РЛ"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Маринес РЛ"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 90,
+                        "team_away": 111
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 25,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Россия",
+                    "categoryId": 77,
+                    "categorySlug": "rossiya-77",
+                    "tournamentSlug": "rocket-league-4x12-min-33567",
+                    "tournamentName": "Rocket League (4x12 мин)",
+                    "tournamentId": 33567,
+                    "id": 3968061,
+                    "slug": "marines-rl-reyders-rl-3968061",
+                    "teams": [
+                        "Маринес РЛ",
+                        "Рейдерс РЛ"
+                    ],
+                    "teamsOriginal": [
+                        "Маринес РЛ",
+                        "Рейдерс РЛ"
+                    ],
+                    "liveDatetime": "2024-08-08T17:40:00+03:00",
+                    "liveId": 20219594,
+                    "prematchId": null,
+                    "start_time": 1723128000,
+                    "event_url": "/sport/info/marines-rl-reyders-rl-3968061/",
+                    "status": 37,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Маринес РЛ"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Рейдерс РЛ"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 82,
+                        "team_away": 92
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.53,
+                            "new": 1.74
+                        },
+                        "2": {
+                            "old": 2.55,
+                            "new": 2.13
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 10,
+                            "new": 9.8
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "ph",
+            "leagueName": "Региональный кубок",
+            "countrySlug": "/sport/basketball/filippiny-92/",
+            "leagueSlug": "/sport/basketball/filippiny-92/regionalnyi-kubok-36098/",
+            "countryName": "Филиппины",
+            "id": 36098,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Филиппины",
+                    "categoryId": 92,
+                    "categorySlug": "filippiny-92",
+                    "tournamentSlug": "regionalnyi-kubok-36098",
+                    "tournamentName": "Региональный кубок",
+                    "tournamentId": 36098,
+                    "id": 3968499,
+                    "slug": "san-rafael-5-gamaok-sentral-3968499",
+                    "teams": [
+                        "Сан Рафаэль 5",
+                        "Гамаок Сентрал"
+                    ],
+                    "teamsOriginal": [
+                        "Сан Рафаэль 5",
+                        "Гамаок Сентрал"
+                    ],
+                    "liveDatetime": "2024-08-08T12:00:00+03:00",
+                    "liveId": 20225215,
+                    "prematchId": null,
+                    "start_time": 1723107600,
+                    "event_url": "/sport/info/san-rafael-5-gamaok-sentral-3968499/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Сан Рафаэль 5"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Гамаок Сентрал"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 82,
+                        "team_away": 74
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Филиппины",
+                    "categoryId": 92,
+                    "categorySlug": "filippiny-92",
+                    "tournamentSlug": "regionalnyi-kubok-36098",
+                    "tournamentName": "Региональный кубок",
+                    "tournamentId": 36098,
+                    "id": 3968807,
+                    "slug": "san-pedro-pablo-eskobets-sapang-paley-proper-3968807",
+                    "teams": [
+                        "Сан Педро Пабло Эскобетс",
+                        "Сапанг Палей Пропер"
+                    ],
+                    "teamsOriginal": [
+                        "Сан Педро Пабло Эскобетс",
+                        "Сапанг Палей Пропер"
+                    ],
+                    "liveDatetime": "2024-08-08T13:40:00+03:00",
+                    "liveId": 20225786,
+                    "prematchId": null,
+                    "start_time": 1723113600,
+                    "event_url": "/sport/info/san-pedro-pablo-eskobets-sapang-paley-proper-3968807/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Сан Педро Пабло Эскобетс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Сапанг Палей Пропер"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "sg",
+            "leagueName": "Национальная лига",
+            "countrySlug": "/sport/basketball/singapur-82/",
+            "leagueSlug": "/sport/basketball/singapur-82/natsionalnaia-liga-34991/",
+            "countryName": "Сингапур",
+            "id": 34991,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Сингапур",
+                    "categoryId": 82,
+                    "categorySlug": "singapur-82",
+                    "tournamentSlug": "natsionalnaia-liga-34991",
+                    "tournamentName": "Национальная лига",
+                    "tournamentId": 34991,
+                    "id": 3968736,
+                    "slug": "chong-ghi-edroyt-3968736",
+                    "teams": [
+                        "Чонг Гхи",
+                        "Эдройт"
+                    ],
+                    "teamsOriginal": [
+                        "Чонг Гхи",
+                        "Эдройт"
+                    ],
+                    "liveDatetime": "2024-08-08T14:00:00+03:00",
+                    "liveId": 20225114,
+                    "prematchId": null,
+                    "start_time": 1723114800,
+                    "event_url": "/sport/info/chong-ghi-edroyt-3968736/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Чонг Гхи"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Эдройт"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 61,
+                        "team_away": 81
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 9.57,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Сингапур",
+                    "categoryId": 82,
+                    "categorySlug": "singapur-82",
+                    "tournamentSlug": "natsionalnaia-liga-34991",
+                    "tournamentName": "Национальная лига",
+                    "tournamentId": 34991,
+                    "id": 3968936,
+                    "slug": "sinhua-nanyan-3968936",
+                    "teams": [
+                        "Синьхуа",
+                        "Наньян"
+                    ],
+                    "teamsOriginal": [
+                        "Синьхуа",
+                        "Наньян"
+                    ],
+                    "liveDatetime": "2024-08-08T15:30:00+03:00",
+                    "liveId": 20225241,
+                    "prematchId": null,
+                    "start_time": 1723120200,
+                    "event_url": "/sport/info/sinhua-nanyan-3968936/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Синьхуа"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Наньян"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 69,
+                        "team_away": 49
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.02,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 8.09,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "vn",
+            "leagueName": "VBA",
+            "countrySlug": "/sport/basketball/vetnam-28/",
+            "leagueSlug": "/sport/basketball/vetnam-28/vba-10183/",
+            "countryName": "Вьетнам",
+            "id": 10183,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Вьетнам",
+                    "categoryId": 28,
+                    "categorySlug": "vetnam-28",
+                    "tournamentSlug": "vba-10183",
+                    "tournamentName": "VBA",
+                    "tournamentId": 10183,
+                    "id": 3965109,
+                    "slug": "danang-dregonz-kantho-ketfish-3965109",
+                    "teams": [
+                        "Дананг Дрэгонз",
+                        "Кантхо Кэтфиш"
+                    ],
+                    "teamsOriginal": [
+                        "Дананг Дрэгонз",
+                        "Кантхо Кэтфиш"
+                    ],
+                    "liveDatetime": "2024-08-08T15:30:00+03:00",
+                    "liveId": 20220298,
+                    "prematchId": 20219738,
+                    "prematchData": {
+                        "id": 20219738,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 2.59,
+                            "2": 1.47,
+                            "x": 18.6
+                        },
+                        "coefficientsOld": [],
+                        "match_time": null,
+                        "expired": false,
+                        "status": "ended",
+                        "team1": "Дананг Дрэгонз",
+                        "team2": "Кантхо Кэтфиш",
+                        "active": null
+                    },
+                    "start_time": 1723120200,
+                    "event_url": "/sport/info/danang-dregonz-kantho-ketfish-3965109/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Дананг Дрэгонз"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Кантхо Кэтфиш"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 83,
+                        "team_away": 66
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 21.8,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 21.8,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "sn",
+            "leagueName": "1-й дивизион",
+            "countrySlug": "/sport/basketball/senegal-1242/",
+            "leagueSlug": "/sport/basketball/senegal-1242/1-i-divizion-15432/",
+            "countryName": "Сенегал",
+            "id": 15432,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Сенегал",
+                    "categoryId": 1242,
+                    "categorySlug": "senegal-1242",
+                    "tournamentSlug": "1-i-divizion-15432",
+                    "tournamentName": "1-й дивизион",
+                    "tournamentId": 15432,
+                    "id": 3968489,
+                    "slug": "port-otonom-dakar-luga-3968489",
+                    "teams": [
+                        "Порт Отоном Дакар",
+                        "Луга"
+                    ],
+                    "teamsOriginal": [
+                        "Порт Отоном Дакар",
+                        "Луга"
+                    ],
+                    "liveDatetime": "2024-08-08T18:30:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20225206,
+                    "start_time": 1723131000,
+                    "event_url": "/sport/info/port-otonom-dakar-luga-3968489/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Порт Отоном Дакар"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Луга"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.46,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 2.67,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 16.6,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Сенегал",
+                    "categoryId": 1242,
+                    "categorySlug": "senegal-1242",
+                    "tournamentSlug": "1-i-divizion-15432",
+                    "tournamentName": "1-й дивизион",
+                    "tournamentId": 15432,
+                    "id": 3969430,
+                    "slug": "port-otonom-dakar-louga-3969430",
+                    "teams": [
+                        "Порт Отоном Дакар",
+                        "Лоуга"
+                    ],
+                    "teamsOriginal": [
+                        "Порт Отоном Дакар",
+                        "Лоуга"
+                    ],
+                    "liveDatetime": "2024-08-08T18:30:00+03:00",
+                    "liveId": 20225296,
+                    "prematchId": null,
+                    "start_time": 1723131000,
+                    "event_url": "/sport/info/port-otonom-dakar-louga-3969430/",
+                    "status": 10,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Порт Отоном Дакар"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Лоуга"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 0,
+                        "team_away": 0
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Сенегал",
+                    "categoryId": 1242,
+                    "categorySlug": "senegal-1242",
+                    "tournamentSlug": "1-i-divizion-15432",
+                    "tournamentName": "1-й дивизион",
+                    "tournamentId": 15432,
+                    "id": 3968490,
+                    "slug": "sibak-asfa-3968490",
+                    "teams": [
+                        "СИБАК",
+                        "АСФА"
+                    ],
+                    "teamsOriginal": [
+                        "СИБАК",
+                        "АСФА"
+                    ],
+                    "liveDatetime": "2024-08-08T20:00:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20225205,
+                    "start_time": 1723136400,
+                    "event_url": "/sport/info/sibak-asfa-3968490/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "СИБАК"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "АСФА"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": 1.74
+                        },
+                        "2": {
+                            "old": null,
+                            "new": 2.09
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": 15
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Сенегал",
+                    "categoryId": 1242,
+                    "categorySlug": "senegal-1242",
+                    "tournamentSlug": "1-i-divizion-15432",
+                    "tournamentName": "1-й дивизион",
+                    "tournamentId": 15432,
+                    "id": 3968491,
+                    "slug": "uakam-uspa-3968491",
+                    "teams": [
+                        "Уакам",
+                        "Успа"
+                    ],
+                    "teamsOriginal": [
+                        "Уакам",
+                        "Успа"
+                    ],
+                    "liveDatetime": "2024-08-08T21:30:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20225207,
+                    "start_time": 1723141800,
+                    "event_url": "/sport/info/uakam-uspa-3968491/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Уакам"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Успа"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": 1.94
+                        },
+                        "2": {
+                            "old": null,
+                            "new": 1.86
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": 14.9
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "nan",
+            "leagueName": "Олимпиада 2024. Париж",
+            "countrySlug": "/sport/basketball/olimpiada-2024-1862/",
+            "leagueSlug": "/sport/basketball/olimpiada-2024-1862/olimpiada-2024-parizh-39401/",
+            "countryName": "Олимпиада 2024",
+            "id": 39401,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Олимпиада 2024",
+                    "categoryId": 1862,
+                    "categorySlug": "olimpiada-2024-1862",
+                    "tournamentSlug": "olimpiada-2024-parizh-39401",
+                    "tournamentName": "Олимпиада 2024. Париж",
+                    "tournamentId": 39401,
+                    "id": 3963727,
+                    "slug": "franciya-germaniya-3963727",
+                    "teams": [
+                        "Франция",
+                        "Германия"
+                    ],
+                    "teamsOriginal": [
+                        "Франция",
+                        "Германия"
+                    ],
+                    "liveDatetime": "2024-08-08T18:30:00+03:00",
+                    "liveId": 20218756,
+                    "prematchId": 20224111,
+                    "prematchData": {
+                        "id": 20224111,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": [],
+                        "coefficientsOld": [],
+                        "match_time": null,
+                        "expired": false,
+                        "status": "not_started",
+                        "team1": "Франция",
+                        "team2": "Германия",
+                        "active": null
+                    },
+                    "start_time": 1723131000,
+                    "event_url": "/sport/info/franciya-germaniya-3963727/",
+                    "status": 4,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Франция"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Германия"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 4,
+                        "team_away": 12
+                    },
+                    "betradar": 48907683,
+                    "coefficient": {
+                        "1": {
+                            "old": 4.17,
+                            "new": 3.91
+                        },
+                        "2": {
+                            "old": 1.26,
+                            "new": 1.29
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 17.59,
+                            "new": 16.58
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Олимпиада 2024",
+                    "categoryId": 1862,
+                    "categorySlug": "olimpiada-2024-1862",
+                    "tournamentSlug": "olimpiada-2024-parizh-39401",
+                    "tournamentName": "Олимпиада 2024. Париж",
+                    "tournamentId": 39401,
+                    "id": 3963994,
+                    "slug": "ssha-serbiya-3963994",
+                    "teams": [
+                        "США",
+                        "Сербия"
+                    ],
+                    "teamsOriginal": [
+                        "США",
+                        "Сербия"
+                    ],
+                    "liveDatetime": "2024-08-08T22:00:02+03:00",
+                    "liveId": null,
+                    "prematchId": 20224112,
+                    "start_time": 1723143602,
+                    "event_url": "/sport/info/ssha-serbiya-3963994/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "США"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Сербия"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": null
+                        },
+                        "2": {
+                            "old": null,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "un",
+            "leagueName": "Товарищеские матчи. Женщины",
+            "countrySlug": "/sport/basketball/sbornye-64/",
+            "leagueSlug": "/sport/basketball/sbornye-64/tovarishcheskie-matchi-zhenshchiny-10009/",
+            "countryName": "Сборные",
+            "id": 10009,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Сборные",
+                    "categoryId": 64,
+                    "categorySlug": "sbornye-64",
+                    "tournamentSlug": "tovarishcheskie-matchi-zhenshchiny-10009",
+                    "tournamentName": "Товарищеские матчи. Женщины",
+                    "tournamentId": 10009,
+                    "id": 3965206,
+                    "slug": "sloveniya-zh-chernogoriya-zh-3965206",
+                    "teams": [
+                        "Словения (ж)",
+                        "Черногория (ж)"
+                    ],
+                    "teamsOriginal": [
+                        "Словения (ж)",
+                        "Черногория (ж)"
+                    ],
+                    "liveDatetime": "2024-08-08T20:00:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20219867,
+                    "start_time": 1723136400,
+                    "event_url": "/sport/info/sloveniya-zh-chernogoriya-zh-3965206/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Словения (ж)"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Черногория (ж)"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.51,
+                            "new": 1.51
+                        },
+                        "2": {
+                            "old": 2.71,
+                            "new": 2.8
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 14.8,
+                            "new": 14.8
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

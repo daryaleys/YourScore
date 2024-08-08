@@ -1,0 +1,1557 @@
+{
+    "data": [
+        {
+            "country": "eu",
+            "leagueName": "Товарищеские матчи",
+            "countrySlug": "/sport/hockey/mezhdunarodnye-kluby-214/",
+            "leagueSlug": "/sport/hockey/mezhdunarodnye-kluby-214/tovarischeskie-matchi-9956/",
+            "countryName": "Международные. Клубы",
+            "id": 9956,
+            "is_open": true,
+            "games": [
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3965383,
+                    "slug": "chelmet-gornyak-ugmk-3965383",
+                    "teams": [
+                        "Челмет",
+                        "Горняк УГМК"
+                    ],
+                    "teamsOriginal": [
+                        "Челмет",
+                        "Горняк УГМК"
+                    ],
+                    "liveDatetime": "2024-08-08T12:00:00+03:00",
+                    "liveId": 20224162,
+                    "prematchId": 20219984,
+                    "prematchData": {
+                        "id": 20219984,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":604671087,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817177078,\"facId\":44419591238,\"position\":1,\"title\":\"1\",\"value\":3.2000000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20219984,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0427\\u0435\\u043b\\u043c\\u0435\\u0442\",\"2\":\"\\u0413\\u043e\\u0440\\u043d\\u044f\\u043a \\u0423\\u0413\\u041c\\u041a\"},\"partId\":184273962,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604671087,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"x\":{\"id\":2817177079,\"facId\":44418891171,\"position\":2,\"title\":\"X\",\"value\":4.2999999999999998,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20219984,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0427\\u0435\\u043b\\u043c\\u0435\\u0442\",\"2\":\"\\u0413\\u043e\\u0440\\u043d\\u044f\\u043a \\u0423\\u0413\\u041c\\u041a\"},\"partId\":184273962,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604671087,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2817177080,\"facId\":44419591239,\"position\":3,\"title\":\"2\",\"value\":1.8999999999999999,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20219984,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0427\\u0435\\u043b\\u043c\\u0435\\u0442\",\"2\":\"\\u0413\\u043e\\u0440\\u043d\\u044f\\u043a \\u0423\\u0413\\u041c\\u041a\"},\"partId\":184273962,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604671087,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true}}}",
+                        "old": "{\"market\":{\"id\":604671087,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817177078,\"facId\":44418891170,\"position\":1,\"title\":\"1\",\"value\":3.2999999999999998,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20219984,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0427\\u0435\\u043b\\u043c\\u0435\\u0442\",\"2\":\"\\u0413\\u043e\\u0440\\u043d\\u044f\\u043a \\u0423\\u0413\\u041c\\u041a\"},\"partId\":184273962,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604671087,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"x\":{\"id\":2817177079,\"facId\":44418891171,\"position\":2,\"title\":\"X\",\"value\":4.2999999999999998,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20219984,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0427\\u0435\\u043b\\u043c\\u0435\\u0442\",\"2\":\"\\u0413\\u043e\\u0440\\u043d\\u044f\\u043a \\u0423\\u0413\\u041c\\u041a\"},\"partId\":184273962,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604671087,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2817177080,\"facId\":44418891172,\"position\":3,\"title\":\"2\",\"value\":1.8600000000000001,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20219984,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0427\\u0435\\u043b\\u043c\\u0435\\u0442\",\"2\":\"\\u0413\\u043e\\u0440\\u043d\\u044f\\u043a \\u0423\\u0413\\u041c\\u041a\"},\"partId\":184273962,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604671087,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true}}}",
+                        "score": "null",
+                        "betradar": 51738001,
+                        "coefficients": {
+                            "1": 3.2,
+                            "2": 1.9,
+                            "x": 4.3
+                        },
+                        "coefficientsOld": {
+                            "1": 3.3,
+                            "2": 1.86,
+                            "x": 4.3
+                        },
+                        "match_time": 54,
+                        "expired": false,
+                        "status": "3p",
+                        "team1": "Челмет",
+                        "team2": "Горняк УГМК",
+                        "active": null
+                    },
+                    "start_time": 1723107600,
+                    "event_url": "/sport/info/chelmet-gornyak-ugmk-3965383/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Челмет"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Горняк УГМК"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 4,
+                        "team_away": 3
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.28,
+                            "new": 1.35
+                        },
+                        "2": {
+                            "old": 14.5,
+                            "new": 14.5
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 4.15,
+                            "new": 3.65
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967819,
+                    "slug": "kristall-saratov-tambov-3967819",
+                    "teams": [
+                        "Кристалл Саратов",
+                        "Тамбов"
+                    ],
+                    "teamsOriginal": [
+                        "Кристалл Саратов",
+                        "Тамбов"
+                    ],
+                    "liveDatetime": "2024-08-08T13:00:00+03:00",
+                    "liveId": 20224164,
+                    "prematchId": 20224049,
+                    "prematchData": {
+                        "id": 20224049,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":547064638,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818623310,\"facId\":44416581975,\"position\":1,\"title\":\"1\",\"value\":7.5,\"adValue\":\"0\",\"adTitle\":\"1\",\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224049,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\\u043c\\u0430\\u0442\\u0447 \\u0432 \\u0420\\u044f\\u0437\\u0430\\u043d\\u0438\",\"eventTeam\":{\"1\":\"\\u041a\\u0440\\u0438\\u0441\\u0442\\u0430\\u043b\\u043b \\u0421\\u0430\\u0440\\u0430\\u0442\\u043e\\u0432\",\"2\":\"\\u0422\\u0430\\u043c\\u0431\\u043e\\u0432\"},\"partId\":184320387,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":547064638,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":114084,\"isMostPossible\":false},\"x\":{\"id\":2818623311,\"facId\":44416574942,\"position\":2,\"title\":\"X\",\"value\":6.2999999999999998,\"adValue\":\"0\",\"adTitle\":\"X\",\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224049,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\\u043c\\u0430\\u0442\\u0447 \\u0432 \\u0420\\u044f\\u0437\\u0430\\u043d\\u0438\",\"eventTeam\":{\"1\":\"\\u041a\\u0440\\u0438\\u0441\\u0442\\u0430\\u043b\\u043b \\u0421\\u0430\\u0440\\u0430\\u0442\\u043e\\u0432\",\"2\":\"\\u0422\\u0430\\u043c\\u0431\\u043e\\u0432\"},\"partId\":184320387,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":547064638,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":114084,\"isMostPossible\":false},\"_2\":{\"id\":2818623312,\"facId\":44416581976,\"position\":3,\"title\":\"2\",\"value\":1.26,\"adValue\":\"0\",\"adTitle\":\"2\",\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224049,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\\u043c\\u0430\\u0442\\u0447 \\u0432 \\u0420\\u044f\\u0437\\u0430\\u043d\\u0438\",\"eventTeam\":{\"1\":\"\\u041a\\u0440\\u0438\\u0441\\u0442\\u0430\\u043b\\u043b \\u0421\\u0430\\u0440\\u0430\\u0442\\u043e\\u0432\",\"2\":\"\\u0422\\u0430\\u043c\\u0431\\u043e\\u0432\"},\"partId\":184320387,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":547064638,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":114084,\"isMostPossible\":true}}}",
+                        "old": "{\"market\":{\"id\":547064638,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818623310,\"facId\":44416581975,\"position\":1,\"title\":\"1\",\"value\":7.5,\"adValue\":\"0\",\"adTitle\":\"1\",\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224049,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041a\\u0440\\u0438\\u0441\\u0442\\u0430\\u043b\\u043b \\u0421\\u0430\\u0440\\u0430\\u0442\\u043e\\u0432\",\"2\":\"\\u0422\\u0430\\u043c\\u0431\\u043e\\u0432\"},\"partId\":184320387,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":547064638,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":114084,\"isMostPossible\":false},\"x\":{\"id\":2818623311,\"facId\":44416574942,\"position\":2,\"title\":\"X\",\"value\":6.2999999999999998,\"adValue\":\"0\",\"adTitle\":\"X\",\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224049,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041a\\u0440\\u0438\\u0441\\u0442\\u0430\\u043b\\u043b \\u0421\\u0430\\u0440\\u0430\\u0442\\u043e\\u0432\",\"2\":\"\\u0422\\u0430\\u043c\\u0431\\u043e\\u0432\"},\"partId\":184320387,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":547064638,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":114084,\"isMostPossible\":false},\"_2\":{\"id\":2818623312,\"facId\":44416581976,\"position\":3,\"title\":\"2\",\"value\":1.26,\"adValue\":\"0\",\"adTitle\":\"2\",\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224049,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041a\\u0440\\u0438\\u0441\\u0442\\u0430\\u043b\\u043b \\u0421\\u0430\\u0440\\u0430\\u0442\\u043e\\u0432\",\"2\":\"\\u0422\\u0430\\u043c\\u0431\\u043e\\u0432\"},\"partId\":184320387,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":547064638,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":114084,\"isMostPossible\":true}}}",
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 7.5,
+                            "2": 1.26,
+                            "x": 6.3
+                        },
+                        "coefficientsOld": [],
+                        "match_time": 55,
+                        "expired": false,
+                        "status": "3p",
+                        "team1": "Кристалл Саратов",
+                        "team2": "Тамбов",
+                        "active": null
+                    },
+                    "start_time": 1723111200,
+                    "event_url": "/sport/info/kristall-saratov-tambov-3967819/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Кристалл Саратов"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Тамбов"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 4,
+                        "team_away": 0
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": 0
+                        },
+                        "2": {
+                            "old": 0,
+                            "new": 0
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 109,
+                            "new": 139
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3966450,
+                    "slug": "akademiya-ska-yunior-amurskie-tigry-3966450",
+                    "teams": [
+                        "Академия СКА Юниор",
+                        "Амурские Тигры"
+                    ],
+                    "teamsOriginal": [
+                        "Академия СКА Юниор",
+                        "Амурские Тигры"
+                    ],
+                    "liveDatetime": "2024-08-08T13:00:00+03:00",
+                    "liveId": 20224163,
+                    "prematchId": 20222572,
+                    "prematchData": {
+                        "id": 20222572,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":441454338,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818157452,\"facId\":44420770763,\"position\":1,\"title\":\"1\",\"value\":2.73,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20222572,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0410\\u043a\\u0430\\u0434\\u0435\\u043c\\u0438\\u044f \\u0421\\u041a\\u0410 \\u042e\\u043d\\u0438\\u043e\\u0440\",\"2\":\"\\u0410\\u043c\\u0443\\u0440\\u0441\\u043a\\u0438\\u0435 \\u0422\\u0438\\u0433\\u0440\\u044b\"},\"partId\":184308012,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":false},\"x\":{\"id\":2818157453,\"facId\":44420770764,\"position\":2,\"title\":\"\\u0425\",\"value\":4.3799999999999999,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20222572,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0410\\u043a\\u0430\\u0434\\u0435\\u043c\\u0438\\u044f \\u0421\\u041a\\u0410 \\u042e\\u043d\\u0438\\u043e\\u0440\",\"2\":\"\\u0410\\u043c\\u0443\\u0440\\u0441\\u043a\\u0438\\u0435 \\u0422\\u0438\\u0433\\u0440\\u044b\"},\"partId\":184308012,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":false},\"_2\":{\"id\":2818157454,\"facId\":44420770765,\"position\":3,\"title\":\"2\",\"value\":2.02,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20222572,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0410\\u043a\\u0430\\u0434\\u0435\\u043c\\u0438\\u044f \\u0421\\u041a\\u0410 \\u042e\\u043d\\u0438\\u043e\\u0440\",\"2\":\"\\u0410\\u043c\\u0443\\u0440\\u0441\\u043a\\u0438\\u0435 \\u0422\\u0438\\u0433\\u0440\\u044b\"},\"partId\":184308012,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":true}}}",
+                        "old": "{\"market\":{\"id\":441454338,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818157452,\"facId\":44420651558,\"position\":1,\"title\":\"1\",\"value\":2.8300000000000001,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20222572,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0410\\u043a\\u0430\\u0434\\u0435\\u043c\\u0438\\u044f \\u0421\\u041a\\u0410 \\u042e\\u043d\\u0438\\u043e\\u0440\",\"2\":\"\\u0410\\u043c\\u0443\\u0440\\u0441\\u043a\\u0438\\u0435 \\u0422\\u0438\\u0433\\u0440\\u044b\"},\"partId\":184308012,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":false},\"x\":{\"id\":2818157453,\"facId\":44420651559,\"position\":2,\"title\":\"\\u0425\",\"value\":4.4400000000000004,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20222572,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0410\\u043a\\u0430\\u0434\\u0435\\u043c\\u0438\\u044f \\u0421\\u041a\\u0410 \\u042e\\u043d\\u0438\\u043e\\u0440\",\"2\":\"\\u0410\\u043c\\u0443\\u0440\\u0441\\u043a\\u0438\\u0435 \\u0422\\u0438\\u0433\\u0440\\u044b\"},\"partId\":184308012,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":false},\"_2\":{\"id\":2818157454,\"facId\":44420651560,\"position\":3,\"title\":\"2\",\"value\":1.95,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20222572,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0410\\u043a\\u0430\\u0434\\u0435\\u043c\\u0438\\u044f \\u0421\\u041a\\u0410 \\u042e\\u043d\\u0438\\u043e\\u0440\",\"2\":\"\\u0410\\u043c\\u0443\\u0440\\u0441\\u043a\\u0438\\u0435 \\u0422\\u0438\\u0433\\u0440\\u044b\"},\"partId\":184308012,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":true}}}",
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 2.73,
+                            "2": 2.02,
+                            "x": 4.38
+                        },
+                        "coefficientsOld": {
+                            "1": 2.83,
+                            "2": 1.95,
+                            "x": 4.44
+                        },
+                        "match_time": 54,
+                        "expired": false,
+                        "status": "3p",
+                        "team1": "Академия СКА Юниор",
+                        "team2": "Амурские Тигры",
+                        "active": null
+                    },
+                    "start_time": 1723111200,
+                    "event_url": "/sport/info/akademiya-ska-yunior-amurskie-tigry-3966450/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Академия СКА Юниор"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Амурские Тигры"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 2,
+                        "team_away": 1
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.32,
+                            "new": 1.31
+                        },
+                        "2": {
+                            "old": 14.5,
+                            "new": 14.5
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 3.85,
+                            "new": 3.95
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3968639,
+                    "slug": "tehnika-brno-mol-zlin-mol-3968639",
+                    "teams": [
+                        "Техника Брно (мол)",
+                        "Злин (мол)"
+                    ],
+                    "teamsOriginal": [
+                        "Техника Брно (мол)",
+                        "Злин (мол)"
+                    ],
+                    "liveDatetime": "2024-08-08T13:30:00+03:00",
+                    "liveId": 20225321,
+                    "prematchId": 20225315,
+                    "prematchData": {
+                        "id": 20225315,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":441454338,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818987224,\"facId\":44422270348,\"position\":1,\"title\":\"1\",\"value\":4.0099999999999998,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20225315,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0422\\u0435\\u0445\\u043d\\u0438\\u043a\\u0430 \\u0411\\u0440\\u043d\\u043e (\\u043c\\u043e\\u043b)\",\"2\":\"\\u0417\\u043b\\u0438\\u043d (\\u043c\\u043e\\u043b)\"},\"partId\":184331079,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":false},\"x\":{\"id\":2818987225,\"facId\":44422270349,\"position\":2,\"title\":\"\\u0425\",\"value\":5.2199999999999998,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20225315,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0422\\u0435\\u0445\\u043d\\u0438\\u043a\\u0430 \\u0411\\u0440\\u043d\\u043e (\\u043c\\u043e\\u043b)\",\"2\":\"\\u0417\\u043b\\u0438\\u043d (\\u043c\\u043e\\u043b)\"},\"partId\":184331079,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":false},\"_2\":{\"id\":2818987226,\"facId\":44422270350,\"position\":3,\"title\":\"2\",\"value\":1.52,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20225315,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0422\\u0435\\u0445\\u043d\\u0438\\u043a\\u0430 \\u0411\\u0440\\u043d\\u043e (\\u043c\\u043e\\u043b)\",\"2\":\"\\u0417\\u043b\\u0438\\u043d (\\u043c\\u043e\\u043b)\"},\"partId\":184331079,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":true}}}",
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 4.01,
+                            "2": 1.52,
+                            "x": 5.22
+                        },
+                        "coefficientsOld": [],
+                        "match_time": 52,
+                        "expired": false,
+                        "status": "3p",
+                        "team1": "Техника Брно (мол)",
+                        "team2": "Злин (мол)",
+                        "active": null
+                    },
+                    "start_time": 1723113000,
+                    "event_url": "/sport/info/tehnika-brno-mol-zlin-mol-3968639/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Техника Брно (мол)"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Злин (мол)"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 2,
+                        "team_away": 4
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 22,
+                            "new": 21
+                        },
+                        "2": {
+                            "old": 1.03,
+                            "new": 1.02
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 11.08,
+                            "new": 11.58
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3965378,
+                    "slug": "torpedo-gorkiy-mhk-olimpiya-3965378",
+                    "teams": [
+                        "Торпедо Горький",
+                        "МХК Олимпия"
+                    ],
+                    "teamsOriginal": [
+                        "Торпедо Горький",
+                        "МХК Олимпия"
+                    ],
+                    "liveDatetime": "2024-08-08T14:00:00+03:00",
+                    "liveId": 20224165,
+                    "prematchId": 20219980,
+                    "prematchData": {
+                        "id": 20219980,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":604669899,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817173820,\"facId\":44423584670,\"position\":1,\"title\":\"1\",\"value\":1.51,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20219980,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0422\\u043e\\u0440\\u043f\\u0435\\u0434\\u043e \\u0413\\u043e\\u0440\\u044c\\u043a\\u0438\\u0439\",\"2\":\"\\u041c\\u0425\\u041a \\u041e\\u043b\\u0438\\u043c\\u043f\\u0438\\u044f\"},\"partId\":184273929,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604669899,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true},\"x\":{\"id\":2817173821,\"facId\":44423562990,\"position\":2,\"title\":\"X\",\"value\":5.2000000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20219980,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0422\\u043e\\u0440\\u043f\\u0435\\u0434\\u043e \\u0413\\u043e\\u0440\\u044c\\u043a\\u0438\\u0439\",\"2\":\"\\u041c\\u0425\\u041a \\u041e\\u043b\\u0438\\u043c\\u043f\\u0438\\u044f\"},\"partId\":184273929,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604669899,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2817173822,\"facId\":44423584671,\"position\":3,\"title\":\"2\",\"value\":4.5999999999999996,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20219980,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0422\\u043e\\u0440\\u043f\\u0435\\u0434\\u043e \\u0413\\u043e\\u0440\\u044c\\u043a\\u0438\\u0439\",\"2\":\"\\u041c\\u0425\\u041a \\u041e\\u043b\\u0438\\u043c\\u043f\\u0438\\u044f\"},\"partId\":184273929,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604669899,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false}}}",
+                        "old": "{\"market\":{\"id\":604669899,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2817173820,\"facId\":44423201606,\"position\":1,\"title\":\"1\",\"value\":1.5,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20219980,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0422\\u043e\\u0440\\u043f\\u0435\\u0434\\u043e \\u0413\\u043e\\u0440\\u044c\\u043a\\u0438\\u0439\",\"2\":\"\\u041c\\u0425\\u041a \\u041e\\u043b\\u0438\\u043c\\u043f\\u0438\\u044f\"},\"partId\":184273929,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604669899,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true},\"x\":{\"id\":2817173821,\"facId\":44423114328,\"position\":2,\"title\":\"X\",\"value\":5.2000000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20219980,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0422\\u043e\\u0440\\u043f\\u0435\\u0434\\u043e \\u0413\\u043e\\u0440\\u044c\\u043a\\u0438\\u0439\",\"2\":\"\\u041c\\u0425\\u041a \\u041e\\u043b\\u0438\\u043c\\u043f\\u0438\\u044f\"},\"partId\":184273929,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604669899,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2817173822,\"facId\":44423391181,\"position\":3,\"title\":\"2\",\"value\":4.7000000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20219980,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0422\\u043e\\u0440\\u043f\\u0435\\u0434\\u043e \\u0413\\u043e\\u0440\\u044c\\u043a\\u0438\\u0439\",\"2\":\"\\u041c\\u0425\\u041a \\u041e\\u043b\\u0438\\u043c\\u043f\\u0438\\u044f\"},\"partId\":184273929,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604669899,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false}}}",
+                        "score": "null",
+                        "betradar": 51982101,
+                        "coefficients": {
+                            "1": 1.51,
+                            "2": 4.6,
+                            "x": 5.2
+                        },
+                        "coefficientsOld": {
+                            "1": 1.5,
+                            "2": 4.7,
+                            "x": 5.2
+                        },
+                        "match_time": 58,
+                        "expired": false,
+                        "status": "3p",
+                        "team1": "Торпедо Горький",
+                        "team2": "МХК Олимпия",
+                        "active": null
+                    },
+                    "start_time": 1723114800,
+                    "event_url": "/sport/info/torpedo-gorkiy-mhk-olimpiya-3965378/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Торпедо Горький"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "МХК Олимпия"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 5,
+                        "team_away": 2
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 139,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967924,
+                    "slug": "zaurale-rubin-3967924",
+                    "teams": [
+                        "Зауралье",
+                        "Рубин"
+                    ],
+                    "teamsOriginal": [
+                        "Зауралье",
+                        "Рубин"
+                    ],
+                    "liveDatetime": "2024-08-08T16:30:00+03:00",
+                    "liveId": 20224166,
+                    "prematchId": 20224221,
+                    "prematchData": {
+                        "id": 20224221,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":604891219,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818655811,\"facId\":44427727016,\"position\":1,\"title\":\"1\",\"value\":2.3199999999999998,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224221,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0417\\u0430\\u0443\\u0440\\u0430\\u043b\\u044c\\u0435\",\"2\":\"\\u0420\\u0443\\u0431\\u0438\\u043d\"},\"partId\":184321705,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604891219,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true},\"x\":{\"id\":2818655812,\"facId\":44425296302,\"position\":2,\"title\":\"X\",\"value\":4.0999999999999996,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224221,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0417\\u0430\\u0443\\u0440\\u0430\\u043b\\u044c\\u0435\",\"2\":\"\\u0420\\u0443\\u0431\\u0438\\u043d\"},\"partId\":184321705,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604891219,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2818655813,\"facId\":44427727017,\"position\":3,\"title\":\"2\",\"value\":2.5,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224221,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0417\\u0430\\u0443\\u0440\\u0430\\u043b\\u044c\\u0435\",\"2\":\"\\u0420\\u0443\\u0431\\u0438\\u043d\"},\"partId\":184321705,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604891219,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false}}}",
+                        "old": "{\"market\":{\"id\":604891219,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818655811,\"facId\":44427670615,\"position\":1,\"title\":\"1\",\"value\":2.3700000000000001,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224221,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0417\\u0430\\u0443\\u0440\\u0430\\u043b\\u044c\\u0435\",\"2\":\"\\u0420\\u0443\\u0431\\u0438\\u043d\"},\"partId\":184321705,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604891219,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true},\"x\":{\"id\":2818655812,\"facId\":44425296302,\"position\":2,\"title\":\"X\",\"value\":4.0999999999999996,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224221,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0417\\u0430\\u0443\\u0440\\u0430\\u043b\\u044c\\u0435\",\"2\":\"\\u0420\\u0443\\u0431\\u0438\\u043d\"},\"partId\":184321705,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604891219,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2818655813,\"facId\":44427670616,\"position\":3,\"title\":\"2\",\"value\":2.4700000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224221,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0417\\u0430\\u0443\\u0440\\u0430\\u043b\\u044c\\u0435\",\"2\":\"\\u0420\\u0443\\u0431\\u0438\\u043d\"},\"partId\":184321705,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604891219,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false}}}",
+                        "score": "null",
+                        "betradar": 51738003,
+                        "coefficients": {
+                            "1": 2.32,
+                            "2": 2.5,
+                            "x": 4.1
+                        },
+                        "coefficientsOld": {
+                            "1": 2.37,
+                            "2": 2.47,
+                            "x": 4.1
+                        },
+                        "match_time": 42,
+                        "expired": false,
+                        "status": "3p",
+                        "team1": "Зауралье",
+                        "team2": "Рубин",
+                        "active": null
+                    },
+                    "start_time": 1723123800,
+                    "event_url": "/sport/info/zaurale-rubin-3967924/",
+                    "status": 42,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Зауралье"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Рубин"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 1,
+                        "team_away": 2
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 7.5,
+                            "new": 7.5
+                        },
+                        "2": {
+                            "old": 1.48,
+                            "new": 1.49
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 3.65,
+                            "new": 3.6
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967960,
+                    "slug": "sputnik-almetevsk-sokol-novocheboksarsk-3967960",
+                    "teams": [
+                        "Спутник Альметьевск",
+                        "Сокол Новочебоксарск"
+                    ],
+                    "teamsOriginal": [
+                        "Спутник Альметьевск",
+                        "Сокол Новочебоксарск"
+                    ],
+                    "liveDatetime": "2024-08-08T17:00:00+03:00",
+                    "liveId": 20224392,
+                    "prematchId": 20224239,
+                    "prematchData": {
+                        "id": 20224239,
+                        "passed": true,
+                        "coof": "{\"market\":{\"id\":604893449,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818664319,\"facId\":44427261002,\"position\":1,\"title\":\"1\",\"value\":1.49,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224239,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0421\\u043f\\u0443\\u0442\\u043d\\u0438\\u043a \\u0410\\u043b\\u044c\\u043c\\u0435\\u0442\\u044c\\u0435\\u0432\\u0441\\u043a\",\"2\":\"\\u0421\\u043e\\u043a\\u043e\\u043b \\u041d\\u043e\\u0432\\u043e\\u0447\\u0435\\u0431\\u043e\\u043a\\u0441\\u0430\\u0440\\u0441\\u043a\"},\"partId\":184321884,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604893449,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true},\"x\":{\"id\":2818664320,\"facId\":44427261003,\"position\":2,\"title\":\"X\",\"value\":4.7999999999999998,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224239,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0421\\u043f\\u0443\\u0442\\u043d\\u0438\\u043a \\u0410\\u043b\\u044c\\u043c\\u0435\\u0442\\u044c\\u0435\\u0432\\u0441\\u043a\",\"2\":\"\\u0421\\u043e\\u043a\\u043e\\u043b \\u041d\\u043e\\u0432\\u043e\\u0447\\u0435\\u0431\\u043e\\u043a\\u0441\\u0430\\u0440\\u0441\\u043a\"},\"partId\":184321884,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604893449,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2818664321,\"facId\":44427261004,\"position\":3,\"title\":\"2\",\"value\":4.7000000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224239,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0421\\u043f\\u0443\\u0442\\u043d\\u0438\\u043a \\u0410\\u043b\\u044c\\u043c\\u0435\\u0442\\u044c\\u0435\\u0432\\u0441\\u043a\",\"2\":\"\\u0421\\u043e\\u043a\\u043e\\u043b \\u041d\\u043e\\u0432\\u043e\\u0447\\u0435\\u0431\\u043e\\u043a\\u0441\\u0430\\u0440\\u0441\\u043a\"},\"partId\":184321884,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604893449,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false}}}",
+                        "old": "{\"market\":{\"id\":604893449,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818664319,\"facId\":44427182856,\"position\":1,\"title\":\"1\",\"value\":1.4199999999999999,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224239,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0421\\u043f\\u0443\\u0442\\u043d\\u0438\\u043a \\u0410\\u043b\\u044c\\u043c\\u0435\\u0442\\u044c\\u0435\\u0432\\u0441\\u043a\",\"2\":\"\\u0421\\u043e\\u043a\\u043e\\u043b \\u041d\\u043e\\u0432\\u043e\\u0447\\u0435\\u0431\\u043e\\u043a\\u0441\\u0430\\u0440\\u0441\\u043a\"},\"partId\":184321884,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604893449,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true},\"x\":{\"id\":2818664320,\"facId\":44427182857,\"position\":2,\"title\":\"X\",\"value\":5,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224239,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0421\\u043f\\u0443\\u0442\\u043d\\u0438\\u043a \\u0410\\u043b\\u044c\\u043c\\u0435\\u0442\\u044c\\u0435\\u0432\\u0441\\u043a\",\"2\":\"\\u0421\\u043e\\u043a\\u043e\\u043b \\u041d\\u043e\\u0432\\u043e\\u0447\\u0435\\u0431\\u043e\\u043a\\u0441\\u0430\\u0440\\u0441\\u043a\"},\"partId\":184321884,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604893449,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2818664321,\"facId\":44427182858,\"position\":3,\"title\":\"2\",\"value\":5.2000000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224239,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0421\\u043f\\u0443\\u0442\\u043d\\u0438\\u043a \\u0410\\u043b\\u044c\\u043c\\u0435\\u0442\\u044c\\u0435\\u0432\\u0441\\u043a\",\"2\":\"\\u0421\\u043e\\u043a\\u043e\\u043b \\u041d\\u043e\\u0432\\u043e\\u0447\\u0435\\u0431\\u043e\\u043a\\u0441\\u0430\\u0440\\u0441\\u043a\"},\"partId\":184321884,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604893449,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false}}}",
+                        "score": "null",
+                        "betradar": 52328059,
+                        "coefficients": {
+                            "1": 1.49,
+                            "2": 4.7,
+                            "x": 4.8
+                        },
+                        "coefficientsOld": {
+                            "1": 1.42,
+                            "2": 5.2,
+                            "x": 5
+                        },
+                        "match_time": 40,
+                        "expired": false,
+                        "status": "paused",
+                        "team1": "Спутник Альметьевск",
+                        "team2": "Сокол Новочебоксарск",
+                        "active": null
+                    },
+                    "start_time": 1723125600,
+                    "event_url": "/sport/info/sputnik-almetevsk-sokol-novocheboksarsk-3967960/",
+                    "status": "Перерыв",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Спутник Альметьевск"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Сокол Новочебоксарск"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 4,
+                        "team_away": 1
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": 0
+                        },
+                        "2": {
+                            "old": 66,
+                            "new": 76
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 21,
+                            "new": 23
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3968250,
+                    "slug": "banik-sokolov-karlovy-vary-3968250",
+                    "teams": [
+                        "Баник Соколов",
+                        "Карловы Вары"
+                    ],
+                    "teamsOriginal": [
+                        "Баник Соколов",
+                        "Карловы Вары"
+                    ],
+                    "liveDatetime": "2024-08-08T18:00:00+03:00",
+                    "liveId": 20218996,
+                    "prematchId": 20224972,
+                    "prematchData": {
+                        "id": 20224972,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":604904562,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818847040,\"facId\":44429818281,\"position\":1,\"title\":\"1\",\"value\":5.2000000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224972,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0411\\u0430\\u043d\\u0438\\u043a \\u0421\\u043e\\u043a\\u043e\\u043b\\u043e\\u0432\",\"2\":\"\\u041a\\u0430\\u0440\\u043b\\u043e\\u0432\\u044b \\u0412\\u0430\\u0440\\u044b\"},\"partId\":184327707,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604904562,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"x\":{\"id\":2818847041,\"facId\":44424087087,\"position\":2,\"title\":\"X\",\"value\":5,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224972,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0411\\u0430\\u043d\\u0438\\u043a \\u0421\\u043e\\u043a\\u043e\\u043b\\u043e\\u0432\",\"2\":\"\\u041a\\u0430\\u0440\\u043b\\u043e\\u0432\\u044b \\u0412\\u0430\\u0440\\u044b\"},\"partId\":184327707,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604904562,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2818847042,\"facId\":44429818282,\"position\":3,\"title\":\"2\",\"value\":1.4199999999999999,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224972,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0411\\u0430\\u043d\\u0438\\u043a \\u0421\\u043e\\u043a\\u043e\\u043b\\u043e\\u0432\",\"2\":\"\\u041a\\u0430\\u0440\\u043b\\u043e\\u0432\\u044b \\u0412\\u0430\\u0440\\u044b\"},\"partId\":184327707,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604904562,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true}}}",
+                        "old": "{\"market\":{\"id\":604904562,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818847040,\"facId\":44429818281,\"position\":1,\"title\":\"1\",\"value\":5.2000000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224972,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0411\\u0430\\u043d\\u0438\\u043a \\u0421\\u043e\\u043a\\u043e\\u043b\\u043e\\u0432\",\"2\":\"\\u041a\\u0430\\u0440\\u043b\\u043e\\u0432\\u044b \\u0412\\u0430\\u0440\\u044b\"},\"partId\":184327707,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604904562,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"x\":{\"id\":2818847041,\"facId\":44424087087,\"position\":2,\"title\":\"X\",\"value\":5,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224972,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0411\\u0430\\u043d\\u0438\\u043a \\u0421\\u043e\\u043a\\u043e\\u043b\\u043e\\u0432\",\"2\":\"\\u041a\\u0430\\u0440\\u043b\\u043e\\u0432\\u044b \\u0412\\u0430\\u0440\\u044b\"},\"partId\":184327707,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604904562,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2818847042,\"facId\":44429818282,\"position\":3,\"title\":\"2\",\"value\":1.4199999999999999,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224972,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0411\\u0430\\u043d\\u0438\\u043a \\u0421\\u043e\\u043a\\u043e\\u043b\\u043e\\u0432\",\"2\":\"\\u041a\\u0430\\u0440\\u043b\\u043e\\u0432\\u044b \\u0412\\u0430\\u0440\\u044b\"},\"partId\":184327707,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604904562,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true}}}",
+                        "score": "null",
+                        "betradar": 50616567,
+                        "coefficients": {
+                            "1": 5.2,
+                            "2": 1.42,
+                            "x": 5
+                        },
+                        "coefficientsOld": {
+                            "1": 5,
+                            "2": 1.44,
+                            "x": 5
+                        },
+                        "match_time": 18,
+                        "expired": false,
+                        "status": "1p",
+                        "team1": "Баник Соколов",
+                        "team2": "Карловы Вары",
+                        "active": null
+                    },
+                    "start_time": 1723129200,
+                    "event_url": "/sport/info/banik-sokolov-karlovy-vary-3968250/",
+                    "status": 18,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Баник Соколов"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Карловы Вары"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 1,
+                        "team_away": 1
+                    },
+                    "betradar": 50616567,
+                    "coefficient": {
+                        "1": {
+                            "old": 5.07,
+                            "new": 5.17
+                        },
+                        "2": {
+                            "old": 1.53,
+                            "new": 1.53
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 4.33,
+                            "new": 4.33
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3968640,
+                    "slug": "poprad-mol-liptovski-mikulash-mol-3968640",
+                    "teams": [
+                        "Попрад (мол)",
+                        "Липтовски Микулаш (мол)"
+                    ],
+                    "teamsOriginal": [
+                        "Попрад (мол)",
+                        "Липтовски Микулаш (мол)"
+                    ],
+                    "liveDatetime": "2024-08-08T18:00:00+03:00",
+                    "liveId": 20226156,
+                    "prematchId": 20225317,
+                    "prematchData": {
+                        "id": 20225317,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":441454338,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818987673,\"facId\":44422284794,\"position\":1,\"title\":\"1\",\"value\":1.73,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20225317,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041f\\u043e\\u043f\\u0440\\u0430\\u0434 (\\u043c\\u043e\\u043b)\",\"2\":\"\\u041b\\u0438\\u043f\\u0442\\u043e\\u0432\\u0441\\u043a\\u0438 \\u041c\\u0438\\u043a\\u0443\\u043b\\u0430\\u0448 (\\u043c\\u043e\\u043b)\"},\"partId\":184331107,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":true},\"x\":{\"id\":2818987674,\"facId\":44422284795,\"position\":2,\"title\":\"\\u0425\",\"value\":5.04,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20225317,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041f\\u043e\\u043f\\u0440\\u0430\\u0434 (\\u043c\\u043e\\u043b)\",\"2\":\"\\u041b\\u0438\\u043f\\u0442\\u043e\\u0432\\u0441\\u043a\\u0438 \\u041c\\u0438\\u043a\\u0443\\u043b\\u0430\\u0448 (\\u043c\\u043e\\u043b)\"},\"partId\":184331107,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":false},\"_2\":{\"id\":2818987675,\"facId\":44422284796,\"position\":3,\"title\":\"2\",\"value\":3.1600000000000001,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20225317,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041f\\u043e\\u043f\\u0440\\u0430\\u0434 (\\u043c\\u043e\\u043b)\",\"2\":\"\\u041b\\u0438\\u043f\\u0442\\u043e\\u0432\\u0441\\u043a\\u0438 \\u041c\\u0438\\u043a\\u0443\\u043b\\u0430\\u0448 (\\u043c\\u043e\\u043b)\"},\"partId\":184331107,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":441454338,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":103935,\"isMostPossible\":false}}}",
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 1.73,
+                            "2": 3.16,
+                            "x": 5.04
+                        },
+                        "coefficientsOld": [],
+                        "match_time": 15,
+                        "expired": false,
+                        "status": "1p",
+                        "team1": "Попрад (мол)",
+                        "team2": "Липтовски Микулаш (мол)",
+                        "active": null
+                    },
+                    "start_time": 1723129200,
+                    "event_url": "/sport/info/poprad-mol-liptovski-mikulash-mol-3968640/",
+                    "status": 15,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Попрад (мол)"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Липтовски Микулаш (мол)"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 0,
+                        "team_away": 2
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 4.4,
+                            "new": 4.4
+                        },
+                        "2": {
+                            "old": 1.52,
+                            "new": 1.51
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 5,
+                            "new": 5
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967792,
+                    "slug": "hifk-hpk-3967792",
+                    "teams": [
+                        "ХИФК",
+                        "ХПК"
+                    ],
+                    "teamsOriginal": [
+                        "ХИФК",
+                        "ХПК"
+                    ],
+                    "liveDatetime": "2024-08-08T18:00:00+03:00",
+                    "liveId": 20218987,
+                    "prematchId": 20224039,
+                    "prematchData": {
+                        "id": 20224039,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":604885297,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818620235,\"facId\":44417268851,\"position\":1,\"title\":\"1\",\"value\":1.6599999999999999,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224039,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0425\\u0418\\u0424\\u041a\",\"2\":\"\\u0425\\u041f\\u041a\"},\"partId\":184320284,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604885297,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true},\"x\":{\"id\":2818620236,\"facId\":44417268852,\"position\":2,\"title\":\"X\",\"value\":4.5999999999999996,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224039,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0425\\u0418\\u0424\\u041a\",\"2\":\"\\u0425\\u041f\\u041a\"},\"partId\":184320284,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604885297,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2818620237,\"facId\":44417268853,\"position\":3,\"title\":\"2\",\"value\":3.9500000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224039,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0425\\u0418\\u0424\\u041a\",\"2\":\"\\u0425\\u041f\\u041a\"},\"partId\":184320284,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604885297,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false}}}",
+                        "old": "{\"market\":{\"id\":604885297,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818620235,\"facId\":44416428107,\"position\":1,\"title\":\"1\",\"value\":1.6399999999999999,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224039,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0425\\u0418\\u0424\\u041a\",\"2\":\"\\u0425\\u041f\\u041a\"},\"partId\":184320284,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604885297,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":true},\"x\":{\"id\":2818620236,\"facId\":44416428108,\"position\":2,\"title\":\"X\",\"value\":4.7000000000000002,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224039,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0425\\u0418\\u0424\\u041a\",\"2\":\"\\u0425\\u041f\\u041a\"},\"partId\":184320284,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604885297,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false},\"_2\":{\"id\":2818620237,\"facId\":44416428109,\"position\":3,\"title\":\"2\",\"value\":4.0999999999999996,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224039,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u0425\\u0418\\u0424\\u041a\",\"2\":\"\\u0425\\u041f\\u041a\"},\"partId\":184320284,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604885297,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":5385,\"isMostPossible\":false}}}",
+                        "score": "null",
+                        "betradar": 50616553,
+                        "coefficients": {
+                            "1": 1.66,
+                            "2": 3.95,
+                            "x": 4.6
+                        },
+                        "coefficientsOld": {
+                            "1": 1.64,
+                            "2": 4.1,
+                            "x": 4.7
+                        },
+                        "match_time": 19,
+                        "expired": false,
+                        "status": "1p",
+                        "team1": "ХИФК",
+                        "team2": "ХПК",
+                        "active": null
+                    },
+                    "start_time": 1723129200,
+                    "event_url": "/sport/info/hifk-hpk-3967792/",
+                    "status": 19,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "ХИФК"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "ХПК"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 1,
+                        "team_away": 0
+                    },
+                    "betradar": 50616553,
+                    "coefficient": {
+                        "1": {
+                            "old": 1.27,
+                            "new": 1.26
+                        },
+                        "2": {
+                            "old": 9.71,
+                            "new": 11.53
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 5.29,
+                            "new": 5.09
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967949,
+                    "slug": "litomerzhice-sparta-praga-3967949",
+                    "teams": [
+                        "Литомержице",
+                        "Спарта Прага"
+                    ],
+                    "teamsOriginal": [
+                        "Литомержице",
+                        "Спарта Прага"
+                    ],
+                    "liveDatetime": "2024-08-08T18:30:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20224230,
+                    "start_time": 1723131000,
+                    "event_url": "/sport/info/litomerzhice-sparta-praga-3967949/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Литомержице"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Спарта Прага"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 8.2,
+                            "new": 8
+                        },
+                        "2": {
+                            "old": 1.24,
+                            "new": 1.25
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 6,
+                            "new": 6
+                        }
+                    },
+                    "betradar": 50616557
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3968258,
+                    "slug": "homutov-dukla-yiglava-3968258",
+                    "teams": [
+                        "Хомутов",
+                        "Дукла Йиглава"
+                    ],
+                    "teamsOriginal": [
+                        "Хомутов",
+                        "Дукла Йиглава"
+                    ],
+                    "liveDatetime": "2024-08-08T18:30:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20224976,
+                    "start_time": 1723131000,
+                    "event_url": "/sport/info/homutov-dukla-yiglava-3968258/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Хомутов"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Дукла Йиглава"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": 2.65
+                        },
+                        "2": {
+                            "old": null,
+                            "new": 2.1
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": 4.2
+                        }
+                    },
+                    "betradar": 50616559
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967941,
+                    "slug": "olomouc-zvolen-3967941",
+                    "teams": [
+                        "Оломоуц",
+                        "Зволен"
+                    ],
+                    "teamsOriginal": [
+                        "Оломоуц",
+                        "Зволен"
+                    ],
+                    "liveDatetime": "2024-08-08T19:00:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20224227,
+                    "start_time": 1723132800,
+                    "event_url": "/sport/info/olomouc-zvolen-3967941/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Оломоуц"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Зволен"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.45,
+                            "new": 1.43
+                        },
+                        "2": {
+                            "old": 5,
+                            "new": 5.2
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 4.9,
+                            "new": 5
+                        }
+                    },
+                    "betradar": 50616563
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967940,
+                    "slug": "zaglembe-nesta-torun-3967940",
+                    "teams": [
+                        "Заглембе",
+                        "Неста Торунь"
+                    ],
+                    "teamsOriginal": [
+                        "Заглембе",
+                        "Неста Торунь"
+                    ],
+                    "liveDatetime": "2024-08-08T19:00:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20224226,
+                    "start_time": 1723132800,
+                    "event_url": "/sport/info/zaglembe-nesta-torun-3967940/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Заглембе"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Неста Торунь"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 2.17,
+                            "new": 2.18
+                        },
+                        "2": {
+                            "old": 2.5,
+                            "new": 2.5
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 4.4,
+                            "new": 4.3
+                        }
+                    },
+                    "betradar": 50917815
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967951,
+                    "slug": "dinamo-pardubice-2-dinamo-pardubice-3967951",
+                    "teams": [
+                        "Динамо Пардубице 2",
+                        "Динамо Пардубице"
+                    ],
+                    "teamsOriginal": [
+                        "Динамо Пардубице 2",
+                        "Динамо Пардубице"
+                    ],
+                    "liveDatetime": "2024-08-08T19:00:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20224233,
+                    "start_time": 1723132800,
+                    "event_url": "/sport/info/dinamo-pardubice-2-dinamo-pardubice-3967951/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Динамо Пардубице 2"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Динамо Пардубице"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 8,
+                            "new": 7.8
+                        },
+                        "2": {
+                            "old": 1.26,
+                            "new": 1.27
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 6,
+                            "new": 5.8
+                        }
+                    },
+                    "betradar": 50799501
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967996,
+                    "slug": "hk-ryazan-hk-rostov-3967996",
+                    "teams": [
+                        "ХК Рязань",
+                        "ХК Ростов"
+                    ],
+                    "teamsOriginal": [
+                        "ХК Рязань",
+                        "ХК Ростов"
+                    ],
+                    "liveDatetime": "2024-08-08T19:00:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20224240,
+                    "start_time": 1723132800,
+                    "event_url": "/sport/info/hk-ryazan-hk-rostov-3967996/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "ХК Рязань"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "ХК Ростов"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.46,
+                            "new": 1.45
+                        },
+                        "2": {
+                            "old": 4.9,
+                            "new": 5
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 5,
+                            "new": 5.3
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967950,
+                    "slug": "gavirzhov-fridek-mistek-3967950",
+                    "teams": [
+                        "Гавиржов ",
+                        "Фридек Мистек"
+                    ],
+                    "teamsOriginal": [
+                        "Гавиржов ",
+                        "Фридек Мистек"
+                    ],
+                    "liveDatetime": "2024-08-08T19:00:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20224229,
+                    "start_time": 1723132800,
+                    "event_url": "/sport/info/gavirzhov-fridek-mistek-3967950/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Гавиржов "
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Фридек Мистек"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 2.8,
+                            "new": 2.85
+                        },
+                        "2": {
+                            "old": 1.98,
+                            "new": 1.96
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 4.4,
+                            "new": 4.3
+                        }
+                    },
+                    "betradar": 50616551
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3965355,
+                    "slug": "slovan-bratislava-kometa-brno-3965355",
+                    "teams": [
+                        "Слован Братислава",
+                        "Комета Брно"
+                    ],
+                    "teamsOriginal": [
+                        "Слован Братислава",
+                        "Комета Брно"
+                    ],
+                    "liveDatetime": "2024-08-08T19:00:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20219966,
+                    "start_time": 1723132800,
+                    "event_url": "/sport/info/slovan-bratislava-kometa-brno-3965355/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Слован Братислава"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Комета Брно"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 3.7,
+                            "new": 3.8
+                        },
+                        "2": {
+                            "old": 1.71,
+                            "new": 1.69
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 4.7,
+                            "new": 4.6
+                        }
+                    },
+                    "betradar": 50616565
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967952,
+                    "slug": "nyubru-vikings-vekshe-leykers-3967952",
+                    "teams": [
+                        "Нюбру Викингс",
+                        "Векшё Лейкерс"
+                    ],
+                    "teamsOriginal": [
+                        "Нюбру Викингс",
+                        "Векшё Лейкерс"
+                    ],
+                    "liveDatetime": "2024-08-08T20:00:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20224231,
+                    "start_time": 1723136400,
+                    "event_url": "/sport/info/nyubru-vikings-vekshe-leykers-3967952/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Нюбру Викингс"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Векшё Лейкерс"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 8.2,
+                            "new": 8
+                        },
+                        "2": {
+                            "old": 1.25,
+                            "new": 1.26
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 6,
+                            "new": 6
+                        }
+                    },
+                    "betradar": 50616569
+                },
+                {
+                    "categoryName": "Международные. Клубы",
+                    "categoryId": 214,
+                    "categorySlug": "mezhdunarodnye-kluby-214",
+                    "tournamentSlug": "tovarischeskie-matchi-9956",
+                    "tournamentName": "Товарищеские матчи",
+                    "tournamentId": 9956,
+                    "id": 3967953,
+                    "slug": "hk-chur-davos-3967953",
+                    "teams": [
+                        "ХК Чур",
+                        "Давос"
+                    ],
+                    "teamsOriginal": [
+                        "ХК Чур",
+                        "Давос"
+                    ],
+                    "liveDatetime": "2024-08-08T20:30:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20224232,
+                    "start_time": 1723138200,
+                    "event_url": "/sport/info/hk-chur-davos-3967953/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "ХК Чур"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Давос"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 24,
+                            "new": 16
+                        },
+                        "2": {
+                            "old": 1.06,
+                            "new": 1.09
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 9.8,
+                            "new": 9
+                        }
+                    },
+                    "betradar": 50570649
+                }
+            ]
+        },
+        {
+            "country": "by",
+            "leagueName": "Кубок Салея",
+            "countrySlug": "/sport/hockey/belarus-202/",
+            "leagueSlug": "/sport/hockey/belarus-202/kubok-saleia-29279/",
+            "countryName": "Беларусь",
+            "id": 29279,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Беларусь",
+                    "categoryId": 202,
+                    "categorySlug": "belarus-202",
+                    "tournamentSlug": "kubok-saleia-29279",
+                    "tournamentName": "Кубок Салея",
+                    "tournamentId": 29279,
+                    "id": 3967925,
+                    "slug": "neman-grodno-aviator-baranovichi-3967925",
+                    "teams": [
+                        "Неман Гродно",
+                        "Авиатор Барановичи"
+                    ],
+                    "teamsOriginal": [
+                        "Неман Гродно",
+                        "Авиатор Барановичи"
+                    ],
+                    "liveDatetime": "2024-08-08T17:55:00+03:00",
+                    "liveId": 20218993,
+                    "prematchId": 20224218,
+                    "prematchData": {
+                        "id": 20224218,
+                        "passed": false,
+                        "coof": "{\"market\":{\"id\":604890983,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818655023,\"facId\":44428723704,\"position\":1,\"title\":\"1\",\"value\":1.1799999999999999,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224218,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041d\\u0435\\u043c\\u0430\\u043d \\u0413\\u0440\\u043e\\u0434\\u043d\\u043e\",\"2\":\"\\u0410\\u0432\\u0438\\u0430\\u0442\\u043e\\u0440 \\u0411\\u0430\\u0440\\u0430\\u043d\\u043e\\u0432\\u0438\\u0447\\u0438\"},\"partId\":184321678,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604890983,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":97416,\"isMostPossible\":true},\"x\":{\"id\":2818655024,\"facId\":44427922244,\"position\":2,\"title\":\"X\",\"value\":6.7999999999999998,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224218,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041d\\u0435\\u043c\\u0430\\u043d \\u0413\\u0440\\u043e\\u0434\\u043d\\u043e\",\"2\":\"\\u0410\\u0432\\u0438\\u0430\\u0442\\u043e\\u0440 \\u0411\\u0430\\u0440\\u0430\\u043d\\u043e\\u0432\\u0438\\u0447\\u0438\"},\"partId\":184321678,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604890983,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":97416,\"isMostPossible\":false},\"_2\":{\"id\":2818655025,\"facId\":44426894472,\"position\":3,\"title\":\"2\",\"value\":11,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224218,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041d\\u0435\\u043c\\u0430\\u043d \\u0413\\u0440\\u043e\\u0434\\u043d\\u043e\",\"2\":\"\\u0410\\u0432\\u0438\\u0430\\u0442\\u043e\\u0440 \\u0411\\u0430\\u0440\\u0430\\u043d\\u043e\\u0432\\u0438\\u0447\\u0438\"},\"partId\":184321678,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604890983,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":97416,\"isMostPossible\":false}}}",
+                        "old": "{\"market\":{\"id\":604890983,\"title\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"type\":\"WIN\"},\"outcomes\":{\"_1\":{\"id\":2818655023,\"facId\":44428723704,\"position\":1,\"title\":\"1\",\"value\":1.1799999999999999,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_1\",\"eventId\":20224218,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041d\\u0435\\u043c\\u0430\\u043d \\u0413\\u0440\\u043e\\u0434\\u043d\\u043e\",\"2\":\"\\u0410\\u0432\\u0438\\u0430\\u0442\\u043e\\u0440 \\u0411\\u0430\\u0440\\u0430\\u043d\\u043e\\u0432\\u0438\\u0447\\u0438\"},\"partId\":184321678,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604890983,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":97416,\"isMostPossible\":true},\"x\":{\"id\":2818655024,\"facId\":44427922244,\"position\":2,\"title\":\"X\",\"value\":6.7999999999999998,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"x\",\"eventId\":20224218,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041d\\u0435\\u043c\\u0430\\u043d \\u0413\\u0440\\u043e\\u0434\\u043d\\u043e\",\"2\":\"\\u0410\\u0432\\u0438\\u0430\\u0442\\u043e\\u0440 \\u0411\\u0430\\u0440\\u0430\\u043d\\u043e\\u0432\\u0438\\u0447\\u0438\"},\"partId\":184321678,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604890983,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":97416,\"isMostPossible\":false},\"_2\":{\"id\":2818655025,\"facId\":44426894472,\"position\":3,\"title\":\"2\",\"value\":11,\"adValue\":\"0\",\"adTitle\":null,\"locked\":false,\"corrupted\":false,\"outcomeKey\":\"_2\",\"eventId\":20224218,\"eventType\":\"prematch\",\"eventGameId\":31,\"eventComment\":\"\",\"eventTeam\":{\"1\":\"\\u041d\\u0435\\u043c\\u0430\\u043d \\u0413\\u0440\\u043e\\u0434\\u043d\\u043e\",\"2\":\"\\u0410\\u0432\\u0438\\u0430\\u0442\\u043e\\u0440 \\u0411\\u0430\\u0440\\u0430\\u043d\\u043e\\u0432\\u0438\\u0447\\u0438\"},\"partId\":184321678,\"partName\":\"main\",\"partType\":\"FULLTIME\",\"partTitle\":\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f\",\"marketId\":604890983,\"marketType\":\"WIN\",\"marketTitle\":\"\\u041f\\u043e\\u0431\\u0435\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\",\"topicId\":97416,\"isMostPossible\":false}}}",
+                        "score": "null",
+                        "betradar": 51472733,
+                        "coefficients": {
+                            "1": 1.18,
+                            "2": 11,
+                            "x": 6.8
+                        },
+                        "coefficientsOld": {
+                            "1": 1.17,
+                            "2": 11,
+                            "x": 6.8
+                        },
+                        "match_time": 13,
+                        "expired": false,
+                        "status": "1p",
+                        "team1": "Неман Гродно",
+                        "team2": "Авиатор Барановичи",
+                        "active": null
+                    },
+                    "start_time": 1723128900,
+                    "event_url": "/sport/info/neman-grodno-aviator-baranovichi-3967925/",
+                    "status": 13,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Неман Гродно"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Авиатор Барановичи"
+                        }
+                    ],
+                    "score": {
+                        "team_home": 0,
+                        "team_away": 0
+                    },
+                    "betradar": 51472733,
+                    "coefficient": {
+                        "1": {
+                            "old": 1.16,
+                            "new": 1.16
+                        },
+                        "2": {
+                            "old": 10.4,
+                            "new": 10.21
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 7.81,
+                            "new": 7.69
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Беларусь",
+                    "categoryId": 202,
+                    "categorySlug": "belarus-202",
+                    "tournamentSlug": "kubok-saleia-29279",
+                    "tournamentName": "Кубок Салея",
+                    "tournamentId": 29279,
+                    "id": 3967927,
+                    "slug": "yunost-minsk-brest-3967927",
+                    "teams": [
+                        "Юность Минск",
+                        "Брест"
+                    ],
+                    "teamsOriginal": [
+                        "Юность Минск",
+                        "Брест"
+                    ],
+                    "liveDatetime": "2024-08-08T19:00:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20224222,
+                    "start_time": 1723132800,
+                    "event_url": "/sport/info/yunost-minsk-brest-3967927/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Юность Минск"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Брест"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.27,
+                            "new": 1.26
+                        },
+                        "2": {
+                            "old": 7.6,
+                            "new": 7.8
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 5.8,
+                            "new": 6
+                        }
+                    },
+                    "betradar": 51472741
+                },
+                {
+                    "categoryName": "Беларусь",
+                    "categoryId": 202,
+                    "categorySlug": "belarus-202",
+                    "tournamentSlug": "kubok-saleia-29279",
+                    "tournamentName": "Кубок Салея",
+                    "tournamentId": 29279,
+                    "id": 3967926,
+                    "slug": "lida-dinamo-molodechno-3967926",
+                    "teams": [
+                        "Лида",
+                        "Динамо Молодечно"
+                    ],
+                    "teamsOriginal": [
+                        "Лида",
+                        "Динамо Молодечно"
+                    ],
+                    "liveDatetime": "2024-08-08T19:00:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20224219,
+                    "start_time": 1723132800,
+                    "event_url": "/sport/info/lida-dinamo-molodechno-3967926/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Лида"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Динамо Молодечно"
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": 4.1
+                        },
+                        "2": {
+                            "old": null,
+                            "new": 1.57
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": 4.7
+                        }
+                    },
+                    "betradar": 51472731
+                }
+            ]
+        }
+    ]
+}

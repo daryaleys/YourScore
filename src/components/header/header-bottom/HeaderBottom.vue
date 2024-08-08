@@ -39,9 +39,9 @@ const commonMenuItems: MenuItem[] = [
         icon: "/src/assets/sports/boxing.svg",
     },
     {
-        route: "mma",
-        title: "MMA",
-        icon: "/src/assets/sports/mma.svg",
+        route: "basketball",
+        title: "Баскетбол",
+        icon: "/src/assets/sports/basketball.svg",
     },
 ];
 

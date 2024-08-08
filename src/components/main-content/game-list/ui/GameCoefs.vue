@@ -18,21 +18,21 @@ defineProps<{
         <div class="coef__wrap">
             <inline-svg src="/src/assets/icons/arrow.svg" v-if="coef1.type" class="coef__icon"
                 :class="coef1.type"></inline-svg>
-            <span class="coef__value">{{ coef1.value }}</span>
+            <span class="coef__value">{{ coef1.value ?? '-' }}</span>
         </div>
     </td>
     <td class="coef">
         <div class="coef__wrap">
             <inline-svg src="/src/assets/icons/arrow.svg" v-if="coefX.type" class="coef__icon"
                 :class="coefX.type"></inline-svg>
-            <span class="coef__value">{{ coefX.value }}</span>
+            <span class="coef__value">{{ coefX.value ?? '-' }}</span>
         </div>
     </td>
     <td class="coef">
         <div class="coef__wrap">
             <inline-svg src="/src/assets/icons/arrow.svg" v-if="coef2.type" class="coef__icon"
                 :class="coef2.type"></inline-svg>
-            <span class="coef__value">{{ coef2.value }}</span>
+            <span class="coef__value">{{ coef2.value ?? '-' }}</span>
         </div>
     </td>
 </template>

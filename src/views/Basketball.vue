@@ -5,7 +5,7 @@ import MainContent from "@/components/main-content/MainContent.vue";
 
 const leagueList: Ref<MainLeague[]> = ref([]);
 
-fetch("/src/data/hockey.json")
+fetch("/src/data/basketball.json")
     .then((response) => response.json())
     .then((data) => data.data.forEach((item: MainLeague) => leagueList.value.push(item)))
     .catch((error) => console.log(error));

@@ -1,0 +1,738 @@
+{
+    "data": [
+        {
+            "country": "un",
+            "leagueName": "Лига Ставок. Ночь чемпионов IBA",
+            "countrySlug": "/sport/boxing/mezhdunarodnye-1097/",
+            "leagueSlug": "/sport/boxing/mezhdunarodnye-1097/liga-stavok-noch-chempionov-iba-36595/",
+            "countryName": "Международные",
+            "id": 36595,
+            "is_open": false,
+            "games": [
+                {
+                    "categoryName": "Международные",
+                    "categoryId": 1097,
+                    "categorySlug": "mezhdunarodnye-1097",
+                    "tournamentSlug": "liga-stavok-noch-chempionov-iba-36595",
+                    "tournamentName": "Лига Ставок. Ночь чемпионов IBA",
+                    "tournamentId": 36595,
+                    "id": 3923929,
+                    "slug": "kozorezov-e-chahal-a-3923929",
+                    "teams": [
+                        "Козорезов Е.",
+                        "Чахал А."
+                    ],
+                    "teamsOriginal": [
+                        "Козорезов Е.",
+                        "Чахал А."
+                    ],
+                    "liveDatetime": "2024-08-08T16:15:00+03:00",
+                    "liveId": 20225149,
+                    "prematchId": 20153670,
+                    "prematchData": {
+                        "id": 20153670,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 1.27,
+                            "2": 3.5,
+                            "x": 18
+                        },
+                        "coefficientsOld": {
+                            "1": 1.32,
+                            "2": 3.2,
+                            "x": 18
+                        },
+                        "match_time": null,
+                        "expired": false,
+                        "status": "ended",
+                        "team1": "Козорезов Е.",
+                        "team2": "Чахал А.",
+                        "active": null
+                    },
+                    "start_time": 1723122900,
+                    "event_url": "/sport/info/kozorezov-e-chahal-a-3923929/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Козорезов Е."
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Чахал А."
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 12,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 25,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные",
+                    "categoryId": 1097,
+                    "categorySlug": "mezhdunarodnye-1097",
+                    "tournamentSlug": "liga-stavok-noch-chempionov-iba-36595",
+                    "tournamentName": "Лига Ставок. Ночь чемпионов IBA",
+                    "tournamentId": 36595,
+                    "id": 3914422,
+                    "slug": "aydarov-s-abdullaev-a-3914422",
+                    "teams": [
+                        "Айдаров С.",
+                        "Абдуллаев А."
+                    ],
+                    "teamsOriginal": [
+                        "Айдаров С.",
+                        "Абдуллаев А."
+                    ],
+                    "liveDatetime": "2024-08-08T16:45:00+03:00",
+                    "liveId": 20225060,
+                    "prematchId": 20139503,
+                    "prematchData": {
+                        "id": 20139503,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 1.46,
+                            "2": 2.5,
+                            "x": 22
+                        },
+                        "coefficientsOld": {
+                            "1": 1.42,
+                            "2": 2.65,
+                            "x": 22
+                        },
+                        "match_time": null,
+                        "expired": false,
+                        "status": "8part",
+                        "team1": "Айдаров С.",
+                        "team2": "Абдуллаев А.",
+                        "active": null
+                    },
+                    "start_time": 1723124700,
+                    "event_url": "/sport/info/aydarov-s-abdullaev-a-3914422/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Айдаров С."
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Абдуллаев А."
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 2,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 1.75,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные",
+                    "categoryId": 1097,
+                    "categorySlug": "mezhdunarodnye-1097",
+                    "tournamentSlug": "liga-stavok-noch-chempionov-iba-36595",
+                    "tournamentName": "Лига Ставок. Ночь чемпионов IBA",
+                    "tournamentId": 36595,
+                    "id": 3914424,
+                    "slug": "musaev-v-amavila-p-3914424",
+                    "teams": [
+                        "Мусаев В.",
+                        "Амавила П."
+                    ],
+                    "teamsOriginal": [
+                        "Мусаев В.",
+                        "Амавила П."
+                    ],
+                    "liveDatetime": "2024-08-08T17:30:00+03:00",
+                    "liveId": 20226199,
+                    "prematchId": 20139759,
+                    "prematchData": {
+                        "id": 20139759,
+                        "passed": false,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 1.01,
+                            "2": 20,
+                            "x": 22
+                        },
+                        "coefficientsOld": {
+                            "1": 1.07,
+                            "2": 7.2,
+                            "x": 22
+                        },
+                        "match_time": null,
+                        "expired": false,
+                        "status": "4part",
+                        "team1": "Мусаев В.",
+                        "team2": "Амавила П.",
+                        "active": null
+                    },
+                    "start_time": 1723127400,
+                    "event_url": "/sport/info/musaev-v-amavila-p-3914424/",
+                    "status": "Завершен",
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Мусаев В."
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Амавила П."
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 0,
+                            "new": null
+                        },
+                        "2": {
+                            "old": 25,
+                            "new": null
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 30,
+                            "new": null
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные",
+                    "categoryId": 1097,
+                    "categorySlug": "mezhdunarodnye-1097",
+                    "tournamentSlug": "liga-stavok-noch-chempionov-iba-36595",
+                    "tournamentName": "Лига Ставок. Ночь чемпионов IBA",
+                    "tournamentId": 36595,
+                    "id": 3914425,
+                    "slug": "bizhamov-d-narvaez-h-3914425",
+                    "teams": [
+                        "Бижамов Д.",
+                        "Нарваез Х."
+                    ],
+                    "teamsOriginal": [
+                        "Бижамов Д.",
+                        "Нарваез Х."
+                    ],
+                    "liveDatetime": "2024-08-08T18:15:00+03:00",
+                    "liveId": 20226201,
+                    "prematchId": 20139777,
+                    "prematchData": {
+                        "id": 20139777,
+                        "passed": true,
+                        "coof": null,
+                        "old": null,
+                        "score": "null",
+                        "betradar": 0,
+                        "coefficients": {
+                            "1": 1.05,
+                            "2": 10,
+                            "x": 22
+                        },
+                        "coefficientsOld": {
+                            "1": 1.06,
+                            "2": 9.2,
+                            "x": 22
+                        },
+                        "match_time": null,
+                        "expired": false,
+                        "status": "not_started",
+                        "team1": "Бижамов Д.",
+                        "team2": "Нарваез Х.",
+                        "active": null
+                    },
+                    "start_time": 1723130100,
+                    "event_url": "/sport/info/bizhamov-d-narvaez-h-3914425/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Бижамов Д."
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Нарваез Х."
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.01,
+                            "new": 0
+                        },
+                        "2": {
+                            "old": 14,
+                            "new": 15
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 25,
+                            "new": 25
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные",
+                    "categoryId": 1097,
+                    "categorySlug": "mezhdunarodnye-1097",
+                    "tournamentSlug": "liga-stavok-noch-chempionov-iba-36595",
+                    "tournamentName": "Лига Ставок. Ночь чемпионов IBA",
+                    "tournamentId": 36595,
+                    "id": 3914423,
+                    "slug": "gabdrafikov-d-battumur-m-3914423",
+                    "teams": [
+                        "Габдрафиков Д.",
+                        "Баттумур М."
+                    ],
+                    "teamsOriginal": [
+                        "Габдрафиков Д.",
+                        "Баттумур М."
+                    ],
+                    "liveDatetime": "2024-08-08T18:55:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20139758,
+                    "start_time": 1723132500,
+                    "event_url": "/sport/info/gabdrafikov-d-battumur-m-3914423/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Габдрафиков Д."
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Баттумур М."
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.23,
+                            "new": 1.2
+                        },
+                        "2": {
+                            "old": 3.78,
+                            "new": 4
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 22,
+                            "new": 22
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Международные",
+                    "categoryId": 1097,
+                    "categorySlug": "mezhdunarodnye-1097",
+                    "tournamentSlug": "liga-stavok-noch-chempionov-iba-36595",
+                    "tournamentName": "Лига Ставок. Ночь чемпионов IBA",
+                    "tournamentId": 36595,
+                    "id": 3914426,
+                    "slug": "subhankulov-a-galosh-r-3914426",
+                    "teams": [
+                        "Субханкулов А.",
+                        "Галош Р."
+                    ],
+                    "teamsOriginal": [
+                        "Субханкулов А.",
+                        "Галош Р."
+                    ],
+                    "liveDatetime": "2024-08-08T19:35:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20139778,
+                    "start_time": 1723134900,
+                    "event_url": "/sport/info/subhankulov-a-galosh-r-3914426/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Субханкулов А."
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Галош Р."
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 1.07,
+                            "new": 1.05
+                        },
+                        "2": {
+                            "old": 8,
+                            "new": 12
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 22,
+                            "new": 22
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "nan",
+            "leagueName": "Олимпиада 2024. Париж",
+            "countrySlug": "/sport/boxing/olimpiada-2024-1871/",
+            "leagueSlug": "/sport/boxing/olimpiada-2024-1871/olimpiada-2024-parizh-41404/",
+            "countryName": "Олимпиада 2024",
+            "id": 41404,
+            "is_open": true,
+            "games": [
+                {
+                    "categoryName": "Олимпиада 2024",
+                    "categoryId": 1871,
+                    "categorySlug": "olimpiada-2024-1871",
+                    "tournamentSlug": "olimpiada-2024-parizh-41404",
+                    "tournamentName": "Олимпиада 2024. Париж",
+                    "tournamentId": 41404,
+                    "id": 3968401,
+                    "slug": "halokov-a-senor-ch-3968401",
+                    "teams": [
+                        "Халоков А.",
+                        "Сеньор Ч."
+                    ],
+                    "teamsOriginal": [
+                        "Халоков А.",
+                        "Сеньор Ч."
+                    ],
+                    "liveDatetime": "2024-08-08T22:30:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20225107,
+                    "start_time": 1723145400,
+                    "event_url": "/sport/info/halokov-a-senor-ch-3968401/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Халоков А."
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Сеньор Ч."
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": 1.06
+                        },
+                        "2": {
+                            "old": null,
+                            "new": 7.4
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": 0
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Олимпиада 2024",
+                    "categoryId": 1871,
+                    "categorySlug": "olimpiada-2024-1871",
+                    "tournamentSlug": "olimpiada-2024-parizh-41404",
+                    "tournamentName": "Олимпиада 2024. Париж",
+                    "tournamentId": 41404,
+                    "id": 3968402,
+                    "slug": "seytbek-m-ibanes-h-3968402",
+                    "teams": [
+                        "Сейтбек М.",
+                        "Ибаньес Х."
+                    ],
+                    "teamsOriginal": [
+                        "Сейтбек М.",
+                        "Ибаньес Х."
+                    ],
+                    "liveDatetime": "2024-08-08T22:46:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20225108,
+                    "start_time": 1723146360,
+                    "event_url": "/sport/info/seytbek-m-ibanes-h-3968402/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Сейтбек М."
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Ибаньес Х."
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": 3.25
+                        },
+                        "2": {
+                            "old": null,
+                            "new": 1.29
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": 0
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Олимпиада 2024",
+                    "categoryId": 1871,
+                    "categorySlug": "olimpiada-2024-1871",
+                    "tournamentSlug": "olimpiada-2024-parizh-41404",
+                    "tournamentName": "Олимпиада 2024. Париж",
+                    "tournamentId": 41404,
+                    "id": 3964730,
+                    "slug": "bennama-b-dusmatov-h-3964730",
+                    "teams": [
+                        "Беннама Б.",
+                        "Дусматов Х."
+                    ],
+                    "teamsOriginal": [
+                        "Беннама Б.",
+                        "Дусматов Х."
+                    ],
+                    "liveDatetime": "2024-08-08T23:34:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20218947,
+                    "start_time": 1723149240,
+                    "event_url": "/sport/info/bennama-b-dusmatov-h-3964730/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Беннама Б."
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Дусматов Х."
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": 3.2,
+                            "new": 3.5
+                        },
+                        "2": {
+                            "old": 1.3,
+                            "new": 1.25
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": 0,
+                            "new": 0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "country": "nan",
+            "leagueName": "Олимпиада 2024. Женщины. Париж",
+            "countrySlug": "/sport/boxing/olimpiada-2024-1871/",
+            "leagueSlug": "/sport/boxing/olimpiada-2024-1871/olimpiada-2024-zhenshchiny-parizh-41459/",
+            "countryName": "Олимпиада 2024",
+            "id": 41459,
+            "is_open": true,
+            "games": [
+                {
+                    "categoryName": "Олимпиада 2024",
+                    "categoryId": 1871,
+                    "categorySlug": "olimpiada-2024-1871",
+                    "tournamentSlug": "olimpiada-2024-zhenshchiny-parizh-41459",
+                    "tournamentName": "Олимпиада 2024. Женщины. Париж",
+                    "tournamentId": 41459,
+                    "id": 3965366,
+                    "slug": "li-cyan-parker-k-3965366",
+                    "teams": [
+                        "Ли Цянь",
+                        "Паркер К."
+                    ],
+                    "teamsOriginal": [
+                        "Ли Цянь",
+                        "Паркер К."
+                    ],
+                    "liveDatetime": "2024-08-08T23:02:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20219976,
+                    "start_time": 1723147320,
+                    "event_url": "/sport/info/li-cyan-parker-k-3965366/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Ли Цянь"
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Паркер К."
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": 1.17
+                        },
+                        "2": {
+                            "old": null,
+                            "new": 4.4
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": 0
+                        }
+                    }
+                },
+                {
+                    "categoryName": "Олимпиада 2024",
+                    "categoryId": 1871,
+                    "categorySlug": "olimpiada-2024-1871",
+                    "tournamentSlug": "olimpiada-2024-zhenshchiny-parizh-41459",
+                    "tournamentName": "Олимпиада 2024. Женщины. Париж",
+                    "tournamentId": 41459,
+                    "id": 3965367,
+                    "slug": "ngamba-s-bilon-a-3965367",
+                    "teams": [
+                        "Нгамба С.",
+                        "Билон А."
+                    ],
+                    "teamsOriginal": [
+                        "Нгамба С.",
+                        "Билон А."
+                    ],
+                    "liveDatetime": "2024-08-08T23:18:00+03:00",
+                    "liveId": null,
+                    "prematchId": 20219977,
+                    "start_time": 1723148280,
+                    "event_url": "/sport/info/ngamba-s-bilon-a-3965367/",
+                    "status": null,
+                    "team_home": [
+                        {
+                            "id": null,
+                            "name": "Нгамба С."
+                        }
+                    ],
+                    "team_away": [
+                        {
+                            "id": null,
+                            "name": "Билон А."
+                        }
+                    ],
+                    "score": {
+                        "team_home": null,
+                        "team_away": null
+                    },
+                    "coefficient": {
+                        "1": {
+                            "old": null,
+                            "new": 1.3
+                        },
+                        "2": {
+                            "old": null,
+                            "new": 3.2
+                        },
+                        "bookie": "liga",
+                        "x": {
+                            "old": null,
+                            "new": 0
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

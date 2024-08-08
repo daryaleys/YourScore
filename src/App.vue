@@ -15,7 +15,7 @@ if (getCurrentTheme()) {
 
 <template>
   <HeaderLayout class="app-header" />
-  <SideBarList />
+  <SideBarList class="sidebar" />
   <RouterView></RouterView>
   <div class="empty"></div>
   <FooterLayout class="app-footer" />
@@ -23,16 +23,27 @@ if (getCurrentTheme()) {
 
 <style lang="scss">
 #app {
+  position: relative;
+  min-height: 100vh;
   display: grid;
   grid-template-columns: 1fr 728px 1fr;
-  grid-template-rows: repeat(3, auto);
+  grid-template-rows: auto auto 1fr;
   justify-content: space-between;
+  align-content: start;
   grid-row-gap: 12px;
+}
+
+.sidebar {
+  padding-right: 10px;
 }
 
 .app-header,
 .app-footer {
   grid-column: 1 / 4;
+}
+
+.app-footer {
+  align-self: end;
 }
 
 .empty {
@@ -43,6 +54,10 @@ if (getCurrentTheme()) {
   #app {
     grid-template-columns: 170px 1fr;
     justify-content: start;
+  }
+
+  .sidebar {
+    padding: 0 10px;
   }
 
   .empty {

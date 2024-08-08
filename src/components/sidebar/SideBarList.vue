@@ -34,7 +34,6 @@ const store = leagueStore();
 <style lang="scss" scoped>
 .sidebar {
     width: 170px;
-    padding-right: 10px;
     justify-self: end;
 }
 
