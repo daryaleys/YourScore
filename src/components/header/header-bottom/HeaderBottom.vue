@@ -26,22 +26,22 @@ const commonMenuItems: MenuItem[] = [
     {
         route: "football",
         title: "Футбол",
-        icon: "/src/assets/sports/football.svg",
+        icon: "@/assets/sports/football.svg",
     },
     {
         route: "hockey",
         title: "Хоккей",
-        icon: "/src/assets/sports/hockey.svg",
+        icon: "@/assets/sports/hockey.svg",
     },
     {
         route: "boxing",
         title: "Бокс",
-        icon: "/src/assets/sports/boxing.svg",
+        icon: "@/assets/sports/boxing.svg",
     },
     {
         route: "basketball",
         title: "Баскетбол",
-        icon: "/src/assets/sports/basketball.svg",
+        icon: "@/assets/sports/basketball.svg",
     },
 ];
 

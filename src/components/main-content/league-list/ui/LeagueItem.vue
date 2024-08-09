@@ -28,7 +28,7 @@ defineProps<{
             <span class="league__show-games" v-else>Скрыть игры</span>
 
             <div class="league__games-length">{{ gamesLength }}</div>
-            <inline-svg src="/src/assets/icons/arrow.svg" class="league__arrow" :class="{ opened }"/>
+            <inline-svg src="@/assets/icons/arrow.svg" class="league__arrow" :class="{ opened }"/>
         </button>
     </div>
 </template>

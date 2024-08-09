@@ -27,22 +27,22 @@ import InlineSvg from 'vue-inline-svg';
                 <ul class="social">
                     <li class="social__item">
                         <a href="" class="social__link" title="Facebook">
-                            <inline-svg src="/src/assets/social-links/facebook.svg" class="social__icon"></inline-svg>
+                            <inline-svg src="@/assets/social-links/facebook.svg" class="social__icon"></inline-svg>
                         </a>
                     </li>
                     <li class="social__item">
                         <a href="" class="social__link" title="Instagram">
-                            <inline-svg src="/src/assets/social-links/instagram.svg" class="social__icon"></inline-svg>
+                            <inline-svg src="@/assets/social-links/instagram.svg" class="social__icon"></inline-svg>
                         </a>
                     </li>
                     <li class="social__item">
                         <a href="" class="social__link" title="VK">
-                            <inline-svg src="/src/assets/social-links/vk.svg" class="social__icon"></inline-svg>
+                            <inline-svg src="@/assets/social-links/vk.svg" class="social__icon"></inline-svg>
                         </a>
                     </li>
                     <li class="social__item">
                         <a href="" class="social__link" title="Twitter">
-                            <inline-svg src="/src/assets/social-links/twitter.svg" class="social__icon"></inline-svg>
+                            <inline-svg src="@/assets/social-links/twitter.svg" class="social__icon"></inline-svg>
                         </a>
                     </li>
                 </ul>

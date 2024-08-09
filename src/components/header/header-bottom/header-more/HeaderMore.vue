@@ -29,7 +29,7 @@ onMounted(() => {
 
 <template>
     <button class="header-more-btn" id="toggleMore" @click="dropDownActive = !dropDownActive" ref="btnElement">
-        <HeaderItem icon="/src/assets/icons/more.svg" title="Больше" :isActive="dropDownActive"> </HeaderItem>
+        <HeaderItem icon="@/assets/icons/more.svg" title="Больше" :isActive="dropDownActive"> </HeaderItem>
     </button>
 
     <Transition>
