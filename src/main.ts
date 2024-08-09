@@ -1,4 +1,5 @@
 import "./main.scss";
+// import.meta.glob(["./assets/**"]);
 
 import { createApp } from "vue";
 import { createPinia } from "pinia";

@@ -14,7 +14,7 @@ defineProps<{
 <template>
     <div class="league">
         <div class="league__about">
-            <inline-svg src="/src/assets/icons/star.svg" class="league__star" />
+            <inline-svg src="@/assets/icons/star.svg" class="league__star" />
             <img src="@/assets/icons/league.svg" alt="Лига" class="league__flag" />
             <div class="league__text">
                 <span class="league__country">{{ countryName }}</span>

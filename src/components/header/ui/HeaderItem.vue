@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import InlineSvg from "vue-inline-svg";
-import { getImageUrl } from "@/helpers/helpers";
 
 defineProps<{
     isActive: boolean;
@@ -11,7 +10,7 @@ defineProps<{
 
 <template>
     <div class="header-item" :class="{ active: isActive }">
-        <inline-svg :src="getImageUrl(icon)" class="header-item__icon" />
+        <inline-svg :src="icon" class="header-item__icon" />
         <span class="header-item__text">{{ title }}</span>
     </div>
 </template>

@@ -9,7 +9,3 @@ export const getCurrentTheme = (): boolean => {
     
     return (!savedTheme && matchMedia.matches) || (savedTheme === "dark")
 }
-
-export const getImageUrl = (name: string): string => {
-    return new URL(name, import.meta.url).href;
-};

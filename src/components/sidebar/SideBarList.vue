@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { leagueStore } from '@/store/leagueStore';
-import { useRoute } from 'vue-router';
 const store = leagueStore();
 
 // const route = useRoute();
@@ -22,8 +21,6 @@ const store = leagueStore();
 
                         <img src="@/assets/icons/star.svg" alt="Звёздочка" class="league-item__star">
                     </a>
-
-                    <!-- <RouterLink :to="`/league/${league.id}`" class="league-item__link">{{ league.name }}</RouterLink> -->
                 </li>
             </ul>
         </div>
