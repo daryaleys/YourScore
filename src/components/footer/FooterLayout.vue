@@ -1,48 +1,65 @@
 <script setup lang="ts">
-import InlineSvg from 'vue-inline-svg';
+import InlineSvg from "vue-inline-svg";
+
+const getImageUrl = (path: string) => {
+    return new URL(`../../assets/social-links/${path}.svg`, import.meta.url).href
+}
+
+const footerLinks = [
+    {
+        link: "",
+        text: "Пользовательское соглашение",
+    },
+    {
+        link: "",
+        text: "Конфиденциальность",
+    },
+    {
+        link: "",
+        text: "Реклама",
+    },
+    {
+        link: "",
+        text: "Контакты",
+    },
+];
+
+const socialLinks = [
+    {
+        link: "",
+        icon: getImageUrl("facebook"),
+    },
+    {
+        link: "",
+        icon: getImageUrl("instagram"),
+    },
+    {
+        link: "",
+        icon: getImageUrl("vk"),
+    },
+    {
+        link: "",
+        icon: getImageUrl("twitter"),
+    }
+];
 </script>
 
 <template>
     <footer class="footer">
         <div class="container footer__container">
-
             <div class="footer__top">
                 <nav class="nav footer__nav">
                     <ul class="nav__list">
-                        <li class="nav__item">
-                            <a href="" class="nav__link">Пользовательское соглашение</a>
-                        </li>
-                        <li class="nav__item">
-                            <a href="" class="nav__link">Конфиденциальность</a>
-                        </li>
-                        <li class="nav__item">
-                            <a href="" class="nav__link">Реклама</a>
-                        </li>
-                        <li class="nav__item">
-                            <a href="" class="nav__link">Контакты</a>
+                        <li class="nav__item" v-for="link in footerLinks">
+                            <a :href="link.link" class="nav__link">{{ link.text }}</a>
                         </li>
                     </ul>
                 </nav>
 
                 <ul class="social">
-                    <li class="social__item">
-                        <a href="" class="social__link" title="Facebook">
-                            <inline-svg src="@/assets/social-links/facebook.svg" class="social__icon"></inline-svg>
-                        </a>
-                    </li>
-                    <li class="social__item">
-                        <a href="" class="social__link" title="Instagram">
-                            <inline-svg src="@/assets/social-links/instagram.svg" class="social__icon"></inline-svg>
-                        </a>
-                    </li>
-                    <li class="social__item">
-                        <a href="" class="social__link" title="VK">
-                            <inline-svg src="@/assets/social-links/vk.svg" class="social__icon"></inline-svg>
-                        </a>
-                    </li>
-                    <li class="social__item">
-                        <a href="" class="social__link" title="Twitter">
-                            <inline-svg src="@/assets/social-links/twitter.svg" class="social__icon"></inline-svg>
+                    <li class="social__item" v-for="link in socialLinks">
+                        <a :href="link.link" class="social__link">
+                            <inline-svg :src="link.icon" class="social__icon"></inline-svg>
                         </a>
                     </li>
                 </ul>
@@ -64,7 +81,7 @@ import InlineSvg from 'vue-inline-svg';
     background: var(--color-dop-back);
     border-radius: 10px 10px 0 0;
     padding: 18px 14px;
-    transition: background .3s ease-in-out;
+    transition: background 0.3s ease-in-out;
     display: flex;
     flex-direction: column;
     gap: 18px;
@@ -88,7 +105,7 @@ import InlineSvg from 'vue-inline-svg';
     font-size: 16px;
     line-height: 120%;
     color: var(--color-main-text);
-    transition: color .3s ease-in-out;
+    transition: color 0.3s ease-in-out;
 
     &:hover {
         color: var(--color-dop-cta);
@@ -109,20 +126,20 @@ import InlineSvg from 'vue-inline-svg';
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: border-color .3s ease-in-out;
+    transition: border-color 0.3s ease-in-out;
 
     &:hover {
         border-color: var(--color-dop-cta);
 
-        & .social__icon>* {
+        & .social__icon > * {
             fill: var(--color-dop-cta);
         }
     }
 }
 
-.social__icon>* {
+.social__icon > * {
     fill: var(--color-main-text);
-    transition: fill .3s ease-in-out;
+    transition: fill 0.3s ease-in-out;
 }
 
 .separator {

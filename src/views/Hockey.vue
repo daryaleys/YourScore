@@ -3,9 +3,11 @@ import { ref, type Ref } from "vue";
 import type { MainLeague } from "@/components/main-content/mainLeagueType";
 import MainContent from "@/components/main-content/MainContent.vue";
 
+import hockey from "../data/hockey.json?url";
+
 const leagueList: Ref<MainLeague[]> = ref([]);
 
-fetch("@/data/hockey.json")
+fetch(hockey)
     .then((response) => response.json())
     .then((data) => data.data.forEach((item: MainLeague) => leagueList.value.push(item)))
     .catch((error) => console.log(error));

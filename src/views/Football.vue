@@ -3,7 +3,7 @@ import { ref, type Ref } from "vue";
 import type { MainLeague } from "@/components/main-content/mainLeagueType";
 import MainContent from "@/components/main-content/MainContent.vue";
 
-import football from "@/data/football.json?url";
+import football from "../data/football.json?url";
 
 const leagueList: Ref<MainLeague[]> = ref([]);
 

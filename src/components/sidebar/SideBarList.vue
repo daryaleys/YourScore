@@ -1,9 +1,6 @@
 <script setup lang="ts">
 import { leagueStore } from '@/store/leagueStore';
 const store = leagueStore();
-
-// const route = useRoute();
-// console.log(route.fullPath)
 </script>
 
 <template>

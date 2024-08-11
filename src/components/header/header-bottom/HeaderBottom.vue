@@ -4,7 +4,6 @@ import HeaderMainNav from "./header-main-nav/HeaderMainNav.vue";
 import HeaderMore from "./header-more/HeaderMore.vue";
 import type { HeaderNavRouteNames } from "@/main";
 import { computed, ref, watch, type Ref } from "vue";
-import football from "../../../assets/sports/football.svg?url";
 
 export type MenuItem = {
     route: HeaderNavRouteNames;
@@ -15,9 +14,6 @@ export type MenuItem = {
 const getImageUrl = (path: string) => {
     return new URL(`../../../assets/sports/${path}.svg`, import.meta.url).href
 }
-
-
-console.log(football);
 
 const headerMenuElement = ref(null),
     headerBtnElement = ref(null);
