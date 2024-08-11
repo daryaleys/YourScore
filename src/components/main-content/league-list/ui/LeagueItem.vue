@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import InlineSvg from "vue-inline-svg";
+import star from "../../../../assets/icons/star.svg?url";
+import arrow from "../../../../assets/icons/arrow.svg?url";
 
 defineEmits(["toggleDropDown"]);
 
@@ -14,7 +16,7 @@ defineProps<{
 <template>
     <div class="league">
         <div class="league__about">
-            <inline-svg src="@/assets/icons/star.svg" class="league__star" />
+            <inline-svg :src="star" class="league__star" />
             <img src="@/assets/icons/league.svg" alt="Лига" class="league__flag" />
             <div class="league__text">
                 <span class="league__country">{{ countryName }}</span>
@@ -28,7 +30,7 @@ defineProps<{
             <span class="league__show-games" v-else>Скрыть игры</span>
 
             <div class="league__games-length">{{ gamesLength }}</div>
-            <inline-svg src="@/assets/icons/arrow.svg" class="league__arrow" :class="{ opened }"/>
+            <inline-svg :src="arrow" class="league__arrow" :class="{ opened }"/>
         </button>
     </div>
 </template>

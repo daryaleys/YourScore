@@ -3,6 +3,7 @@ import { onMounted, ref, type Ref } from "vue";
 import HeaderItem from "../../ui/HeaderItem.vue";
 import HeaderMoreDropDown from "./HeaderMoreDropDown.vue";
 import type { MenuItem } from "../HeaderBottom.vue";
+import moreIcon from '../../../../assets/icons/more.svg';
 
 defineProps<{
     menuItems: MenuItem[];
@@ -29,7 +30,7 @@ onMounted(() => {
 
 <template>
     <button class="header-more-btn" id="toggleMore" @click="dropDownActive = !dropDownActive" ref="btnElement">
-        <HeaderItem icon="@/assets/icons/more.svg" title="Больше" :isActive="dropDownActive"> </HeaderItem>
+        <HeaderItem :icon="moreIcon" title="Больше" :isActive="dropDownActive"> </HeaderItem>
     </button>
 
     <Transition>

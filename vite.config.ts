@@ -9,7 +9,7 @@ import vueDevTools from "vite-plugin-vue-devtools";
 export default defineConfig(({ command }) => {
     if (command === "build") {
         return {
-            base: "/YourScore/",
+            base: "./",
             plugins: [vue(), vueJsx(), vueDevTools()],
             resolve: {
                 alias: {

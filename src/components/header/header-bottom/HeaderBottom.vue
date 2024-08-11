@@ -4,12 +4,20 @@ import HeaderMainNav from "./header-main-nav/HeaderMainNav.vue";
 import HeaderMore from "./header-more/HeaderMore.vue";
 import type { HeaderNavRouteNames } from "@/main";
 import { computed, ref, watch, type Ref } from "vue";
+import football from "../../../assets/sports/football.svg?url";
 
 export type MenuItem = {
     route: HeaderNavRouteNames;
     title: string;
-    icon: string;
+    icon: string; 
 };
+
+const getImageUrl = (path: string) => {
+    return new URL(`../../../assets/sports/${path}.svg`, import.meta.url).href
+}
+
+
+console.log(football);
 
 const headerMenuElement = ref(null),
     headerBtnElement = ref(null);
@@ -26,22 +34,22 @@ const commonMenuItems: MenuItem[] = [
     {
         route: "football",
         title: "Футбол",
-        icon: "@/assets/sports/football.svg",
+        icon: getImageUrl('football'),
     },
     {
         route: "hockey",
         title: "Хоккей",
-        icon: "@/assets/sports/hockey.svg",
+        icon: getImageUrl("hockey"),
     },
     {
         route: "boxing",
         title: "Бокс",
-        icon: "@/assets/sports/boxing.svg",
+        icon: getImageUrl("boxing"),
     },
     {
         route: "basketball",
         title: "Баскетбол",
-        icon: "@/assets/sports/basketball.svg",
+        icon: getImageUrl("basketball"),
     },
 ];
 
@@ -74,10 +82,11 @@ commonMenuItems.forEach((item) => {
 
 watch(menuWidth, updateMenu);
 watch(windowWidth, updateMenu);
-
 </script>
 
 <template>
+
+
     <div class="header__bottom">
         <div class="container header__container">
             <HeaderMainNav ref="headerMenuElement" :menuItems="menuItems" v-model="menuItemsWidths" />
