@@ -6,25 +6,12 @@ import vueJsx from "@vitejs/plugin-vue-jsx";
 import vueDevTools from "vite-plugin-vue-devtools";
 
 // https://vitejs.dev/config/
-export default defineConfig(({ command }) => {
-    if (command === "build") {
-        return {
-            base: "./",
-            plugins: [vue(), vueJsx(), vueDevTools()],
-            resolve: {
-                alias: {
-                    "@": fileURLToPath(new URL("./src", import.meta.url)),
-                },
-            },
-        };
-    } else {
-        return {
-            plugins: [vue(), vueJsx(), vueDevTools()],
-            resolve: {
-                alias: {
-                    "@": fileURLToPath(new URL("./src", import.meta.url)),
-                },
-            },
-        };
-    }
+export default defineConfig({
+    base: "./",
+    plugins: [vue(), vueJsx(), vueDevTools()],
+    resolve: {
+        alias: {
+            "@": fileURLToPath(new URL("./src", import.meta.url)),
+        },
+    },
 });
