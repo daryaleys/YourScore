@@ -2,7 +2,7 @@ import "./main.scss";
 import { createApp } from "vue";
 import { createPinia } from "pinia";
 import App from "./App.vue";
-import { createRouter, createWebHistory } from "vue-router";
+import { createRouter, createWebHashHistory  } from "vue-router";
 import Football from "./views/Football.vue";
 import Hockey from "./views/Hockey.vue";
 import Boxing from "./views/Boxing.vue";
@@ -34,7 +34,7 @@ const headerNavRoutes = <const>[
 export type HeaderNavRouteNames = (typeof headerNavRoutes)[number]["name"];
 
 const router = createRouter({
-	history: createWebHistory(),
+	history: createWebHashHistory(),
 	routes: [
 		{
 			path: "/",
